@@ -1,10 +1,9 @@
 library(readr)
 
-#csv_path <- Sys.getenv("CSV_PATH")
+#setwd(TO SET)
 
-data <- read.csv("Sentiment_it_tweet_2023.csv", sep=";")
+data <- read.csv("Sentiment_it_tweet_2023.csv", sep = ";", header = TRUE)
 
 frequency <- table(data$sentiment)
 print(frequency)
 plot(frequency)
-
