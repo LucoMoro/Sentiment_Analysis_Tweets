@@ -1,17 +1,32 @@
 # Carica il pacchetto necessario
 library(stringr)
 
+#############################################################################################
+################################### Dataset import ##########################################
+#############################################################################################
 # Leggi il dataset
 data <- read.csv('./Sentiment_it_tweet_2023.csv', sep = ";", header = TRUE)
 
+
+#############################################################################################
+############################ Dataset filtering & cleaning ###################################
+#############################################################################################
+
 df <- data %>%
-  filter(data$score >= 0.7)
+  filter(score >= 0.7)
+
+df$text <- tolower(df$text)
+
+#############################################################################################
+################################### Unique hashtags extraction ##############################
+#############################################################################################
 
 # Estrai tutti gli hashtag dalla colonna 'text'
-all_hashtags <- unlist(str_extract_all(df$text, "#\\S+"))
+all_hashtags <- unlist(str_extract_all(df$text, "#\\w+"))
 
+clean_hashtags <- str_replace_all(all_hashtags, "[[:punct:]]$", "")
 # Calcola la frequenza di ogni hashtag
-hashtag_frequency <- table(all_hashtags)
+hashtag_frequency <- table(clean_hashtags)
 
 # Ordina per frequenza decrescente
 hashtag_ordered <- sort(hashtag_frequency, decreasing = TRUE)
@@ -32,5 +47,43 @@ barplot(top_50_hashtags,
         xlab = "Hashtag",
         ylab = "Frequency",
         cex.names = 0.7)  # Imposta la dimensione delle etichette
+
+
+#############################################################################################
+################################### Unique hashtags time series #############################
+#############################################################################################
+
+# Adapts the date format to Y-M-D excluding
+df$extractedts <- as.Date(df$extractedts)
+
+# Filters all the tweets that contain the Ucraina hashtag
+ucraina_hashtag <- df %>%
+  filter(str_detect(text, "(?i)#ucraina"))
+
+# Groups the frequency of Ucraina hashtags by day
+daily_ucraina_hashtag <- ucraina_hashtag %>%
+  group_by(extractedts) %>%
+  summarise(Frequency = n())
+
+plot(daily_ucraina_hashtag$extractedts, daily_ucraina_hashtag$Frequency, type = "o", col = "steelblue",
+    main = "Daily frequency of #Ucraina",
+    xlab = "Date", ylab = "Frequency")
+
+
+#############################################################################################
+################################### Positive tweets time series #############################
+#############################################################################################
+
+positive_tweets <- df %>%
+  filter(sentiment == "pos")
+
+daily_positive_tweets <- positive_tweets %>%
+  group_by(extractedts) %>%
+  summarise(Frequency = n())
+
+plot(daily_positive_tweets$extractedts, daily_positive_tweets$Frequency, type = "o", col = "steelblue",
+     main = "Daily frequency of positive tweets",
+     xlab = "Date", ylab = "Frequency")
+
 
 
