@@ -12,10 +12,11 @@ data <- read.csv('./Sentiment_it_tweet_2023.csv', sep = ";", header = TRUE)
 ############################ Dataset filtering & cleaning ###################################
 #############################################################################################
 
+data$text <- tolower(data$text)
+
 df <- data %>%
   filter(score >= 0.7)
 
-df$text <- tolower(df$text)
 
 #############################################################################################
 ################################### Unique hashtags extraction ##############################
@@ -66,8 +67,8 @@ daily_ucraina_hashtag <- ucraina_hashtag %>%
   summarise(Frequency = n())
 
 plot(daily_ucraina_hashtag$extractedts, daily_ucraina_hashtag$Frequency, type = "o", col = "steelblue",
-    main = "Daily frequency of #Ucraina",
-    xlab = "Date", ylab = "Frequency")
+     main = "Daily frequency of #Ucraina",
+     xlab = "Date", ylab = "Frequency")
 
 
 #############################################################################################
@@ -84,6 +85,42 @@ daily_positive_tweets <- positive_tweets %>%
 plot(daily_positive_tweets$extractedts, daily_positive_tweets$Frequency, type = "o", col = "steelblue",
      main = "Daily frequency of positive tweets",
      xlab = "Date", ylab = "Frequency")
+
+nonbot_positive_tweets <- data %>%
+  filter(sentiment == "pos")
+
+response_positive_tweets <- df %>%
+  filter(sentiment == "pos") %>%
+  filter(is_retweet == "True")
+
+#############################################################################################
+######################################### Response to RQ_1 ##################################
+#############################################################################################
+
+# Extracts the table of hashtags with the frequency (N_x)
+rq1_all_hashtags <- unlist(str_extract_all(data$text, "#\\w+"))
+
+rq1_flat_hashtags <- str_replace_all(rq1_all_hashtags, "[[:punct:]]$", "")
+
+rq1_hashtag_table <- as.data.frame(table(rq1_flat_hashtags))
+colnames(rq1_hashtag_table) <- c("Hashtag", "Frequency")
+
+rq1_hashtag_table <- rq1_hashtag_table[order(-rq1_hashtag_table$Frequency), ]
+
+rq1_hashtag_rows <- nrow(rq1_hashtag_table)
+print(rq1_hashtag_rows)
+
+
+# Extracts the number of tweets with at least one hashtag (N_y)
+rq1_tweets_with_hashtags <- grepl("#\\w+", data$text)
+
+rq1_n_tweets_with_hashtag <- sum(rq1_tweets_with_hashtags)
+
+
+# Extracts the number of tweets with or without hashtags (N_z)
+rq1_data_rows <- nrow(data)
+print(rq1_data_rows)
+
 
 
 
