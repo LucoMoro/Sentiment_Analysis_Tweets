@@ -1,5 +1,6 @@
 # Carica il pacchetto necessario
 library(stringr)
+library(xtable)
 
 #############################################################################################
 ################################### Dataset import ##########################################
@@ -97,29 +98,52 @@ response_positive_tweets <- df %>%
 ######################################### Response to RQ_1 ##################################
 #############################################################################################
 
-# Extracts the table of hashtags with the frequency (N_x)
-rq1_all_hashtags <- unlist(str_extract_all(data$text, "#\\w+"))
+# Extracts the number of all hashtags used in tweets (N_x)
+RQ1_extracted_hashtags <- unlist(str_extract_all(data$text, "#\\w+"))
 
-rq1_flat_hashtags <- str_replace_all(rq1_all_hashtags, "[[:punct:]]$", "")
+RQ1_flat_hashtags <- str_replace_all(RQ1_extracted_hashtags, "[[:punct:]]$", "")
 
-rq1_hashtag_table <- as.data.frame(table(rq1_flat_hashtags))
-colnames(rq1_hashtag_table) <- c("Hashtag", "Frequency")
+RQ1_hashtag_table <- as.data.frame(table(RQ1_flat_hashtags))
+colnames(RQ1_hashtag_table) <- c("Hashtag", "Frequency")
 
-rq1_hashtag_table <- rq1_hashtag_table[order(-rq1_hashtag_table$Frequency), ]
+RQ1_hashtag_table <- RQ1_hashtag_table[order(-RQ1_hashtag_table$Frequency), ]
 
-rq1_hashtag_rows <- nrow(rq1_hashtag_table)
-print(rq1_hashtag_rows)
+RQ1_Nx <- sum(RQ1_hashtag_table$Frequency)
+print(RQ1_Nx)
 
 
 # Extracts the number of tweets with at least one hashtag (N_y)
-rq1_tweets_with_hashtags <- grepl("#\\w+", data$text)
+RQ1_tweets_with_hashtags <- grepl("#\\w+", data$text)
 
-rq1_n_tweets_with_hashtag <- sum(rq1_tweets_with_hashtags)
+RQ1_Ny <- sum(RQ1_tweets_with_hashtags)
+print(RQ1_Ny)
 
 
 # Extracts the number of tweets with or without hashtags (N_z)
-rq1_data_rows <- nrow(data)
-print(rq1_data_rows)
+RQ1_Nz <- nrow(data)
+print(RQ1_Nz)
+
+# Extract the top 50 hashtags
+RQ1_50_hashtags <- head(RQ1_hashtag_table, 50)
+
+# Format the number
+RQ1_formatted_numbers <- format(RQ1_50_hashtags$Frequency, big.mark = ",", scientific = FALSE)
+
+# Creates the latex table while truncating to the second decimal
+RQ1_latex_table <- data.frame(
+  Hashtag = RQ1_50_hashtags$Hashtag,
+  Frequency = RQ1_formatted_numbers,
+  F_1 = format(round((RQ1_50_hashtags$Frequency * 100) / RQ1_Nx, 2), nsmall = 2),
+  F_2 = format(round((RQ1_50_hashtags$Frequency * 100) / RQ1_Ny, 2), nsmall = 2),
+  F_3 = format(round((RQ1_50_hashtags$Frequency * 100) / RQ1_Nz, 2), nsmall = 2)
+)
+
+RQ1_latex_format <- xtable(RQ1_latex_table, caption = "The most used hashtags in Italian tweets in the streaming data collection", label = "tab:top50hashtags")
+print(RQ1_latex_format, file = "RQ1_hashtag_table.tex", include.rownames = FALSE)
+
+print(head(RQ1_latex_table))
+
+
 
 
 
