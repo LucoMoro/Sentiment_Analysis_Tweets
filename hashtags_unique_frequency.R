@@ -1,6 +1,7 @@
 # Carica il pacchetto necessario
 library(stringr)
 library(xtable)
+library(corrplot)
 
 #############################################################################################
 ################################### Dataset import ##########################################
@@ -125,6 +126,7 @@ print(RQ1_Nz)
 
 # Extract the top 50 hashtags
 RQ1_50_hashtags <- head(RQ1_hashtag_table, 50)
+head(RQ1_50_hashtags)
 
 # Format the number
 RQ1_formatted_numbers <- format(RQ1_50_hashtags$Frequency, big.mark = ",", scientific = FALSE)
@@ -143,8 +145,40 @@ print(RQ1_latex_format, file = "RQ1_hashtag_table.tex", include.rownames = FALSE
 
 print(head(RQ1_latex_table))
 
+#############################################################################################
+######################################### Response to RQ_2 ##################################
+#############################################################################################
 
 
+extract_hashtags <- function(tweet) {
+  hashtags <- unlist(str_extract_all(tweet, "#\\w+"))
+  return(hashtags)
+}
 
+# Extract the hashtags from column "text"
+data$hashtag_list <- lapply(data$text, extract_hashtags)
 
+# Filters hashtags based on RQ1_50_hashtags
+data$filtered_hashtag_list <- lapply(data$hashtag_list, function(hashtags) {
+  hashtags[hashtags %in% RQ1_50_hashtags$Hashtag]
+})
 
+# Creates a new dataset of tweets containing at least one top 50 hashtag
+RQ2_data <- data[lengths(data$filtered_hashtag_list) > 0, ]
+
+RQ2_hashtag_vector <- unique(unlist(RQ2_data$filtered_hashtag_list))
+
+# Creates a binary matrix for RQ2_data (1 means that the hasthag is contained in the tweet, 0 otherwise)
+RQ2_binary_matrix <- do.call(rbind, lapply(RQ2_data$filtered_hashtag_list, function(hashtags){
+  as.numeric(RQ2_hashtag_vector %in% hashtags)
+}))
+colnames(RQ2_binary_matrix) <- RQ2_hashtag_vector
+
+# Calculates the Perason coefficient
+RQ2_correlation_matrix <- cor(RQ2_binary_matrix, method = "pearson")
+
+# Plots the results
+corrplot(RQ2_correlation_matrix, method = "color",
+         tl.col = "black",
+         tl.cex = 0.6,
+         tl.srt = 90)
