@@ -182,3 +182,29 @@ corrplot(RQ2_correlation_matrix, method = "color",
          tl.col = "black",
          tl.cex = 0.6,
          tl.srt = 90)
+
+# Puts the diagonal to 0 (otherwise the correlation value is 1)
+diag(RQ2_correlation_matrix) <- 0
+
+# Checks wether the correlation is >= .70 and <= -70
+RQ2_significant_correlations <- abs(RQ2_correlation_matrix) >= 0.70
+
+# Creates the dataframe
+RQ2_significant_pairs <- data.frame(
+  hashtag_1 = rownames(RQ2_correlation_matrix)[which(RQ2_significant_correlations, arr.ind = TRUE)[, 1]],
+  hashtag_2 = colnames(RQ2_correlation_matrix)[which(RQ2_significant_correlations, arr.ind = TRUE)[, 2]],
+  correlation = RQ2_correlation_matrix[which(RQ2_significant_correlations, arr.ind = TRUE)]
+)
+
+# Filters out correlations
+RQ2_significant_pairs <- RQ2_significant_pairs[
+  abs(RQ2_significant_pairs$correlation) >= 0.70,
+]
+
+# Orders the dataframe
+RQ2_significant_pairs_sorted <- RQ2_significant_pairs %>%
+  arrange(desc(correlation))
+
+# Deletes every even row in order to remove duplicated combinations of hashtags
+RQ2_significant_pairs_reduced <- RQ2_significant_pairs_sorted[seq(1, nrow(RQ2_significant_pairs_sorted), by=2), ]
+
