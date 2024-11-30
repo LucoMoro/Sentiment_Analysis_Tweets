@@ -199,7 +199,7 @@ RQ2_significant_pairs <- data.frame(
 # Filters out correlations
 RQ2_significant_pairs <- RQ2_significant_pairs[
   abs(RQ2_significant_pairs$correlation) >= 0.70,
-]
+  ]
 
 # Orders the dataframe
 RQ2_significant_pairs_sorted <- RQ2_significant_pairs %>%
@@ -208,3 +208,33 @@ RQ2_significant_pairs_sorted <- RQ2_significant_pairs %>%
 # Deletes every even row in order to remove duplicated combinations of hashtags
 RQ2_significant_pairs_reduced <- RQ2_significant_pairs_sorted[seq(1, nrow(RQ2_significant_pairs_sorted), by=2), ]
 
+
+RQ2_latex_table <- data.frame(
+  Hashtag_1 = RQ2_significant_pairs_reduced$hashtag_1,
+  Hashtag_2 = RQ2_significant_pairs_reduced$hashtag_2,
+  Correlazione = RQ2_significant_pairs_reduced$correlation
+)
+
+RQ2_latex_format <- xtable(RQ2_latex_table, caption = "Le coppie di hashtag con frequenza superiore o uguale a 0.70 ed inferiore o uguale a -0.70", label = "tab:corr_mat")
+print(RQ2_latex_format, file = "RQ2_hashtag_table.tex", include.rownames = FALSE)
+
+print(head(RQ2_latex_table))
+
+
+# Extract correlations for #ucraina
+RQ2_ucraina_correlations <- RQ2_correlation_matrix["#ucraina", ]
+
+# Create a data frame with hashtags and correlations
+RQ2_ucraina_df <- data.frame(
+  hashtag = names(RQ2_ucraina_correlations),
+  correlation = RQ2_ucraina_correlations
+)
+
+RQ2_ucraina_df <- RQ2_ucraina_df[order(RQ2_ucraina_df$correlation, decreasing = TRUE), ]
+
+
+RQ2_ucraina_df_latex <- xtable(RQ2_ucraina_df, caption="Correlazione tra #ucraina e i top 50 hashtags", label="tab:ucraina_corr")
+print(RQ2_ucraina_df_latex, file = "RQ2_ucraina_df_latex.tex", include.rownames = FALSE)
+
+# View the data frame
+print(head(RQ2_ucraina_df_latex))
