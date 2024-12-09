@@ -16,11 +16,11 @@ data <- read.csv('./Sentiment_it_tweet_2023.csv', sep = ";", header = TRUE)
 
 data$text <- tolower(data$text)
 
-df <- data %>%
-  filter(score >= 0.7)
-
 # Adapts the date format to Y-M-D excluding
-df$extractedts <- as.Date(df$extractedts)
+data$extractedts <- as.Date(data$extractedts)
+
+
+#filter(score >= 0.0)
 
 
 #############################################################################################
@@ -159,15 +159,15 @@ extract_hashtags <- function(tweet) {
 }
 
 # Extract the hashtags from column "text"
-df$hashtag_list <- lapply(df$text, extract_hashtags)
+data$hashtag_list <- lapply(data$text, extract_hashtags)
 
 # Filters hashtags based on RQ1_50_hashtags
-df$filtered_hashtag_list <- lapply(df$hashtag_list, function(hashtags) {
+data$filtered_hashtag_list <- lapply(data$hashtag_list, function(hashtags) {
   hashtags[hashtags %in% RQ1_50_hashtags$Hashtag]
 })
 
 # Creates a new dataset of tweets containing at least one top 50 hashtag
-RQ2_data <- df[lengths(df$filtered_hashtag_list) > 0, ]
+RQ2_data <- data[lengths(data$filtered_hashtag_list) > 0, ]
 
 RQ2_hashtag_vector <- unique(unlist(RQ2_data$filtered_hashtag_list))
 
@@ -247,7 +247,7 @@ print(head(RQ2_ucraina_df_latex))
 #############################################################################################
 
 # Filter rows containing "#ucraina" in the filtered_hashtag_list column
-RQ3_ucraina_data <- df %>%
+RQ3_ucraina_data <- data %>%
   filter(sapply(filtered_hashtag_list, function(x) "#ucraina" %in% x))
 
 
@@ -337,3 +337,44 @@ plot(neutral_data$extractedts,
      type = "l", col = "darkgreen",
      xlab = "Date", ylab = "Frequency",
      main = "Neutral Sentiment Frequency Over Time for #ucraina")
+
+#############################################################################################
+######################################### Response to RQ_4 ##################################
+#############################################################################################
+
+bot_tweets <- data %>%
+  filter(score >= 0.7)
+
+# Filter rows containing "#ucraina" in the filtered_hashtag_list column
+RQ4_zelenskywarcriminal_data <- bot_tweets %>%
+  filter(sapply(filtered_hashtag_list, function(x) "#zelenskywarcriminal" %in% x))
+
+# Filter rows containing "#ucraina" in the filtered_hashtag_list column
+RQ4_zelenskywarcriminal_retweet_data <- bot_tweets %>%
+  filter(is_retweet == "True") %>%
+  filter(sapply(filtered_hashtag_list, function(x) "#zelenskywarcriminal" %in% x))
+
+# Group by day and sentiment, and count occurrences
+RQ4_zelenskywarcriminal_freq <- RQ4_zelenskywarcriminal_data %>%
+  group_by(extractedts, sentiment) %>%
+  summarise(frequency = n(), .groups = "drop")
+
+# Group by day and sentiment, and count occurrences
+RQ4_zelenskywarcriminal_retweet_freq <- RQ4_zelenskywarcriminal_retweet_data %>%
+  group_by(extractedts, sentiment) %>%
+  summarise(frequency = n(), .groups = "drop")
+
+#Normalize frequency by the maximum frequency within each sentiment group
+RQ4_zelenskywarcriminal_normalized <- RQ4_zelenskywarcriminal_freq %>%
+  group_by(sentiment) %>%
+  mutate(normalized_frequency = frequency / max(frequency)) %>%  # Normalize per sentiment group
+  ungroup() %>%  # Remove grouping after mutation
+  select(extractedts, sentiment, normalized_frequency)
+
+#Normalize frequency by the maximum frequency within each sentiment group
+RQ4_zelenskywarcriminal_retweet_normalized <- RQ4_zelenskywarcriminal_retweet_freq %>%
+  group_by(sentiment) %>%
+  mutate(normalized_frequency = frequency / max(frequency)) %>%  # Normalize per sentiment group
+  ungroup() %>%  # Remove grouping after mutation
+  select(extractedts, sentiment, normalized_frequency)
+
