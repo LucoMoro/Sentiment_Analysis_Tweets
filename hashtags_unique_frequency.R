@@ -2,22 +2,38 @@
 library(stringr)
 library(xtable)
 library(corrplot)
+library(dplyr)
 
 #############################################################################################
 ################################### Dataset import ##########################################
 #############################################################################################
 # Leggi il dataset
-data <- read.csv('./Sentiment_it_tweet_2023.csv', sep = ";", header = TRUE)
+initial_data <- read.csv('./Sentiment_it_tweet_2023.csv', sep = ";", header = TRUE)
 
 
 #############################################################################################
 ############################ Dataset filtering & cleaning ###################################
 #############################################################################################
 
-data$text <- tolower(data$text)
+initial_data$text <- tolower(initial_data$text)
 
 # Adapts the date format to Y-M-D excluding
-data$extractedts <- as.Date(data$extractedts)
+initial_data$extractedts <- as.Date(initial_data$extractedts)
+
+data <- initial_data %>%
+  select(-userid, -acctdesc, -location, -following, -followers, -totaltweets, -usercreatedts,
+         -tweetid, -tweetcreatedts, -retweetcount,  -hashtags, -language, -favorite_count,
+         -original_tweet_id, -original_tweet_userid, -original_tweet_username,
+         -in_reply_to_status_id, -in_reply_to_user_id, -in_reply_to_screen_name,
+         -quoted_status_id, -quoted_status_userid, -quoted_status_username,
+         -is_quote_status, -username)
+
+
+min_score <- min(data$score)
+max_score <- max(data$score)
+
+print(min_score)
+print(max_score)
 
 
 #filter(score >= 0.0)
@@ -208,9 +224,12 @@ RQ2_significant_pairs <- RQ2_significant_pairs[
 RQ2_significant_pairs_sorted <- RQ2_significant_pairs %>%
   arrange(desc(correlation))
 
-# Deletes every even row in order to remove duplicated combinations of hashtags
-RQ2_significant_pairs_reduced <- RQ2_significant_pairs_sorted[seq(1, nrow(RQ2_significant_pairs_sorted), by=2), ]
-
+if(nrow(RQ2_significant_pairs_sorted) > 0) {
+  # Deletes every even row in order to remove duplicated combinations of hashtags
+  RQ2_significant_pairs_reduced <- RQ2_significant_pairs_sorted[seq(1, nrow(RQ2_significant_pairs_sorted), by=1), ]
+} else {
+  RQ2_significant_pairs_reduced <- RQ2_significant_pairs_sorted
+}
 
 RQ2_latex_table <- data.frame(
   Hashtag_1 = RQ2_significant_pairs_reduced$hashtag_1,
@@ -262,6 +281,10 @@ RQ3_ucraina_normalized <- RQ3_ucraina_freq %>%
   mutate(normalized_frequency = frequency / max(frequency)) %>%  # Normalize per sentiment group
   ungroup() %>%  # Remove grouping after mutation
   select(extractedts, sentiment, normalized_frequency)
+
+# Check for NA values in the negative sentiment data
+na_rows <- is.na(RQ3_ucraina_freq$frequency) | is.na(RQ3_ucraina_freq$extractedts)
+print(RQ3_ucraina_freq[na_rows, ])
 
 # Prepare the plot with the first sentiment (negative) line
 plot(RQ3_ucraina_freq$extractedts[RQ3_ucraina_freq$sentiment == "neg"],
@@ -365,16 +388,47 @@ RQ4_zelenskywarcriminal_retweet_freq <- RQ4_zelenskywarcriminal_retweet_data %>%
   summarise(frequency = n(), .groups = "drop")
 
 #Normalize frequency by the maximum frequency within each sentiment group
-RQ4_zelenskywarcriminal_normalized <- RQ4_zelenskywarcriminal_freq %>%
-  group_by(sentiment) %>%
-  mutate(normalized_frequency = frequency / max(frequency)) %>%  # Normalize per sentiment group
-  ungroup() %>%  # Remove grouping after mutation
-  select(extractedts, sentiment, normalized_frequency)
+#RQ4_zelenskywarcriminal_normalized <- RQ4_zelenskywarcriminal_freq %>%
+#  group_by(sentiment) %>%
+#  mutate(normalized_frequency = frequency / max(frequency)) %>%  # Normalize per sentiment group
+#  ungroup() %>%  # Remove grouping after mutation
+#  select(extractedts, sentiment, normalized_frequency)
 
 #Normalize frequency by the maximum frequency within each sentiment group
-RQ4_zelenskywarcriminal_retweet_normalized <- RQ4_zelenskywarcriminal_retweet_freq %>%
-  group_by(sentiment) %>%
-  mutate(normalized_frequency = frequency / max(frequency)) %>%  # Normalize per sentiment group
-  ungroup() %>%  # Remove grouping after mutation
-  select(extractedts, sentiment, normalized_frequency)
+#RQ4_zelenskywarcriminal_retweet_normalized <- RQ4_zelenskywarcriminal_retweet_freq %>%
+#  group_by(sentiment) %>%
+#  mutate(normalized_frequency = frequency / max(frequency)) %>%  # Normalize per sentiment group
+#  ungroup() %>%  # Remove grouping after mutation
+ # select(extractedts, sentiment, normalized_frequency)
+
+# Prepare the plot with the first sentiment (negative) line
+plot(RQ4_zelenskywarcriminal_freq$extractedts[RQ4_zelenskywarcriminal_freq$sentiment == "neg"],
+     RQ4_zelenskywarcriminal_freq$frequency[RQ4_zelenskywarcriminal_freq$sentiment == "neg"],
+     type = "l", col = "blue", xlab = "Date", ylab = "Frequency",
+     main = "Negative Frequency Over Time for #zelenskywarcriminal")
+
+# Add the second sentiment (neutral) line
+lines(RQ4_zelenskywarcriminal_retweet_freq$extractedts[RQ4_zelenskywarcriminal_retweet_freq$sentiment == "neg"],
+      RQ4_zelenskywarcriminal_retweet_freq$frequency[RQ4_zelenskywarcriminal_retweet_freq$sentiment == "neg"],
+      col = "red")
+
+# Add a legend
+legend("bottomleft", legend = c("Tweets", "Retweets"),
+       col = c("blue", "red"), lty = 1)
+
+
+#############################################################################################
+######################################### Response to RQ_5 ##################################
+#############################################################################################
+
+gpt_data <- read.csv('./dataset_domanda_risposta.csv', sep = ",", header = TRUE)
+
+# Adapts the date format to Y-M-D excluding
+gpt_data$extractedts <- as.Date(gpt_data$extractedts)
+
+data <- gpt_data
+
+
+
+
 
