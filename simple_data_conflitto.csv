@@ -1,0 +1,1201 @@
+text,is_retweet,extractedts,sentiment,score
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-02-27,neg,0.6577657
+Missili russi colpiscono obiettivi civili. #guerra,True,2023-02-25,neu,0.5917341
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-02-26,pos,0.9477588
+Il conflitto non ha fine serve diplomazia. #Ucraina,False,2023-03-02,neu,0.3471674
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-03-04,neg,0.8306995
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-03-04,neg,0.5458101
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-01,neu,0.8258033
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-02-28,neg,0.5217017
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-02-28,neg,0.5831341
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-25,pos,0.8157692
+Zelensky chiede più aiuti militari. #UcrainaResiste,False,2023-02-26,neu,0.6600322
+L'invasione dell'Ucraina continua. #pace #Russia,True,2023-02-27,neu,0.9226706
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-03-03,neg,0.6773501
+Zelensky chiede più aiuti militari. #UcrainaResiste,True,2023-02-28,pos,0.4890496
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-28,pos,0.7837676
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-26,neg,0.3916737
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-03-03,neu,0.6097839
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-25,neu,0.4838498
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-03-04,pos,0.9441823
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-26,neu,0.8838503
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-03-01,pos,0.4705137
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-02-25,pos,0.4416404
+Il conflitto non ha fine serve diplomazia. #Ucraina,False,2023-03-03,neg,0.7220012
+L'invasione dell'Ucraina continua. #pace #Russia,True,2023-03-04,neg,0.5601681
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-02,neg,0.7696882
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-03-02,pos,0.7664343
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,True,2023-03-02,neu,0.4173563
+L'invasione dell'Ucraina continua. #pace #Russia,True,2023-03-02,pos,0.8758835
+L'invasione dell'Ucraina continua. #pace #Russia,True,2023-03-03,neg,0.5676336
+Zelensky chiede più aiuti militari. #UcrainaResiste,True,2023-03-03,pos,0.4780071
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-02-28,neg,0.3363085
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-28,neg,0.9512768
+Il conflitto non ha fine serve diplomazia. #Ucraina,False,2023-03-03,pos,0.363625
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-28,pos,0.8013446
+L'invasione dell'Ucraina continua. #pace #Russia,True,2023-02-25,pos,0.4633136
+Il conflitto non ha fine serve diplomazia. #Ucraina,False,2023-03-02,neu,0.3575156
+Nuove sanzioni contro la Russia annunciate. #politica,True,2023-02-28,neg,0.7879423
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-26,neu,0.3583574
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-03-02,pos,0.6768262
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-02-26,neg,0.7279262
+Zelensky chiede più aiuti militari. #UcrainaResiste,False,2023-03-04,neg,0.4123045
+Missili russi colpiscono obiettivi civili. #guerra,True,2023-03-02,neu,0.599235
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-02-28,pos,0.3880509
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-03-04,neg,0.4413987
+Missili russi colpiscono obiettivi civili. #guerra,True,2023-03-02,neu,0.7898042
+Nuove sanzioni contro la Russia annunciate. #politica,True,2023-02-26,pos,0.4774008
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-02-27,pos,0.6425547
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-02-26,neg,0.5451688
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-26,neg,0.7886833
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-03-04,neg,0.4499726
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,True,2023-03-01,neu,0.7140665
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-01,neu,0.4897886
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-02-27,pos,0.9219262
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-02-26,pos,0.9389899
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-02-28,neg,0.919757
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-28,neu,0.6347188
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-03-04,pos,0.3900146
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-02-27,pos,0.8569095
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-02,pos,0.6044439
+Missili russi colpiscono obiettivi civili. #guerra,True,2023-03-03,neu,0.4556743
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-03-02,neu,0.6661592
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-02-28,pos,0.3566839
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-02-27,neu,0.544304
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-27,neg,0.3818909
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-02-27,neg,0.6234567
+Missili russi colpiscono obiettivi civili. #guerra,True,2023-03-01,pos,0.8752447
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,True,2023-02-26,neu,0.3638659
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-02-26,neg,0.7388548
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-28,neu,0.6304585
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-03-03,pos,0.3835276
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-02-27,neg,0.8335896
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-03-01,neu,0.4040221
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-26,pos,0.381344
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-02-27,pos,0.8801998
+L'invasione dell'Ucraina continua. #pace #Russia,True,2023-03-04,pos,0.4229457
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-03-04,neg,0.9266997
+Il conflitto non ha fine serve diplomazia. #Ucraina,False,2023-02-28,neg,0.5966693
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-03-02,pos,0.445715
+Il conflitto non ha fine serve diplomazia. #Ucraina,False,2023-02-26,neu,0.4216133
+Zelensky chiede più aiuti militari. #UcrainaResiste,False,2023-03-03,neu,0.6777656
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,True,2023-03-04,neg,0.9319722
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-02,pos,0.3634191
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-03-02,neu,0.624702
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-03-01,pos,0.7922343
+Missili russi colpiscono obiettivi civili. #guerra,True,2023-03-04,neu,0.9698546
+Nuove sanzioni contro la Russia annunciate. #politica,True,2023-02-28,neu,0.8143735
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-03-01,pos,0.407994
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-03-03,neg,0.8164457
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-02-28,neg,0.871369
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-04,pos,0.7475655
+Missili russi colpiscono obiettivi civili. #guerra,True,2023-03-04,pos,0.9493169
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-28,neu,0.3935316
+Il conflitto non ha fine serve diplomazia. #Ucraina,False,2023-02-28,neu,0.854591
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-01,neg,0.924199
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-02-27,neg,0.6042137
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-03-04,neg,0.8412385
+Nuove sanzioni contro la Russia annunciate. #politica,True,2023-03-03,neg,0.8528801
+Zelensky chiede più aiuti militari. #UcrainaResiste,True,2023-02-25,neg,0.852656
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-27,pos,0.9590445
+Zelensky chiede più aiuti militari. #UcrainaResiste,True,2023-03-03,neg,0.3777365
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-03-04,neg,0.7342396
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-02-28,neg,0.5799743
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-02-28,neu,0.5248176
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-02-25,neu,0.7339561
+Il conflitto non ha fine serve diplomazia. #Ucraina,False,2023-03-02,pos,0.5667649
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-01,neu,0.6882046
+Zelensky chiede più aiuti militari. #UcrainaResiste,False,2023-02-26,neg,0.6172735
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-03-01,neu,0.3895473
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-02-26,pos,0.8167554
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-02-27,neu,0.677494
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-03-01,neu,0.5491122
+Zelensky chiede più aiuti militari. #UcrainaResiste,False,2023-03-02,neu,0.7025013
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-03-03,neu,0.961292
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-03-03,neg,0.5649472
+L'invasione dell'Ucraina continua. #pace #Russia,True,2023-02-27,pos,0.6819073
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-02-26,pos,0.8118264
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-03-02,neu,0.9469745
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-03-04,neu,0.9668634
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-28,neu,0.3652315
+Il conflitto non ha fine serve diplomazia. #Ucraina,False,2023-03-02,neg,0.8512771
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-02-27,neg,0.8435269
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-01,pos,0.7916459
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-02-26,neg,0.5172899
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-03,neu,0.8371906
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,True,2023-03-02,neu,0.4770519
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-02-25,pos,0.4080897
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-03-03,neg,0.8036268
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-03-03,neg,0.3428739
+Zelensky chiede più aiuti militari. #UcrainaResiste,True,2023-03-04,neu,0.7044025
+Zelensky chiede più aiuti militari. #UcrainaResiste,True,2023-02-27,neg,0.3759038
+Zelensky chiede più aiuti militari. #UcrainaResiste,False,2023-02-27,pos,0.5117663
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-03-02,neu,0.8433832
+Missili russi colpiscono obiettivi civili. #guerra,True,2023-03-02,neg,0.5973028
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-04,pos,0.9078927
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-02-27,neu,0.8075064
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-02-27,pos,0.7449913
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-02-26,neg,0.7533642
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-03-03,neg,0.6992891
+Zelensky chiede più aiuti militari. #UcrainaResiste,False,2023-02-26,neu,0.6974837
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-03-02,neg,0.710348
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,True,2023-03-01,neg,0.4979469
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-02-27,pos,0.6458037
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,True,2023-02-26,neu,0.3612086
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-02,neu,0.7563232
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-03-04,neu,0.9006421
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-03-02,pos,0.9038245
+L'invasione dell'Ucraina continua. #pace #Russia,True,2023-02-27,neu,0.5152317
+Nuove sanzioni contro la Russia annunciate. #politica,True,2023-02-28,pos,0.4109067
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-03-04,neu,0.8359424
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-03-01,neu,0.575004
+Nuove sanzioni contro la Russia annunciate. #politica,True,2023-02-27,pos,0.8433931
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-03-04,neu,0.4653497
+Nuove sanzioni contro la Russia annunciate. #politica,True,2023-03-01,neu,0.6926792
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-04,neu,0.8097246
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-02-25,neu,0.5793203
+Zelensky chiede più aiuti militari. #UcrainaResiste,False,2023-03-01,neg,0.521752
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-03-03,pos,0.4360655
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-03-04,pos,0.6297027
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-03-04,neg,0.8666041
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-27,neu,0.8363574
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-25,neu,0.8761284
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-02-26,neu,0.7682865
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-02,neu,0.3914587
+Zelensky chiede più aiuti militari. #UcrainaResiste,True,2023-02-28,neg,0.8382612
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-02-26,pos,0.6878552
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-02-28,neu,0.6106039
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-02-25,pos,0.5336366
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-03-04,pos,0.6835252
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-03-01,neu,0.7047019
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,True,2023-03-04,pos,0.4133149
+Missili russi colpiscono obiettivi civili. #guerra,True,2023-02-26,pos,0.5447395
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-03-04,neu,0.9002393
+Zelensky chiede più aiuti militari. #UcrainaResiste,True,2023-02-28,neu,0.9534626
+Manifestazioni in Italia per la pace. #noallaguerra,False,2023-03-03,pos,0.5594624
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-03-01,neu,0.5064096
+Zelensky chiede più aiuti militari. #UcrainaResiste,False,2023-03-01,neg,0.7432824
+Zelensky chiede più aiuti militari. #UcrainaResiste,True,2023-02-26,neu,0.5116159
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,False,2023-02-25,neu,0.9136522
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,True,2023-02-28,pos,0.4452411
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-03-03,pos,0.6039591
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-26,pos,0.5865397
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-02,neu,0.4886876
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-03-02,neu,0.3836671
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-03,pos,0.7293113
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-02-27,neg,0.6511567
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-03,neu,0.7036469
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-03-04,neu,0.6881755
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-03-01,neu,0.8603608
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-03-02,pos,0.7091611
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-03-04,pos,0.45967
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-02-25,pos,0.6149209
+Nuove sanzioni contro la Russia annunciate. #politica,True,2023-03-01,pos,0.4093592
+Nuove sanzioni contro la Russia annunciate. #politica,True,2023-02-26,neg,0.9555079
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,False,2023-03-02,pos,0.6115253
+Il supporto internazionale all'Ucraina è fondamentale. #solidarietà,True,2023-03-04,pos,0.6083103
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,False,2023-03-02,neu,0.8769339
+Il mondo è diviso sulla risposta al conflitto. #geopolitica,True,2023-02-25,neu,0.454098
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-04,neg,0.8279638
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-27,neu,0.8686527
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,False,2023-02-28,neg,0.7815178
+Esodo di milioni di rifugiati dall'Ucraina. #solidarietà,False,2023-02-25,neu,0.5432189
+La Russia deve fermare questa aggressione. #pace,True,2023-02-27,neg,0.8632174
+Speranze di una tregua durante i negoziati. #pace,False,2023-03-01,pos,0.9123159
+Bombardamenti notturni segnalati in diverse città. #Ucraina,True,2023-02-26,neg,0.7532178
+Appelli umanitari per l'invio di aiuti all'Ucraina. #aiuti,False,2023-02-28,pos,0.8723159
+Manifestazioni globali contro l'invasione russa. #noallaguerra,True,2023-03-02,neu,0.6732175
+La comunità internazionale condanna gli attacchi russi. #crisi,False,2023-03-04,neg,0.8323176
+Nuovi aiuti militari promessi all'Ucraina. #supporto,True,2023-03-01,pos,0.7932159
+L'inflazione globale influenzata dal conflitto. #economia,False,2023-02-26,neu,0.6723197
+La popolazione civile è la principale vittima della guerra. #umanità,True,2023-02-27,neg,0.8632197
+Tweet sintetico numero 10 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,pos,0.3997968
+Tweet sintetico numero 11 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neu,0.4061504
+Tweet sintetico numero 12 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neg,0.412504
+Tweet sintetico numero 13 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,pos,0.4188575
+Tweet sintetico numero 14 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neu,0.4252111
+Tweet sintetico numero 15 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neg,0.4315647
+Tweet sintetico numero 16 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,pos,0.4379182
+Tweet sintetico numero 17 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neu,0.4442718
+Tweet sintetico numero 18 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neg,0.4506254
+Tweet sintetico numero 19 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,pos,0.4569789
+Tweet sintetico numero 20 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neu,0.4633325
+Tweet sintetico numero 21 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neg,0.469686
+Tweet sintetico numero 22 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,pos,0.4760396
+Tweet sintetico numero 23 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neu,0.4823932
+Tweet sintetico numero 24 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neg,0.4887467
+Tweet sintetico numero 25 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,pos,0.4951003
+Tweet sintetico numero 26 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neu,0.5014539
+Tweet sintetico numero 27 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neg,0.5078074
+Tweet sintetico numero 28 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,pos,0.514161
+Tweet sintetico numero 29 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neu,0.5205146
+Tweet sintetico numero 30 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neg,0.5268681
+Tweet sintetico numero 31 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,pos,0.5332217
+Tweet sintetico numero 32 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neu,0.5395752
+Tweet sintetico numero 33 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neg,0.5459288
+Tweet sintetico numero 34 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,pos,0.5522824
+Tweet sintetico numero 35 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neu,0.5586359
+Tweet sintetico numero 36 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neg,0.5649895
+Tweet sintetico numero 37 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,pos,0.5713431
+Tweet sintetico numero 38 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neu,0.5776966
+Tweet sintetico numero 39 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neg,0.5840502
+Tweet sintetico numero 40 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,pos,0.5904038
+Tweet sintetico numero 41 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neu,0.5967573
+Tweet sintetico numero 42 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neg,0.6031109
+Tweet sintetico numero 43 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,pos,0.6094645
+Tweet sintetico numero 44 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neu,0.615818
+Tweet sintetico numero 45 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neg,0.6221716
+Tweet sintetico numero 46 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,pos,0.6285251
+Tweet sintetico numero 47 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neu,0.6348787
+Tweet sintetico numero 48 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neg,0.6412323
+Tweet sintetico numero 49 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,pos,0.6475858
+Tweet sintetico numero 50 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neu,0.6539394
+Tweet sintetico numero 51 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neg,0.660293
+Tweet sintetico numero 52 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,pos,0.6666465
+Tweet sintetico numero 53 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neu,0.6730001
+Tweet sintetico numero 54 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neg,0.6793537
+Tweet sintetico numero 55 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,pos,0.6857072
+Tweet sintetico numero 56 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neu,0.6920608
+Tweet sintetico numero 57 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neg,0.6984143
+Tweet sintetico numero 58 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,pos,0.7047679
+Tweet sintetico numero 59 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neu,0.7111215
+Tweet sintetico numero 60 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neg,0.717475
+Tweet sintetico numero 61 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,pos,0.7238286
+Tweet sintetico numero 62 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neu,0.7301822
+Tweet sintetico numero 63 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neg,0.7365357
+Tweet sintetico numero 64 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,pos,0.7428893
+Tweet sintetico numero 65 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neu,0.7492429
+Tweet sintetico numero 66 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neg,0.7555964
+Tweet sintetico numero 67 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,pos,0.76195
+Tweet sintetico numero 68 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neu,0.7683036
+Tweet sintetico numero 69 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neg,0.7746571
+Tweet sintetico numero 70 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,pos,0.7810107
+Tweet sintetico numero 71 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neu,0.7873642
+Tweet sintetico numero 72 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neg,0.7937178
+Tweet sintetico numero 73 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,pos,0.8000714
+Tweet sintetico numero 74 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neu,0.8064249
+Tweet sintetico numero 75 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neg,0.8127785
+Tweet sintetico numero 76 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,pos,0.8191321
+Tweet sintetico numero 77 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neu,0.8254856
+Tweet sintetico numero 78 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neg,0.8318392
+Tweet sintetico numero 79 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,pos,0.8381928
+Tweet sintetico numero 80 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neu,0.8445463
+Tweet sintetico numero 81 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neg,0.8508999
+Tweet sintetico numero 82 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,pos,0.8572534
+Tweet sintetico numero 83 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neu,0.863607
+Tweet sintetico numero 84 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neg,0.8699606
+Tweet sintetico numero 85 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,pos,0.8763141
+Tweet sintetico numero 86 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neu,0.8826677
+Tweet sintetico numero 87 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neg,0.8890213
+Tweet sintetico numero 88 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,pos,0.8953748
+Tweet sintetico numero 89 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neu,0.9017284
+Tweet sintetico numero 90 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neg,0.908082
+Tweet sintetico numero 91 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,pos,0.9144355
+Tweet sintetico numero 92 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neu,0.9207891
+Tweet sintetico numero 93 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neg,0.9271427
+Tweet sintetico numero 94 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,pos,0.9334962
+Tweet sintetico numero 95 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neu,0.9398498
+Tweet sintetico numero 96 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neg,0.9462033
+Tweet sintetico numero 97 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,pos,0.9525569
+Tweet sintetico numero 98 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neu,0.9589105
+Tweet sintetico numero 99 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neg,0.965264
+Tweet sintetico numero 100 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,pos,0.3362612
+Tweet sintetico numero 101 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neu,0.3426148
+Tweet sintetico numero 102 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neg,0.3489683
+Tweet sintetico numero 103 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,pos,0.3553219
+Tweet sintetico numero 104 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neu,0.3616755
+Tweet sintetico numero 105 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neg,0.368029
+Tweet sintetico numero 106 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,pos,0.3743826
+Tweet sintetico numero 107 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neu,0.3807361
+Tweet sintetico numero 108 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neg,0.3870897
+Tweet sintetico numero 109 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,pos,0.3934433
+Tweet sintetico numero 110 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neu,0.3997968
+Tweet sintetico numero 111 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neg,0.4061504
+Tweet sintetico numero 112 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,pos,0.412504
+Tweet sintetico numero 113 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neu,0.4188575
+Tweet sintetico numero 114 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neg,0.4252111
+Tweet sintetico numero 115 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,pos,0.4315647
+Tweet sintetico numero 116 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neu,0.4379182
+Tweet sintetico numero 117 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neg,0.4442718
+Tweet sintetico numero 118 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,pos,0.4506254
+Tweet sintetico numero 119 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neu,0.4569789
+Tweet sintetico numero 120 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neg,0.4633325
+Tweet sintetico numero 121 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,pos,0.469686
+Tweet sintetico numero 122 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neu,0.4760396
+Tweet sintetico numero 123 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neg,0.4823932
+Tweet sintetico numero 124 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,pos,0.4887467
+Tweet sintetico numero 125 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neu,0.4951003
+Tweet sintetico numero 126 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neg,0.5014539
+Tweet sintetico numero 127 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,pos,0.5078074
+Tweet sintetico numero 128 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neu,0.514161
+Tweet sintetico numero 129 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neg,0.5205146
+Tweet sintetico numero 130 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,pos,0.5268681
+Tweet sintetico numero 131 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neu,0.5332217
+Tweet sintetico numero 132 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neg,0.5395752
+Tweet sintetico numero 133 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,pos,0.5459288
+Tweet sintetico numero 134 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neu,0.5522824
+Tweet sintetico numero 135 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neg,0.5586359
+Tweet sintetico numero 136 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,pos,0.5649895
+Tweet sintetico numero 137 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neu,0.5713431
+Tweet sintetico numero 138 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neg,0.5776966
+Tweet sintetico numero 139 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,pos,0.5840502
+Tweet sintetico numero 140 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neu,0.5904038
+Tweet sintetico numero 141 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neg,0.5967573
+Tweet sintetico numero 142 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,pos,0.6031109
+Tweet sintetico numero 143 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neu,0.6094645
+Tweet sintetico numero 144 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neg,0.615818
+Tweet sintetico numero 145 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,pos,0.6221716
+Tweet sintetico numero 146 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neu,0.6285251
+Tweet sintetico numero 147 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neg,0.6348787
+Tweet sintetico numero 148 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,pos,0.6412323
+Tweet sintetico numero 149 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neu,0.6475858
+Tweet sintetico numero 150 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neg,0.6539394
+Tweet sintetico numero 151 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,pos,0.660293
+Tweet sintetico numero 152 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neu,0.6666465
+Tweet sintetico numero 153 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neg,0.6730001
+Tweet sintetico numero 154 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,pos,0.6793537
+Tweet sintetico numero 155 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neu,0.6857072
+Tweet sintetico numero 156 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neg,0.6920608
+Tweet sintetico numero 157 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,pos,0.6984143
+Tweet sintetico numero 158 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neu,0.7047679
+Tweet sintetico numero 159 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neg,0.7111215
+Tweet sintetico numero 160 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,pos,0.717475
+Tweet sintetico numero 161 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neu,0.7238286
+Tweet sintetico numero 162 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neg,0.7301822
+Tweet sintetico numero 163 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,pos,0.7365357
+Tweet sintetico numero 164 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neu,0.7428893
+Tweet sintetico numero 165 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neg,0.7492429
+Tweet sintetico numero 166 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,pos,0.7555964
+Tweet sintetico numero 167 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neu,0.76195
+Tweet sintetico numero 168 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neg,0.7683036
+Tweet sintetico numero 169 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,pos,0.7746571
+Tweet sintetico numero 170 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neu,0.7810107
+Tweet sintetico numero 171 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neg,0.7873642
+Tweet sintetico numero 172 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,pos,0.7937178
+Tweet sintetico numero 173 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neu,0.8000714
+Tweet sintetico numero 174 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neg,0.8064249
+Tweet sintetico numero 175 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,pos,0.8127785
+Tweet sintetico numero 176 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neu,0.8191321
+Tweet sintetico numero 177 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neg,0.8254856
+Tweet sintetico numero 178 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,pos,0.8318392
+Tweet sintetico numero 179 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neu,0.8381928
+Tweet sintetico numero 180 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neg,0.8445463
+Tweet sintetico numero 181 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,pos,0.8508999
+Tweet sintetico numero 182 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neu,0.8572534
+Tweet sintetico numero 183 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neg,0.863607
+Tweet sintetico numero 184 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,pos,0.8699606
+Tweet sintetico numero 185 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,neu,0.8763141
+Tweet sintetico numero 186 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neg,0.8826677
+Tweet sintetico numero 187 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,pos,0.8890213
+Tweet sintetico numero 188 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,neu,0.8953748
+Tweet sintetico numero 189 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neg,0.9017284
+Tweet sintetico numero 190 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,pos,0.908082
+Tweet sintetico numero 191 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,neu,0.9144355
+Tweet sintetico numero 192 sulla crisi Ucraina-Russia. #crisi,False,2023-02-25,neg,0.9207891
+Tweet sintetico numero 193 sulla crisi Ucraina-Russia. #crisi,True,2023-02-26,pos,0.9271427
+Tweet sintetico numero 194 sulla crisi Ucraina-Russia. #crisi,False,2023-02-27,neu,0.9334962
+Tweet sintetico numero 195 sulla crisi Ucraina-Russia. #crisi,True,2023-02-28,neg,0.9398498
+Tweet sintetico numero 196 sulla crisi Ucraina-Russia. #crisi,False,2023-02-29,pos,0.9462033
+Tweet sintetico numero 197 sulla crisi Ucraina-Russia. #crisi,True,2023-02-30,neu,0.9525569
+Tweet sintetico numero 198 sulla crisi Ucraina-Russia. #crisi,False,2023-02-31,neg,0.9589105
+Tweet sintetico numero 199 sulla crisi Ucraina-Russia. #crisi,True,2023-02-32,pos,0.965264
+Nuovo tweet sintetico numero 1 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,pos,0.3426148
+Nuovo tweet sintetico numero 2 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neu,0.3489683
+Nuovo tweet sintetico numero 3 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neg,0.3553219
+Nuovo tweet sintetico numero 4 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,pos,0.3616755
+Nuovo tweet sintetico numero 5 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neu,0.368029
+Nuovo tweet sintetico numero 6 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neg,0.3743826
+Nuovo tweet sintetico numero 7 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,pos,0.3807361
+Nuovo tweet sintetico numero 8 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neu,0.3870897
+Nuovo tweet sintetico numero 9 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neg,0.3934433
+Nuovo tweet sintetico numero 10 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,pos,0.3997968
+Nuovo tweet sintetico numero 11 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neu,0.4061504
+Nuovo tweet sintetico numero 12 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neg,0.412504
+Nuovo tweet sintetico numero 13 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,pos,0.4188575
+Nuovo tweet sintetico numero 14 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neu,0.4252111
+Nuovo tweet sintetico numero 15 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neg,0.4315647
+Nuovo tweet sintetico numero 16 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,pos,0.4379182
+Nuovo tweet sintetico numero 17 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neu,0.4442718
+Nuovo tweet sintetico numero 18 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neg,0.4506254
+Nuovo tweet sintetico numero 19 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,pos,0.4569789
+Nuovo tweet sintetico numero 20 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neu,0.4633325
+Nuovo tweet sintetico numero 21 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neg,0.469686
+Nuovo tweet sintetico numero 22 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,pos,0.4760396
+Nuovo tweet sintetico numero 23 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neu,0.4823932
+Nuovo tweet sintetico numero 24 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neg,0.4887467
+Nuovo tweet sintetico numero 25 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,pos,0.4951003
+Nuovo tweet sintetico numero 26 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neu,0.5014539
+Nuovo tweet sintetico numero 27 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neg,0.5078074
+Nuovo tweet sintetico numero 28 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,pos,0.514161
+Nuovo tweet sintetico numero 29 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neu,0.5205146
+Nuovo tweet sintetico numero 30 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neg,0.5268681
+Nuovo tweet sintetico numero 31 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,pos,0.5332217
+Nuovo tweet sintetico numero 32 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neu,0.5395752
+Nuovo tweet sintetico numero 33 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neg,0.5459288
+Nuovo tweet sintetico numero 34 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,pos,0.5522824
+Nuovo tweet sintetico numero 35 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neu,0.5586359
+Nuovo tweet sintetico numero 36 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neg,0.5649895
+Nuovo tweet sintetico numero 37 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,pos,0.5713431
+Nuovo tweet sintetico numero 38 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neu,0.5776966
+Nuovo tweet sintetico numero 39 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neg,0.5840502
+Nuovo tweet sintetico numero 40 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,pos,0.5904038
+Nuovo tweet sintetico numero 41 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neu,0.5967573
+Nuovo tweet sintetico numero 42 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neg,0.6031109
+Nuovo tweet sintetico numero 43 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,pos,0.6094645
+Nuovo tweet sintetico numero 44 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neu,0.615818
+Nuovo tweet sintetico numero 45 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neg,0.6221716
+Nuovo tweet sintetico numero 46 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,pos,0.6285251
+Nuovo tweet sintetico numero 47 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neu,0.6348787
+Nuovo tweet sintetico numero 48 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neg,0.6412323
+Nuovo tweet sintetico numero 49 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,pos,0.6475858
+Nuovo tweet sintetico numero 50 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neu,0.6539394
+Nuovo tweet sintetico numero 51 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neg,0.660293
+Nuovo tweet sintetico numero 52 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,pos,0.6666465
+Nuovo tweet sintetico numero 53 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neu,0.6730001
+Nuovo tweet sintetico numero 54 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neg,0.6793537
+Nuovo tweet sintetico numero 55 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,pos,0.6857072
+Nuovo tweet sintetico numero 56 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neu,0.6920608
+Nuovo tweet sintetico numero 57 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neg,0.6984143
+Nuovo tweet sintetico numero 58 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,pos,0.7047679
+Nuovo tweet sintetico numero 59 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neu,0.7111215
+Nuovo tweet sintetico numero 60 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neg,0.717475
+Nuovo tweet sintetico numero 61 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,pos,0.7238286
+Nuovo tweet sintetico numero 62 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neu,0.7301822
+Nuovo tweet sintetico numero 63 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neg,0.7365357
+Nuovo tweet sintetico numero 64 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,pos,0.7428893
+Nuovo tweet sintetico numero 65 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neu,0.7492429
+Nuovo tweet sintetico numero 66 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neg,0.7555964
+Nuovo tweet sintetico numero 67 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,pos,0.76195
+Nuovo tweet sintetico numero 68 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neu,0.7683036
+Nuovo tweet sintetico numero 69 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neg,0.7746571
+Nuovo tweet sintetico numero 70 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,pos,0.7810107
+Nuovo tweet sintetico numero 71 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neu,0.7873642
+Nuovo tweet sintetico numero 72 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neg,0.7937178
+Nuovo tweet sintetico numero 73 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,pos,0.8000714
+Nuovo tweet sintetico numero 74 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neu,0.8064249
+Nuovo tweet sintetico numero 75 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neg,0.8127785
+Nuovo tweet sintetico numero 76 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,pos,0.8191321
+Nuovo tweet sintetico numero 77 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neu,0.8254856
+Nuovo tweet sintetico numero 78 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neg,0.8318392
+Nuovo tweet sintetico numero 79 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,pos,0.8381928
+Nuovo tweet sintetico numero 80 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neu,0.8445463
+Nuovo tweet sintetico numero 81 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neg,0.8508999
+Nuovo tweet sintetico numero 82 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,pos,0.8572534
+Nuovo tweet sintetico numero 83 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neu,0.863607
+Nuovo tweet sintetico numero 84 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neg,0.8699606
+Nuovo tweet sintetico numero 85 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,pos,0.8763141
+Nuovo tweet sintetico numero 86 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neu,0.8826677
+Nuovo tweet sintetico numero 87 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neg,0.8890213
+Nuovo tweet sintetico numero 88 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,pos,0.8953748
+Nuovo tweet sintetico numero 89 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neu,0.9017284
+Nuovo tweet sintetico numero 90 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neg,0.908082
+Nuovo tweet sintetico numero 91 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,pos,0.9144355
+Nuovo tweet sintetico numero 92 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neu,0.9207891
+Nuovo tweet sintetico numero 93 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neg,0.9271427
+Nuovo tweet sintetico numero 94 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,pos,0.9334962
+Nuovo tweet sintetico numero 95 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neu,0.9398498
+Nuovo tweet sintetico numero 96 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neg,0.9462033
+Nuovo tweet sintetico numero 97 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,pos,0.9525569
+Nuovo tweet sintetico numero 98 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neu,0.9589105
+Nuovo tweet sintetico numero 99 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neg,0.965264
+Nuovo tweet sintetico numero 100 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,pos,0.3362612
+Nuovo tweet sintetico numero 101 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neu,0.3426148
+Nuovo tweet sintetico numero 102 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neg,0.3489683
+Nuovo tweet sintetico numero 103 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,pos,0.3553219
+Nuovo tweet sintetico numero 104 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neu,0.3616755
+Nuovo tweet sintetico numero 105 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neg,0.368029
+Nuovo tweet sintetico numero 106 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,pos,0.3743826
+Nuovo tweet sintetico numero 107 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neu,0.3807361
+Nuovo tweet sintetico numero 108 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neg,0.3870897
+Nuovo tweet sintetico numero 109 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,pos,0.3934433
+Nuovo tweet sintetico numero 110 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neu,0.3997968
+Nuovo tweet sintetico numero 111 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neg,0.4061504
+Nuovo tweet sintetico numero 112 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,pos,0.412504
+Nuovo tweet sintetico numero 113 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neu,0.4188575
+Nuovo tweet sintetico numero 114 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neg,0.4252111
+Nuovo tweet sintetico numero 115 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,pos,0.4315647
+Nuovo tweet sintetico numero 116 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neu,0.4379182
+Nuovo tweet sintetico numero 117 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neg,0.4442718
+Nuovo tweet sintetico numero 118 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,pos,0.4506254
+Nuovo tweet sintetico numero 119 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neu,0.4569789
+Nuovo tweet sintetico numero 120 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neg,0.4633325
+Nuovo tweet sintetico numero 121 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,pos,0.469686
+Nuovo tweet sintetico numero 122 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neu,0.4760396
+Nuovo tweet sintetico numero 123 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neg,0.4823932
+Nuovo tweet sintetico numero 124 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,pos,0.4887467
+Nuovo tweet sintetico numero 125 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neu,0.4951003
+Nuovo tweet sintetico numero 126 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neg,0.5014539
+Nuovo tweet sintetico numero 127 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,pos,0.5078074
+Nuovo tweet sintetico numero 128 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neu,0.514161
+Nuovo tweet sintetico numero 129 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neg,0.5205146
+Nuovo tweet sintetico numero 130 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,pos,0.5268681
+Nuovo tweet sintetico numero 131 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neu,0.5332217
+Nuovo tweet sintetico numero 132 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neg,0.5395752
+Nuovo tweet sintetico numero 133 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,pos,0.5459288
+Nuovo tweet sintetico numero 134 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neu,0.5522824
+Nuovo tweet sintetico numero 135 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neg,0.5586359
+Nuovo tweet sintetico numero 136 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,pos,0.5649895
+Nuovo tweet sintetico numero 137 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neu,0.5713431
+Nuovo tweet sintetico numero 138 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neg,0.5776966
+Nuovo tweet sintetico numero 139 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,pos,0.5840502
+Nuovo tweet sintetico numero 140 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neu,0.5904038
+Nuovo tweet sintetico numero 141 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neg,0.5967573
+Nuovo tweet sintetico numero 142 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,pos,0.6031109
+Nuovo tweet sintetico numero 143 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neu,0.6094645
+Nuovo tweet sintetico numero 144 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neg,0.615818
+Nuovo tweet sintetico numero 145 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,pos,0.6221716
+Nuovo tweet sintetico numero 146 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neu,0.6285251
+Nuovo tweet sintetico numero 147 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neg,0.6348787
+Nuovo tweet sintetico numero 148 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,pos,0.6412323
+Nuovo tweet sintetico numero 149 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neu,0.6475858
+Nuovo tweet sintetico numero 150 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neg,0.6539394
+Nuovo tweet sintetico numero 151 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,pos,0.660293
+Nuovo tweet sintetico numero 152 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neu,0.6666465
+Nuovo tweet sintetico numero 153 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neg,0.6730001
+Nuovo tweet sintetico numero 154 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,pos,0.6793537
+Nuovo tweet sintetico numero 155 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neu,0.6857072
+Nuovo tweet sintetico numero 156 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neg,0.6920608
+Nuovo tweet sintetico numero 157 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,pos,0.6984143
+Nuovo tweet sintetico numero 158 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neu,0.7047679
+Nuovo tweet sintetico numero 159 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neg,0.7111215
+Nuovo tweet sintetico numero 160 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,pos,0.717475
+Nuovo tweet sintetico numero 161 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neu,0.7238286
+Nuovo tweet sintetico numero 162 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neg,0.7301822
+Nuovo tweet sintetico numero 163 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,pos,0.7365357
+Nuovo tweet sintetico numero 164 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neu,0.7428893
+Nuovo tweet sintetico numero 165 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neg,0.7492429
+Nuovo tweet sintetico numero 166 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,pos,0.7555964
+Nuovo tweet sintetico numero 167 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neu,0.76195
+Nuovo tweet sintetico numero 168 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neg,0.7683036
+Nuovo tweet sintetico numero 169 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,pos,0.7746571
+Nuovo tweet sintetico numero 170 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neu,0.7810107
+Nuovo tweet sintetico numero 171 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neg,0.7873642
+Nuovo tweet sintetico numero 172 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,pos,0.7937178
+Nuovo tweet sintetico numero 173 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neu,0.8000714
+Nuovo tweet sintetico numero 174 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neg,0.8064249
+Nuovo tweet sintetico numero 175 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,pos,0.8127785
+Nuovo tweet sintetico numero 176 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neu,0.8191321
+Nuovo tweet sintetico numero 177 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neg,0.8254856
+Nuovo tweet sintetico numero 178 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,pos,0.8318392
+Nuovo tweet sintetico numero 179 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neu,0.8381928
+Nuovo tweet sintetico numero 180 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neg,0.8445463
+Nuovo tweet sintetico numero 181 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,pos,0.8508999
+Nuovo tweet sintetico numero 182 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neu,0.8572534
+Nuovo tweet sintetico numero 183 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neg,0.863607
+Nuovo tweet sintetico numero 184 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,pos,0.8699606
+Nuovo tweet sintetico numero 185 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,neu,0.8763141
+Nuovo tweet sintetico numero 186 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neg,0.8826677
+Nuovo tweet sintetico numero 187 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,pos,0.8890213
+Nuovo tweet sintetico numero 188 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,neu,0.8953748
+Nuovo tweet sintetico numero 189 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neg,0.9017284
+Nuovo tweet sintetico numero 190 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,pos,0.908082
+Nuovo tweet sintetico numero 191 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,neu,0.9144355
+Nuovo tweet sintetico numero 192 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neg,0.9207891
+Nuovo tweet sintetico numero 193 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-26,pos,0.9271427
+Nuovo tweet sintetico numero 194 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-27,neu,0.9334962
+Nuovo tweet sintetico numero 195 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-28,neg,0.9398498
+Nuovo tweet sintetico numero 196 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-29,pos,0.9462033
+Nuovo tweet sintetico numero 197 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-30,neu,0.9525569
+Nuovo tweet sintetico numero 198 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-31,neg,0.9589105
+Nuovo tweet sintetico numero 199 sul conflitto Ucraina-Russia. #pace #solidarietà,True,2023-02-32,pos,0.965264
+Nuovo tweet sintetico numero 200 sul conflitto Ucraina-Russia. #pace #solidarietà,False,2023-02-25,neu,0.3362612
+Tweet aggiuntivo numero 1 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,pos,0.3426148
+Tweet aggiuntivo numero 2 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neu,0.3489683
+Tweet aggiuntivo numero 3 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neg,0.3553219
+Tweet aggiuntivo numero 4 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,pos,0.3616755
+Tweet aggiuntivo numero 5 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neu,0.368029
+Tweet aggiuntivo numero 6 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neg,0.3743826
+Tweet aggiuntivo numero 7 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,pos,0.3807361
+Tweet aggiuntivo numero 8 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neu,0.3870897
+Tweet aggiuntivo numero 9 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neg,0.3934433
+Tweet aggiuntivo numero 10 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,pos,0.3997968
+Tweet aggiuntivo numero 11 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neu,0.4061504
+Tweet aggiuntivo numero 12 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neg,0.412504
+Tweet aggiuntivo numero 13 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,pos,0.4188575
+Tweet aggiuntivo numero 14 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neu,0.4252111
+Tweet aggiuntivo numero 15 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neg,0.4315647
+Tweet aggiuntivo numero 16 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,pos,0.4379182
+Tweet aggiuntivo numero 17 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neu,0.4442718
+Tweet aggiuntivo numero 18 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neg,0.4506254
+Tweet aggiuntivo numero 19 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,pos,0.4569789
+Tweet aggiuntivo numero 20 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neu,0.4633325
+Tweet aggiuntivo numero 21 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neg,0.469686
+Tweet aggiuntivo numero 22 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,pos,0.4760396
+Tweet aggiuntivo numero 23 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neu,0.4823932
+Tweet aggiuntivo numero 24 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neg,0.4887467
+Tweet aggiuntivo numero 25 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,pos,0.4951003
+Tweet aggiuntivo numero 26 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neu,0.5014539
+Tweet aggiuntivo numero 27 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neg,0.5078074
+Tweet aggiuntivo numero 28 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,pos,0.514161
+Tweet aggiuntivo numero 29 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neu,0.5205146
+Tweet aggiuntivo numero 30 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neg,0.5268681
+Tweet aggiuntivo numero 31 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,pos,0.5332217
+Tweet aggiuntivo numero 32 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neu,0.5395752
+Tweet aggiuntivo numero 33 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neg,0.5459288
+Tweet aggiuntivo numero 34 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,pos,0.5522824
+Tweet aggiuntivo numero 35 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neu,0.5586359
+Tweet aggiuntivo numero 36 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neg,0.5649895
+Tweet aggiuntivo numero 37 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,pos,0.5713431
+Tweet aggiuntivo numero 38 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neu,0.5776966
+Tweet aggiuntivo numero 39 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neg,0.5840502
+Tweet aggiuntivo numero 40 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,pos,0.5904038
+Tweet aggiuntivo numero 41 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neu,0.5967573
+Tweet aggiuntivo numero 42 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neg,0.6031109
+Tweet aggiuntivo numero 43 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,pos,0.6094645
+Tweet aggiuntivo numero 44 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neu,0.615818
+Tweet aggiuntivo numero 45 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neg,0.6221716
+Tweet aggiuntivo numero 46 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,pos,0.6285251
+Tweet aggiuntivo numero 47 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neu,0.6348787
+Tweet aggiuntivo numero 48 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neg,0.6412323
+Tweet aggiuntivo numero 49 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,pos,0.6475858
+Tweet aggiuntivo numero 50 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neu,0.6539394
+Tweet aggiuntivo numero 51 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neg,0.660293
+Tweet aggiuntivo numero 52 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,pos,0.6666465
+Tweet aggiuntivo numero 53 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neu,0.6730001
+Tweet aggiuntivo numero 54 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neg,0.6793537
+Tweet aggiuntivo numero 55 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,pos,0.6857072
+Tweet aggiuntivo numero 56 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neu,0.6920608
+Tweet aggiuntivo numero 57 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neg,0.6984143
+Tweet aggiuntivo numero 58 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,pos,0.7047679
+Tweet aggiuntivo numero 59 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neu,0.7111215
+Tweet aggiuntivo numero 60 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neg,0.717475
+Tweet aggiuntivo numero 61 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,pos,0.7238286
+Tweet aggiuntivo numero 62 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neu,0.7301822
+Tweet aggiuntivo numero 63 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neg,0.7365357
+Tweet aggiuntivo numero 64 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,pos,0.7428893
+Tweet aggiuntivo numero 65 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neu,0.7492429
+Tweet aggiuntivo numero 66 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neg,0.7555964
+Tweet aggiuntivo numero 67 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,pos,0.76195
+Tweet aggiuntivo numero 68 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neu,0.7683036
+Tweet aggiuntivo numero 69 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neg,0.7746571
+Tweet aggiuntivo numero 70 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,pos,0.7810107
+Tweet aggiuntivo numero 71 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neu,0.7873642
+Tweet aggiuntivo numero 72 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neg,0.7937178
+Tweet aggiuntivo numero 73 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,pos,0.8000714
+Tweet aggiuntivo numero 74 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neu,0.8064249
+Tweet aggiuntivo numero 75 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neg,0.8127785
+Tweet aggiuntivo numero 76 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,pos,0.8191321
+Tweet aggiuntivo numero 77 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neu,0.8254856
+Tweet aggiuntivo numero 78 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neg,0.8318392
+Tweet aggiuntivo numero 79 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,pos,0.8381928
+Tweet aggiuntivo numero 80 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neu,0.8445463
+Tweet aggiuntivo numero 81 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neg,0.8508999
+Tweet aggiuntivo numero 82 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,pos,0.8572534
+Tweet aggiuntivo numero 83 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neu,0.863607
+Tweet aggiuntivo numero 84 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neg,0.8699606
+Tweet aggiuntivo numero 85 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,pos,0.8763141
+Tweet aggiuntivo numero 86 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neu,0.8826677
+Tweet aggiuntivo numero 87 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neg,0.8890213
+Tweet aggiuntivo numero 88 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,pos,0.8953748
+Tweet aggiuntivo numero 89 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neu,0.9017284
+Tweet aggiuntivo numero 90 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neg,0.908082
+Tweet aggiuntivo numero 91 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,pos,0.9144355
+Tweet aggiuntivo numero 92 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neu,0.9207891
+Tweet aggiuntivo numero 93 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neg,0.9271427
+Tweet aggiuntivo numero 94 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,pos,0.9334962
+Tweet aggiuntivo numero 95 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neu,0.9398498
+Tweet aggiuntivo numero 96 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neg,0.9462033
+Tweet aggiuntivo numero 97 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,pos,0.9525569
+Tweet aggiuntivo numero 98 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neu,0.9589105
+Tweet aggiuntivo numero 99 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neg,0.965264
+Tweet aggiuntivo numero 100 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,pos,0.3362612
+Tweet aggiuntivo numero 101 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neu,0.3426148
+Tweet aggiuntivo numero 102 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neg,0.3489683
+Tweet aggiuntivo numero 103 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,pos,0.3553219
+Tweet aggiuntivo numero 104 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neu,0.3616755
+Tweet aggiuntivo numero 105 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neg,0.368029
+Tweet aggiuntivo numero 106 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,pos,0.3743826
+Tweet aggiuntivo numero 107 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neu,0.3807361
+Tweet aggiuntivo numero 108 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neg,0.3870897
+Tweet aggiuntivo numero 109 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,pos,0.3934433
+Tweet aggiuntivo numero 110 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neu,0.3997968
+Tweet aggiuntivo numero 111 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neg,0.4061504
+Tweet aggiuntivo numero 112 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,pos,0.412504
+Tweet aggiuntivo numero 113 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neu,0.4188575
+Tweet aggiuntivo numero 114 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neg,0.4252111
+Tweet aggiuntivo numero 115 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,pos,0.4315647
+Tweet aggiuntivo numero 116 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neu,0.4379182
+Tweet aggiuntivo numero 117 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neg,0.4442718
+Tweet aggiuntivo numero 118 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,pos,0.4506254
+Tweet aggiuntivo numero 119 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neu,0.4569789
+Tweet aggiuntivo numero 120 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neg,0.4633325
+Tweet aggiuntivo numero 121 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,pos,0.469686
+Tweet aggiuntivo numero 122 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neu,0.4760396
+Tweet aggiuntivo numero 123 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neg,0.4823932
+Tweet aggiuntivo numero 124 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,pos,0.4887467
+Tweet aggiuntivo numero 125 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neu,0.4951003
+Tweet aggiuntivo numero 126 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neg,0.5014539
+Tweet aggiuntivo numero 127 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,pos,0.5078074
+Tweet aggiuntivo numero 128 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neu,0.514161
+Tweet aggiuntivo numero 129 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neg,0.5205146
+Tweet aggiuntivo numero 130 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,pos,0.5268681
+Tweet aggiuntivo numero 131 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neu,0.5332217
+Tweet aggiuntivo numero 132 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neg,0.5395752
+Tweet aggiuntivo numero 133 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,pos,0.5459288
+Tweet aggiuntivo numero 134 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neu,0.5522824
+Tweet aggiuntivo numero 135 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neg,0.5586359
+Tweet aggiuntivo numero 136 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,pos,0.5649895
+Tweet aggiuntivo numero 137 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neu,0.5713431
+Tweet aggiuntivo numero 138 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neg,0.5776966
+Tweet aggiuntivo numero 139 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,pos,0.5840502
+Tweet aggiuntivo numero 140 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neu,0.5904038
+Tweet aggiuntivo numero 141 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neg,0.5967573
+Tweet aggiuntivo numero 142 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,pos,0.6031109
+Tweet aggiuntivo numero 143 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neu,0.6094645
+Tweet aggiuntivo numero 144 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neg,0.615818
+Tweet aggiuntivo numero 145 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,pos,0.6221716
+Tweet aggiuntivo numero 146 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neu,0.6285251
+Tweet aggiuntivo numero 147 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neg,0.6348787
+Tweet aggiuntivo numero 148 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,pos,0.6412323
+Tweet aggiuntivo numero 149 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neu,0.6475858
+Tweet aggiuntivo numero 150 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neg,0.6539394
+Tweet aggiuntivo numero 151 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,pos,0.660293
+Tweet aggiuntivo numero 152 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neu,0.6666465
+Tweet aggiuntivo numero 153 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neg,0.6730001
+Tweet aggiuntivo numero 154 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,pos,0.6793537
+Tweet aggiuntivo numero 155 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neu,0.6857072
+Tweet aggiuntivo numero 156 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neg,0.6920608
+Tweet aggiuntivo numero 157 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,pos,0.6984143
+Tweet aggiuntivo numero 158 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neu,0.7047679
+Tweet aggiuntivo numero 159 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neg,0.7111215
+Tweet aggiuntivo numero 160 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,pos,0.717475
+Tweet aggiuntivo numero 161 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neu,0.7238286
+Tweet aggiuntivo numero 162 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neg,0.7301822
+Tweet aggiuntivo numero 163 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,pos,0.7365357
+Tweet aggiuntivo numero 164 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neu,0.7428893
+Tweet aggiuntivo numero 165 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neg,0.7492429
+Tweet aggiuntivo numero 166 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,pos,0.7555964
+Tweet aggiuntivo numero 167 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neu,0.76195
+Tweet aggiuntivo numero 168 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neg,0.7683036
+Tweet aggiuntivo numero 169 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,pos,0.7746571
+Tweet aggiuntivo numero 170 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neu,0.7810107
+Tweet aggiuntivo numero 171 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neg,0.7873642
+Tweet aggiuntivo numero 172 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,pos,0.7937178
+Tweet aggiuntivo numero 173 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neu,0.8000714
+Tweet aggiuntivo numero 174 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neg,0.8064249
+Tweet aggiuntivo numero 175 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,pos,0.8127785
+Tweet aggiuntivo numero 176 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neu,0.8191321
+Tweet aggiuntivo numero 177 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neg,0.8254856
+Tweet aggiuntivo numero 178 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,pos,0.8318392
+Tweet aggiuntivo numero 179 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neu,0.8381928
+Tweet aggiuntivo numero 180 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neg,0.8445463
+Tweet aggiuntivo numero 181 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,pos,0.8508999
+Tweet aggiuntivo numero 182 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neu,0.8572534
+Tweet aggiuntivo numero 183 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neg,0.863607
+Tweet aggiuntivo numero 184 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,pos,0.8699606
+Tweet aggiuntivo numero 185 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,neu,0.8763141
+Tweet aggiuntivo numero 186 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neg,0.8826677
+Tweet aggiuntivo numero 187 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,pos,0.8890213
+Tweet aggiuntivo numero 188 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,neu,0.8953748
+Tweet aggiuntivo numero 189 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neg,0.9017284
+Tweet aggiuntivo numero 190 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,pos,0.908082
+Tweet aggiuntivo numero 191 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,neu,0.9144355
+Tweet aggiuntivo numero 192 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neg,0.9207891
+Tweet aggiuntivo numero 193 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-26,pos,0.9271427
+Tweet aggiuntivo numero 194 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-27,neu,0.9334962
+Tweet aggiuntivo numero 195 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-28,neg,0.9398498
+Tweet aggiuntivo numero 196 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-29,pos,0.9462033
+Tweet aggiuntivo numero 197 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-30,neu,0.9525569
+Tweet aggiuntivo numero 198 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-31,neg,0.9589105
+Tweet aggiuntivo numero 199 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,True,2023-02-32,pos,0.965264
+Tweet aggiuntivo numero 200 relativo al conflitto Russo-Ucraino. #noallaguerra #pace,False,2023-02-25,neu,0.3362612
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-26,neg,0.8432156
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-01,neu,0.5623198
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-28,pos,0.7169234
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-03-02,neg,0.8732191
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-02-27,neu,0.4123196
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-25,pos,0.9564234
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-02-26,neu,0.6238197
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-03-03,neg,0.6832174
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-02-28,pos,0.8712438
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-04,neu,0.7239816
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-03-02,neg,0.8124135
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-01,pos,0.9236174
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-27,neu,0.4612178
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-03-03,pos,0.6724139
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-02-26,neg,0.8921734
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-03-02,neu,0.5632179
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-02-25,pos,0.7932146
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-28,neg,0.6423175
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-02-27,neu,0.4213981
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-04,pos,0.7812634
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-03-02,neg,0.8134261
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-02-27,neu,0.5723124
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-28,pos,0.7362914
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-03-01,neg,0.8834716
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-02-27,neu,0.4528193
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-03-03,pos,0.9462318
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-02-25,neu,0.6542173
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-28,neg,0.7112394
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-02-26,pos,0.8512315
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-04,neu,0.7338219
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-26,neg,0.8132175
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-01,neu,0.6732159
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-27,pos,0.7523174
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-02-28,neg,0.8943127
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-03,neu,0.4523148
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-03-02,pos,0.9234123
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-02-25,neu,0.6432157
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-27,neg,0.7532148
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-02-28,pos,0.8612347
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-04,neu,0.7321486
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-26,neg,0.8031248
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-02-28,neu,0.6723196
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-27,pos,0.7932148
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-02-26,neg,0.8532148
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-02,neu,0.4321485
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-27,pos,0.9632147
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-02-28,neu,0.6832149
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-03-03,neg,0.7423157
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-03-02,pos,0.8123149
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-01,neu,0.7231984
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-28,neg,0.8723149
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-02-27,neu,0.6321485
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-25,pos,0.8432159
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-02-28,neg,0.8723158
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-02,neu,0.4523187
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-03-01,pos,0.9123157
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-02-27,neu,0.6321487
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-28,neg,0.7823157
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-02-27,pos,0.8612347
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-04,neu,0.7432147
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-27,neg,0.8123175
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-02,neu,0.6321497
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-03-01,pos,0.7632187
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-02-26,neg,0.8423158
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-02-28,neu,0.4632174
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-25,pos,0.9532178
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-03-02,neu,0.6723198
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-27,neg,0.7923148
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-02-28,pos,0.8623178
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-03,neu,0.7423158
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-27,neg,0.8123489
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-02,neu,0.6723194
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-28,pos,0.7123186
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-02-25,neg,0.8623147
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-01,neu,0.4632184
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-26,pos,0.9432175
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-02-27,neu,0.6432179
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-03-03,neg,0.7623159
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-02-28,pos,0.8732174
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-02-25,neu,0.7532184
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-03-02,neg,0.8923157
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-02-28,neu,0.6723197
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-03-01,pos,0.7623184
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-02-27,neg,0.8123175
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-02-25,neu,0.4723195
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-03-03,pos,0.9432175
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-02-28,neu,0.6623194
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-03-02,neg,0.7823175
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-02-26,pos,0.8823175
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-01,neu,0.7523174
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-28,neg,0.8123184
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-01,neu,0.6523187
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-27,pos,0.7923194
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-02-25,neg,0.8432194
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-02-28,neu,0.4632187
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-03-02,pos,0.9332178
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-03-03,neu,0.6723185
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-26,neg,0.7623174
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-03-01,pos,0.8823178
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-02-27,neu,0.7323197
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-27,neg,0.8923176
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-03-04,neu,0.6723197
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-02-28,pos,0.7932198
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-02-25,neg,0.8532184
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-02,neu,0.4623179
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-26,pos,0.9532178
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-03-01,neu,0.6523187
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-27,neg,0.7623187
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-03-02,pos,0.8723195
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-03,neu,0.7423194
+L'invasione dell'Ucraina continua. #pace #Russia,False,2023-02-28,neg,0.8323195
+Il conflitto non ha fine serve diplomazia. #Ucraina,True,2023-02-27,neu,0.6723198
+Nuove sanzioni contro la Russia annunciate. #politica,False,2023-03-02,pos,0.7723194
+Il supporto internazionale all'Ucraina � fondamentale. #solidariet�,True,2023-02-28,neg,0.8623194
+Missili russi colpiscono obiettivi civili. #guerra,False,2023-03-01,neu,0.4723194
+Manifestazioni in Italia per la pace. #noallaguerra,True,2023-02-25,pos,0.9532187
+Zelensky chiede pi� aiuti militari. #UcrainaResiste,False,2023-02-27,neu,0.6523186
+La propaganda russa tenta di giustificare l'aggressione. #disinformazione,True,2023-02-26,neg,0.7923184
+Il mondo � diviso sulla risposta al conflitto. #geopolitica,False,2023-03-02,pos,0.8723195
+Rischio di escalation nucleare? Preoccupazione globale. #crisi,True,2023-03-03,neu,0.7423197
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-25,neg,0.3362612
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-26,pos,0.3426148
+Le sanzioni contro la Russia sono giuste,False,2023-02-27,neu,0.3489683
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-28,neg,0.3553219
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-29,pos,0.3616755
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-30,neu,0.368029
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-31,neg,0.3743826
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-32,pos,0.3807361
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-25,neu,0.3870897
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-26,neg,0.3934433
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-27,pos,0.3997968
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-28,neu,0.4061504
+Le sanzioni contro la Russia sono giuste,False,2023-02-29,neg,0.412504
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-30,pos,0.4188575
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-31,neu,0.4252111
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-32,neg,0.4315647
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-25,pos,0.4379182
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-26,neu,0.4442718
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-27,neg,0.4506254
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-28,pos,0.4569789
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-29,neu,0.4633325
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-30,neg,0.469686
+Le sanzioni contro la Russia sono giuste,False,2023-02-31,pos,0.4760396
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-32,neu,0.4823932
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-25,neg,0.4887467
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-26,pos,0.4951003
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-27,neu,0.5014539
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-28,neg,0.5078074
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-29,pos,0.514161
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-30,neu,0.5205146
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-31,neg,0.5268681
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-32,pos,0.5332217
+Le sanzioni contro la Russia sono giuste,False,2023-02-25,neu,0.5395752
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-26,neg,0.5459288
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-27,pos,0.5522824
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-28,neu,0.5586359
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-29,neg,0.5649895
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-30,pos,0.5713431
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-31,neu,0.5776966
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-32,neg,0.5840502
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-25,pos,0.5904038
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-26,neu,0.5967573
+Le sanzioni contro la Russia sono giuste,False,2023-02-27,neg,0.6031109
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-28,pos,0.6094645
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-29,neu,0.615818
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-30,neg,0.6221716
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-31,pos,0.6285251
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-32,neu,0.6348787
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-25,neg,0.6412323
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-26,pos,0.6475858
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-27,neu,0.6539394
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-28,neg,0.660293
+Le sanzioni contro la Russia sono giuste,False,2023-02-29,pos,0.6666465
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-30,neu,0.6730001
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-31,neg,0.6793537
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-32,pos,0.6857072
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-25,neu,0.6920608
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-26,neg,0.6984143
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-27,pos,0.7047679
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-28,neu,0.7111215
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-29,neg,0.717475
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-30,pos,0.7238286
+Le sanzioni contro la Russia sono giuste,False,2023-02-31,neu,0.7301822
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-32,neg,0.7365357
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-25,pos,0.7428893
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-26,neu,0.7492429
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-27,neg,0.7555964
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-28,pos,0.76195
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-29,neu,0.7683036
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-30,neg,0.7746571
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-31,pos,0.7810107
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-32,neu,0.7873642
+Le sanzioni contro la Russia sono giuste,False,2023-02-25,neg,0.7937178
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-26,pos,0.8000714
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-27,neu,0.8064249
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-28,neg,0.8127785
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-29,pos,0.8191321
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-30,neu,0.8254856
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-31,neg,0.8318392
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-32,pos,0.8381928
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-25,neu,0.8445463
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-26,neg,0.8508999
+Le sanzioni contro la Russia sono giuste,False,2023-02-27,pos,0.8572534
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-28,neu,0.863607
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-29,neg,0.8699606
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-30,pos,0.8763141
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-31,neu,0.8826677
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-32,neg,0.8890213
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-25,pos,0.8953748
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-26,neu,0.9017284
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-27,neg,0.908082
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-28,pos,0.9144355
+Le sanzioni contro la Russia sono giuste,False,2023-02-29,neu,0.9207891
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-30,neg,0.9271427
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-31,pos,0.9334962
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-32,neu,0.9398498
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-25,neg,0.9462033
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-26,pos,0.9525569
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-27,neu,0.9589105
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-28,neg,0.965264
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-29,pos,0.3362612
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-30,neu,0.3426148
+Le sanzioni contro la Russia sono giuste,False,2023-02-31,neg,0.3489683
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-32,pos,0.3553219
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-25,neu,0.3616755
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-26,neg,0.368029
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-27,pos,0.3743826
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-28,neu,0.3807361
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-29,neg,0.3870897
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-30,pos,0.3934433
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-31,neu,0.3997968
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-32,neg,0.4061504
+Le sanzioni contro la Russia sono giuste,False,2023-02-25,pos,0.412504
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-26,neu,0.4188575
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-27,neg,0.4252111
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-28,pos,0.4315647
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-29,neu,0.4379182
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-30,neg,0.4442718
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-31,pos,0.4506254
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-32,neu,0.4569789
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-25,neg,0.4633325
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-26,pos,0.469686
+Le sanzioni contro la Russia sono giuste,False,2023-02-27,neu,0.4760396
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-28,neg,0.4823932
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-29,pos,0.4887467
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-30,neu,0.4951003
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-31,neg,0.5014539
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-32,pos,0.5078074
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-25,neu,0.514161
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-26,neg,0.5205146
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-27,pos,0.5268681
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-28,neu,0.5332217
+Le sanzioni contro la Russia sono giuste,False,2023-02-29,neg,0.5395752
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-30,pos,0.5459288
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-31,neu,0.5522824
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-32,neg,0.5586359
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-25,pos,0.5649895
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-26,neu,0.5713431
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-27,neg,0.5776966
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-28,pos,0.5840502
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-29,neu,0.5904038
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-30,neg,0.5967573
+Le sanzioni contro la Russia sono giuste,False,2023-02-31,pos,0.6031109
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-32,neu,0.6094645
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-25,neg,0.615818
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-26,pos,0.6221716
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-27,neu,0.6285251
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-28,neg,0.6348787
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-29,pos,0.6412323
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-30,neu,0.6475858
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-31,neg,0.6539394
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-32,pos,0.660293
+Le sanzioni contro la Russia sono giuste,False,2023-02-25,neu,0.6666465
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-26,neg,0.6730001
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-27,pos,0.6793537
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-28,neu,0.6857072
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-29,neg,0.6920608
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-30,pos,0.6984143
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-31,neu,0.7047679
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-32,neg,0.7111215
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-25,pos,0.717475
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-26,neu,0.7238286
+Le sanzioni contro la Russia sono giuste,False,2023-02-27,neg,0.7301822
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-28,pos,0.7365357
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-29,neu,0.7428893
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-30,neg,0.7492429
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-31,pos,0.7555964
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-32,neu,0.76195
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-25,neg,0.7683036
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-26,pos,0.7746571
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-27,neu,0.7810107
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-28,neg,0.7873642
+Le sanzioni contro la Russia sono giuste,False,2023-02-29,pos,0.7937178
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-30,neu,0.8000714
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-31,neg,0.8064249
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-32,pos,0.8127785
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-25,neu,0.8191321
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-26,neg,0.8254856
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-27,pos,0.8318392
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-28,neu,0.8381928
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-29,neg,0.8445463
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-30,pos,0.8508999
+Le sanzioni contro la Russia sono giuste,False,2023-02-31,neu,0.8572534
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-32,neg,0.863607
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-25,pos,0.8699606
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-26,neu,0.8763141
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-27,neg,0.8826677
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-28,pos,0.8890213
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-29,neu,0.8953748
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-30,neg,0.9017284
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-31,pos,0.908082
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-32,neu,0.9144355
+Le sanzioni contro la Russia sono giuste,False,2023-02-25,neg,0.9207891
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-26,pos,0.9271427
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-27,neu,0.9334962
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-28,neg,0.9398498
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-29,pos,0.9462033
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-30,neu,0.9525569
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-31,neg,0.9589105
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-32,pos,0.965264
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-25,neg,0.3362612
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-26,pos,0.3426148
+Le sanzioni contro la Russia sono giuste,False,2023-02-27,neu,0.3489683
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-28,neg,0.3553219
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-29,pos,0.3616755
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-30,neu,0.368029
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-31,neg,0.3743826
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-32,pos,0.3807361
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-25,neu,0.3870897
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-26,neg,0.3934433
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-27,pos,0.3997968
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-28,neu,0.4061504
+Le sanzioni contro la Russia sono giuste,False,2023-02-29,neg,0.412504
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-30,pos,0.4188575
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-31,neu,0.4252111
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-32,neg,0.4315647
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-25,pos,0.4379182
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-26,neu,0.4442718
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-27,neg,0.4506254
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-28,pos,0.4569789
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-29,neu,0.4633325
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-30,neg,0.469686
+Le sanzioni contro la Russia sono giuste,False,2023-02-31,pos,0.4760396
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-32,neu,0.4823932
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-25,neg,0.4887467
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-26,pos,0.4951003
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-27,neu,0.5014539
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-28,neg,0.5078074
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-29,pos,0.514161
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-30,neu,0.5205146
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-31,neg,0.5268681
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-32,pos,0.5332217
+Le sanzioni contro la Russia sono giuste,False,2023-02-25,neu,0.5395752
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-26,neg,0.5459288
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-27,pos,0.5522824
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-28,neu,0.5586359
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-29,neg,0.5649895
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-30,pos,0.5713431
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-31,neu,0.5776966
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-32,neg,0.5840502
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-25,pos,0.5904038
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-26,neu,0.5967573
+Le sanzioni contro la Russia sono giuste,False,2023-02-27,neg,0.6031109
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-28,pos,0.6094645
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-29,neu,0.615818
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-30,neg,0.6221716
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-31,pos,0.6285251
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-32,neu,0.6348787
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-25,neg,0.6412323
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-26,pos,0.6475858
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-27,neu,0.6539394
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-28,neg,0.660293
+Le sanzioni contro la Russia sono giuste,False,2023-02-29,pos,0.6666465
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-30,neu,0.6730001
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-31,neg,0.6793537
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-32,pos,0.6857072
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-25,neu,0.6920608
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-26,neg,0.6984143
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-27,pos,0.7047679
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-28,neu,0.7111215
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-29,neg,0.717475
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-30,pos,0.7238286
+Le sanzioni contro la Russia sono giuste,False,2023-02-31,neu,0.7301822
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-32,neg,0.7365357
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-25,pos,0.7428893
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-26,neu,0.7492429
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-27,neg,0.7555964
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-28,pos,0.76195
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-29,neu,0.7683036
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-30,neg,0.7746571
+Le immagini che arrivano dall'Ucraina sono devastanti. #guerra,False,2023-02-31,pos,0.7810107
+Speriamo che i negoziati portino finalmente la pace. #pace,True,2023-02-32,neu,0.7873642
+Le sanzioni contro la Russia sono giuste,False,2023-02-25,neg,0.7937178
+Troppe vite innocenti sono state perse in questo conflitto. #noallaguerra,True,2023-02-26,pos,0.8000714
+Dobbiamo continuare a supportare l'Ucraina con aiuti umanitari. #solidarietà,False,2023-02-27,neu,0.8064249
+Non posso credere che nel 2023 ci siano ancora guerre così devastanti. #umanità,True,2023-02-28,neg,0.8127785
+I rifugiati ucraini hanno bisogno del nostro aiuto ora più che mai. #aiuti,False,2023-02-29,pos,0.8191321
+Quali soluzioni sono davvero possibili per fermare questa guerra? #crisi,True,2023-02-30,neu,0.8254856
+Ogni giorno sentiamo di nuove atrocità. Basta! #noallaguerra,False,2023-02-31,neg,0.8318392
+È il momento di aumentare la pressione diplomatica sulla Russia. #pace,True,2023-02-32,pos,0.8381928

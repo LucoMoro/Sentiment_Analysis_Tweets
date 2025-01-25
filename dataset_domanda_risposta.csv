@@ -1,0 +1,1201 @@
+text,is_retweet,extractedts,sentiment,score
+guerra politica economia trattativa aiuti #kiev #ucraina #zelensky,False,2023-02-25,neg,0.5714767
+conflitto trattativa politica attacco economia #ucraina #ucraina #russia,True,2023-03-02,neg,0.429029
+conflitto guerra aiuti attacco economia #ukraine,True,2023-02-27,neg,0.5484228
+economia guerra pace attacco conflitto #ucraina #zelensky #ucraina,True,2023-02-25,neu,0.858474
+guerra economia attacco trattativa politica #ucraina #russia,True,2023-02-25,neg,0.5115161
+politica trattativa guerra attacco economia #putin,True,2023-02-27,neg,0.773692
+conflitto politica trattativa attacco guerra #ucraina #ukraine,True,2023-02-27,pos,0.3988963
+attacco politica pace guerra economia #biden #putin,True,2023-03-02,neu,0.3793229
+conflitto aiuti politica attacco trattativa #putin #ucraina #ucraina,True,2023-03-04,neg,0.5711888
+aiuti guerra attacco conflitto politica #ucraina #ucraina #biden,False,2023-02-25,neg,0.5008316
+trattativa pace conflitto economia attacco #putin,False,2023-03-03,neg,0.6503231
+conflitto guerra politica attacco aiuti #ucraina #ucraina #ucraina,False,2023-02-25,neg,0.4733133
+politica guerra conflitto attacco aiuti #usa #ucraina,True,2023-03-04,neg,0.879069
+guerra economia politica aiuti attacco #russia #ucraina #russia,True,2023-02-27,neg,0.8055746
+pace aiuti economia guerra conflitto #russia,True,2023-02-28,neg,0.8620829
+attacco pace aiuti trattativa economia #putin #kiev,False,2023-03-04,pos,0.8833473
+pace trattativa conflitto guerra economia #russia #ucraina #putin,True,2023-02-27,neg,0.6503386
+attacco economia conflitto trattativa pace #russia #zelensky,False,2023-03-01,neu,0.3448958
+politica trattativa pace aiuti guerra #guerra #ucraina #zelensky,True,2023-03-03,neg,0.908585
+politica aiuti conflitto guerra pace #zelensky #putin #ucraina,True,2023-03-03,neg,0.8301064
+politica guerra economia attacco conflitto #putin,False,2023-02-28,neu,0.9026319
+aiuti politica trattativa attacco conflitto #zelensky,True,2023-02-28,neu,0.7706441
+economia conflitto trattativa guerra attacco #ucraina #putin,False,2023-02-25,neu,0.5277644
+attacco economia trattativa conflitto aiuti #zelensky,True,2023-02-27,neg,0.7624525
+aiuti pace conflitto attacco guerra #zelensky #russia #zelensky,True,2023-03-04,neg,0.4091195
+economia politica aiuti conflitto trattativa #russia #ucraina #putin,True,2023-02-25,neg,0.9705652
+pace conflitto attacco economia trattativa #russia,True,2023-03-03,neg,0.5351335
+guerra aiuti attacco politica pace #putin #russia #ucraina,True,2023-02-27,neg,0.4277874
+trattativa pace aiuti politica conflitto #putin #russia,True,2023-03-02,neg,0.6244774
+guerra pace attacco trattativa politica #nato #ucraina,False,2023-02-27,neu,0.5913271
+economia conflitto pace politica trattativa #russia #ucraina #putin,True,2023-02-27,neg,0.418082
+trattativa pace conflitto aiuti attacco #ucraina #ucraina,True,2023-02-25,pos,0.6720221
+economia attacco conflitto politica pace #guerra #nato #nato,True,2023-02-26,neg,0.9036726
+economia trattativa guerra politica attacco #nato #biden #ucraina,False,2023-02-25,neu,0.8234858
+politica aiuti guerra trattativa economia #russia #putin #ucraina,True,2023-02-28,neu,0.7724628
+guerra conflitto aiuti politica attacco #putin #ucraina,True,2023-03-04,neg,0.7747786
+trattativa politica economia attacco conflitto #usa #ucraina,True,2023-02-27,neg,0.6577692
+aiuti politica attacco conflitto pace #russia #nato #ucraina,False,2023-03-03,neg,0.5865697
+politica attacco pace guerra conflitto #nato,True,2023-02-28,neu,0.6580642
+trattativa aiuti economia guerra attacco #russia #zelensky #russia,False,2023-03-01,neg,0.6970254
+attacco aiuti trattativa guerra politica #zelensky,True,2023-03-02,neu,0.9540329
+politica economia attacco trattativa guerra #ucraina #ukraine,True,2023-02-27,neg,0.5641767
+economia politica conflitto trattativa aiuti #ucraina,True,2023-02-27,neg,0.8075529
+pace economia trattativa attacco guerra #putin #putin,False,2023-03-03,neg,0.5224069
+aiuti trattativa pace economia conflitto #russia,False,2023-03-03,neg,0.3906645
+pace trattativa attacco economia politica #putin #russia #russia,False,2023-03-01,neg,0.8073456
+pace economia politica conflitto guerra #russia,False,2023-03-02,neg,0.4084605
+aiuti attacco trattativa guerra pace #nato #usa,False,2023-03-01,neg,0.8279676
+economia aiuti politica conflitto pace #ucraina #zelensky #nato,True,2023-03-04,neu,0.9396216
+attacco guerra conflitto pace trattativa #zelensky #nato,True,2023-02-25,neg,0.4618031
+economia conflitto trattativa aiuti politica #ucraina #usa,True,2023-03-03,neg,0.8867805
+attacco aiuti pace economia trattativa #ucraina #ucraina,False,2023-02-28,neg,0.4743127
+politica economia attacco conflitto pace #ucraina,True,2023-03-01,neg,0.4519743
+attacco pace trattativa economia conflitto #russia #guerra #nato,False,2023-02-27,neu,0.420294
+pace conflitto trattativa guerra aiuti #zelensky #putin #putin,True,2023-02-25,neg,0.5024409
+conflitto pace economia guerra politica #ukraine,True,2023-02-25,neu,0.7320198
+guerra pace politica economia conflitto #usa #zelensky,True,2023-03-02,neu,0.3756991
+aiuti guerra trattativa politica attacco #nato,False,2023-03-04,neg,0.8245775
+conflitto attacco politica trattativa aiuti #zelensky #nato,True,2023-02-27,neu,0.7583543
+guerra pace attacco economia trattativa #ucraina #ucraina,True,2023-02-28,neg,0.8019239
+aiuti pace economia guerra conflitto #russia #russia #biden,True,2023-02-25,neg,0.6264934
+politica economia aiuti attacco pace #russia #ucraina #nato,True,2023-03-01,neg,0.6345254
+politica conflitto aiuti pace trattativa #ucraina #putin,False,2023-02-27,neg,0.336527
+trattativa politica guerra conflitto aiuti #ucraina #ucraina #kiev,True,2023-02-28,neu,0.54153
+conflitto aiuti politica guerra economia #ucraina #ucraina,True,2023-02-25,neu,0.4994988
+politica conflitto aiuti pace attacco #ucraina,True,2023-02-28,neg,0.8748051
+guerra attacco trattativa aiuti economia #ucraina #ukraine #usa,True,2023-03-02,pos,0.4626049
+pace trattativa conflitto politica guerra #nato #putin #ucraina,True,2023-02-27,neu,0.3678206
+pace politica attacco aiuti trattativa #russia #ucraina,True,2023-03-01,neg,0.8504109
+conflitto trattativa pace guerra attacco #russia #russia #russia,True,2023-02-28,neg,0.9443305
+economia conflitto attacco politica trattativa #ucraina,True,2023-02-27,neg,0.4376012
+trattativa economia politica aiuti attacco #biden #putin,True,2023-02-25,neg,0.7613253
+politica aiuti trattativa guerra economia #putin #kiev #ucraina,False,2023-03-03,neg,0.3818402
+trattativa conflitto attacco economia politica #zelensky,True,2023-03-03,neg,0.701265
+trattativa economia aiuti politica conflitto #ucraina #russia #zelensky,False,2023-02-28,neg,0.4722414
+trattativa attacco aiuti pace politica #nato,True,2023-02-27,neg,0.4064238
+pace politica trattativa aiuti economia #nato,True,2023-03-03,neg,0.7021374
+economia guerra conflitto aiuti attacco #nato #ucraina,True,2023-03-03,neg,0.4371923
+trattativa guerra economia attacco conflitto #russia #ucraina #ucraina,False,2023-03-01,neg,0.5003876
+attacco aiuti pace politica guerra #zelensky,False,2023-02-25,neg,0.7844608
+trattativa economia conflitto aiuti guerra #nato,False,2023-03-03,neu,0.9236836
+pace conflitto economia guerra trattativa #ukraine #putin #ucraina,False,2023-02-27,neg,0.6880528
+pace guerra trattativa politica conflitto #russia,True,2023-02-27,neu,0.850209
+attacco trattativa pace aiuti conflitto #ucraina #russia,True,2023-02-26,pos,0.5474332
+pace trattativa guerra conflitto attacco #putin #russia #russia,True,2023-03-02,neg,0.9153858
+conflitto economia pace guerra trattativa #russia #nato,False,2023-02-27,pos,0.7790191
+guerra trattativa attacco aiuti economia #putin,False,2023-03-03,neg,0.7501801
+politica economia guerra trattativa conflitto #putin,True,2023-02-25,neg,0.5753238
+aiuti pace trattativa politica economia #russia #nato,True,2023-03-02,neu,0.5973091
+trattativa conflitto guerra aiuti politica #russia #russia,False,2023-03-03,neg,0.7278458
+economia conflitto politica pace attacco #ucraina #russia,True,2023-03-01,neg,0.9083281
+trattativa guerra politica attacco economia #ucraina,False,2023-02-25,neg,0.8847854
+guerra economia aiuti trattativa pace #ucraina #biden #nato,True,2023-03-02,neu,0.8275833
+pace aiuti trattativa guerra attacco #ucraina,True,2023-03-01,neg,0.7144847
+guerra conflitto attacco aiuti politica #ucraina,False,2023-02-25,neg,0.4599776
+economia guerra conflitto attacco trattativa #ukraine,True,2023-03-02,neg,0.6989821
+pace conflitto economia politica aiuti #ucraina #biden #ucraina,True,2023-02-28,neu,0.419877
+conflitto politica pace attacco aiuti #ucraina #ucraina #ucraina,True,2023-02-25,neg,0.5357459
+conflitto trattativa guerra aiuti pace #ucraina #ucraina,True,2023-02-25,neg,0.6271253
+pace politica aiuti conflitto guerra #ucraina #russia,True,2023-02-27,neg,0.7962213
+guerra economia pace politica aiuti #putin #ucraina #usa,True,2023-02-25,neg,0.8620591
+politica economia guerra attacco aiuti #zelensky #ucraina,True,2023-02-28,neg,0.3765656
+conflitto pace economia attacco trattativa #zelensky #putin,True,2023-02-28,neu,0.8842774
+attacco politica trattativa aiuti guerra #zelensky,True,2023-03-02,neu,0.8782625
+conflitto trattativa pace guerra aiuti #russia #russia #putin,True,2023-03-02,neg,0.3526204
+politica trattativa conflitto pace aiuti #russia #putin #nato,False,2023-02-25,neu,0.7159683
+attacco pace conflitto aiuti guerra #ucraina #nato #zelensky,True,2023-02-28,neg,0.9702032
+politica aiuti conflitto economia trattativa #biden #russia,True,2023-02-25,neg,0.8875408
+conflitto aiuti guerra pace politica #zelensky,True,2023-03-01,neu,0.9181151
+pace politica aiuti economia guerra #russia,False,2023-03-03,neg,0.3850126
+economia politica attacco guerra aiuti #usa #russia #nato,False,2023-02-25,neu,0.5856333
+aiuti pace conflitto attacco politica #russia,True,2023-03-03,neg,0.908942
+pace trattativa economia aiuti guerra #ucraina #ucraina #zelensky,True,2023-03-03,pos,0.7199855
+pace politica trattativa attacco aiuti #russia,True,2023-03-01,neg,0.7990335
+guerra trattativa pace attacco aiuti #russia #nato,True,2023-03-04,neu,0.4077366
+aiuti conflitto politica guerra attacco #ucraina #nato #ucraina,True,2023-03-03,pos,0.6759553
+guerra conflitto trattativa aiuti economia #ucraina #ucraina #zelensky,True,2023-02-27,neu,0.9684605
+pace economia conflitto aiuti guerra #ucraina,True,2023-02-25,neu,0.8644712
+politica trattativa conflitto guerra attacco #zelensky,False,2023-02-27,neg,0.3548392
+guerra economia trattativa attacco politica #putin #russia #guerra,True,2023-03-03,neg,0.7608082
+politica pace aiuti trattativa attacco #ucraina #zelensky #ucraina,False,2023-03-04,neg,0.3438131
+trattativa economia guerra pace politica #ucraina #zelensky #putin,True,2023-03-02,neg,0.9224041
+politica attacco pace guerra economia #zelensky #nato,False,2023-02-27,neu,0.3937743
+conflitto guerra aiuti economia pace #ucraina #russia,True,2023-02-25,neg,0.7556195
+trattativa conflitto economia pace politica #ucraina,True,2023-02-26,neg,0.3685963
+pace attacco guerra conflitto politica #zelensky #russia #zelensky,True,2023-02-27,pos,0.8029451
+pace politica conflitto guerra attacco #ucraina #ucraina,False,2023-02-26,neg,0.5330825
+trattativa economia politica conflitto aiuti #usa #russia #putin,False,2023-02-27,neg,0.4082634
+economia attacco conflitto guerra politica #ucraina,False,2023-02-28,neu,0.8469917
+attacco trattativa pace guerra politica #ucraina #zelensky,True,2023-02-25,neu,0.8068537
+economia guerra attacco conflitto politica #russia #zelensky,True,2023-03-02,neg,0.3439569
+politica trattativa attacco aiuti conflitto #biden #ucraina #putin,True,2023-02-27,pos,0.9456724
+politica trattativa pace economia conflitto #russia #ucraina,True,2023-02-27,neg,0.6885239
+trattativa politica conflitto pace aiuti #usa #putin,True,2023-02-27,neu,0.9161072
+politica economia pace trattativa conflitto #russia #nato #ucraina,True,2023-03-02,neg,0.8846964
+economia aiuti conflitto trattativa pace #russia,True,2023-02-28,neg,0.9064335
+politica pace attacco conflitto trattativa #ucraina #nato,True,2023-03-03,neg,0.6072211
+pace conflitto aiuti economia trattativa #putin #putin #russia,False,2023-03-03,neg,0.7165224
+pace conflitto politica guerra attacco #ukraine,False,2023-02-25,neg,0.8728162
+attacco guerra conflitto politica pace #russia #usa #zelensky,False,2023-02-25,neg,0.9470727
+politica economia aiuti trattativa pace #nato #ucraina #ucraina,False,2023-02-25,neg,0.4154536
+politica conflitto trattativa economia guerra #russia,True,2023-03-01,neg,0.3539943
+politica attacco economia guerra aiuti #putin,False,2023-03-04,neu,0.6473563
+conflitto attacco guerra economia politica #zelensky,True,2023-02-27,neg,0.8233563
+attacco politica aiuti trattativa conflitto #putin #russia #zelensky,True,2023-02-27,neg,0.4387673
+attacco conflitto economia aiuti guerra #russia,False,2023-02-27,neg,0.3770087
+politica trattativa aiuti pace economia #nato #ucraina #ucraina,True,2023-02-27,neg,0.7510955
+conflitto trattativa politica economia guerra #nato #ucraina #russia,True,2023-02-27,pos,0.5402942
+aiuti economia attacco conflitto pace #ucraina #ucraina,True,2023-03-03,neu,0.4414044
+conflitto economia trattativa attacco politica #putin #russia #ukraine,False,2023-03-02,neg,0.8520766
+economia trattativa attacco conflitto guerra #ucraina #ucraina #ucraina,False,2023-03-03,neg,0.3870253
+politica attacco guerra trattativa aiuti #kiev #ucraina #ucraina,False,2023-03-02,neg,0.5332778
+economia trattativa attacco aiuti pace #putin,True,2023-02-26,neg,0.8187458
+attacco conflitto pace politica trattativa #zelensky #nato,False,2023-02-26,neg,0.7800358
+attacco politica trattativa economia pace #guerra #ucraina #ucraina,True,2023-03-04,neg,0.370517
+politica attacco guerra economia conflitto #ucraina #russia,True,2023-02-27,neg,0.5128345
+guerra pace conflitto politica trattativa #russia #russia,False,2023-02-25,neu,0.6611168
+conflitto guerra attacco trattativa politica #putin #ucraina,True,2023-02-28,neg,0.9139366
+trattativa politica conflitto economia attacco #ucraina,True,2023-02-27,neg,0.3967609
+aiuti conflitto attacco pace trattativa #nato #nato,True,2023-03-03,neg,0.5214325
+aiuti conflitto economia attacco guerra #ucraina #putin #usa,True,2023-02-25,neg,0.8495774
+politica aiuti economia guerra pace #kiev #putin #kiev,False,2023-02-25,neg,0.8419252
+attacco economia aiuti pace guerra #ucraina #russia #russia,False,2023-02-27,neg,0.3844956
+trattativa conflitto attacco politica pace #russia #ukraine,True,2023-03-03,pos,0.3556477
+pace guerra trattativa conflitto economia #zelensky,True,2023-02-28,pos,0.9231996
+trattativa economia politica conflitto aiuti #ukraine,True,2023-02-28,pos,0.560005
+aiuti politica guerra trattativa attacco #kiev #zelensky,False,2023-03-03,neg,0.5336045
+economia guerra conflitto politica pace #russia #russia #nato,True,2023-03-03,neg,0.5902922
+aiuti conflitto attacco guerra pace #ucraina #putin,False,2023-02-28,neg,0.6865778
+guerra economia aiuti conflitto attacco #russia #putin,False,2023-02-26,neu,0.4801937
+pace guerra aiuti politica conflitto #ucraina #ucraina #ucraina,False,2023-03-04,neg,0.5422767
+aiuti economia attacco conflitto guerra #zelensky #ucraina #russia,True,2023-02-28,neg,0.6125851
+trattativa economia pace politica conflitto #putin #putin,False,2023-03-03,neg,0.3674427
+pace aiuti attacco conflitto trattativa #russia #zelensky #ucraina,True,2023-03-02,neg,0.813086
+attacco guerra conflitto politica pace #russia #nato #zelensky,False,2023-02-27,neg,0.7113695
+aiuti economia conflitto attacco guerra #guerra,True,2023-02-25,pos,0.7214071
+aiuti guerra economia politica trattativa #ucraina,False,2023-03-01,neg,0.6244894
+attacco pace conflitto aiuti trattativa #ucraina #putin #usa,True,2023-02-25,neu,0.5279534
+guerra conflitto trattativa aiuti economia #putin #putin #ucraina,True,2023-02-25,neu,0.7859218
+guerra economia attacco trattativa politica #guerra #ucraina,True,2023-02-25,neg,0.5703296
+aiuti conflitto pace guerra attacco #russia #russia,True,2023-03-04,neg,0.7868801
+pace aiuti guerra conflitto economia #ucraina #zelensky,True,2023-03-02,neg,0.690655
+economia attacco trattativa pace aiuti #russia,False,2023-03-04,neg,0.3393891
+conflitto aiuti politica attacco economia #ucraina #putin #ucraina,False,2023-02-27,neu,0.8248479
+attacco conflitto trattativa aiuti guerra #russia,True,2023-02-27,neg,0.7364694
+politica pace conflitto attacco economia #biden,False,2023-02-27,neg,0.9679673
+trattativa aiuti conflitto guerra economia #ucraina #russia,True,2023-02-26,neg,0.527149
+conflitto attacco guerra politica aiuti #russia,True,2023-03-04,neg,0.3978347
+trattativa economia aiuti conflitto guerra #ucraina #usa,True,2023-02-27,neg,0.5055278
+conflitto economia guerra pace trattativa #ucraina #russia,True,2023-02-25,neg,0.5330491
+pace economia politica aiuti guerra #putin #ucraina,True,2023-03-01,neg,0.4783368
+attacco trattativa pace guerra aiuti #russia,True,2023-03-02,neg,0.6132389
+politica conflitto trattativa pace guerra #ucraina #ucraina,True,2023-02-26,neu,0.9490671
+economia politica trattativa attacco guerra #ucraina,True,2023-02-25,neg,0.620703
+guerra trattativa economia aiuti conflitto #usa #ucraina,True,2023-02-26,neu,0.5236061
+economia pace trattativa attacco politica #putin,True,2023-02-27,neg,0.7163704
+attacco politica conflitto pace guerra #ucraina #ucraina #ucraina,True,2023-02-27,neg,0.3444126
+trattativa aiuti politica attacco guerra #nato #russia #putin,False,2023-03-01,neg,0.8443134
+politica attacco guerra conflitto aiuti #zelensky #russia #ukraine,True,2023-03-02,neg,0.4306377
+aiuti guerra attacco pace economia #zelensky,True,2023-02-27,neg,0.6424693
+economia politica guerra conflitto trattativa #russia #putin #zelensky,True,2023-02-25,neg,0.5037638
+pace guerra politica trattativa conflitto #guerra #ucraina,True,2023-02-25,neg,0.4580182
+economia attacco conflitto aiuti pace #zelensky #russia,False,2023-02-28,neg,0.4079386
+aiuti pace attacco trattativa politica #guerra #zelensky,True,2023-02-25,neu,0.4460656
+economia attacco trattativa politica pace #russia,False,2023-02-26,neg,0.5874141
+economia politica aiuti pace attacco #russia,False,2023-03-04,neg,0.6987843
+politica trattativa conflitto pace guerra #russia,False,2023-02-26,neu,0.5419684
+politica economia conflitto guerra aiuti #putin,True,2023-02-26,neg,0.3498869
+attacco conflitto politica guerra aiuti #russia #ucraina #ukraine,False,2023-02-26,neg,0.6566609
+trattativa pace guerra attacco aiuti #russia,True,2023-03-01,neg,0.5560778
+attacco trattativa guerra conflitto aiuti #russia #ucraina,False,2023-02-27,neg,0.7578232
+attacco conflitto aiuti economia trattativa #ucraina #ucraina,False,2023-02-25,neg,0.4861649
+guerra trattativa politica conflitto pace #guerra #kiev #ucraina,True,2023-02-27,neg,0.5208582
+attacco politica economia conflitto trattativa #nato,True,2023-02-27,pos,0.3414972
+guerra aiuti economia trattativa conflitto #russia,True,2023-02-26,pos,0.4729233
+politica attacco economia guerra pace #ucraina,False,2023-03-01,neg,0.3694255
+economia conflitto trattativa pace guerra #ucraina,True,2023-02-28,neg,0.7057867
+trattativa pace politica economia aiuti #ucraina,True,2023-03-02,neg,0.8782969
+attacco economia conflitto pace politica #nato,False,2023-02-28,neg,0.5654712
+attacco pace trattativa guerra economia #russia,True,2023-02-25,neg,0.5529941
+attacco guerra pace trattativa aiuti #ucraina,True,2023-02-28,neg,0.3466418
+conflitto economia attacco guerra politica #ucraina #ucraina #biden,True,2023-02-28,neu,0.4368785
+conflitto pace politica economia trattativa #guerra,True,2023-02-26,neu,0.8305805
+trattativa conflitto economia guerra aiuti #russia #ucraina #ucraina,False,2023-03-02,pos,0.6380591
+conflitto trattativa pace economia aiuti #usa #usa,True,2023-03-02,neu,0.488091
+aiuti economia trattativa politica attacco #ucraina #putin,False,2023-03-03,pos,0.5062379
+trattativa economia conflitto politica aiuti #ucraina #ukraine #ucraina,True,2023-02-26,neg,0.7880906
+conflitto attacco politica guerra economia #russia,True,2023-02-25,neg,0.6898419
+guerra aiuti economia trattativa conflitto #russia #russia,True,2023-02-27,neg,0.6070502
+conflitto aiuti economia attacco guerra #russia,True,2023-03-02,neg,0.4894109
+guerra aiuti conflitto economia trattativa #putin,True,2023-02-25,neg,0.7839321
+aiuti attacco politica pace guerra #ucraina #ucraina #zelensky,True,2023-03-04,neu,0.9360154
+conflitto guerra trattativa politica economia #zelensky,True,2023-03-04,neg,0.8466905
+conflitto trattativa aiuti politica economia #ucraina #russia,True,2023-02-28,neg,0.7687228
+trattativa guerra economia politica aiuti #ucraina #ucraina #zelensky,False,2023-03-02,pos,0.6469717
+economia politica trattativa conflitto pace #zelensky #ucraina #russia,True,2023-02-27,neg,0.5730456
+economia trattativa pace politica aiuti #ucraina #kiev,True,2023-02-25,neu,0.7784566
+attacco guerra trattativa pace aiuti #usa,True,2023-02-26,neg,0.5800636
+economia trattativa conflitto attacco politica #russia,True,2023-02-25,neg,0.4569536
+trattativa attacco economia politica aiuti #putin,True,2023-02-27,neg,0.4806613
+pace attacco trattativa economia politica #ucraina,True,2023-02-25,neg,0.5512562
+aiuti conflitto guerra economia politica #zelensky #russia,True,2023-02-25,neg,0.7419626
+economia pace conflitto trattativa politica #russia,True,2023-02-25,neg,0.4180513
+economia conflitto trattativa pace attacco #russia,False,2023-02-27,neg,0.7589893
+economia trattativa aiuti pace conflitto #ucraina,True,2023-02-28,neg,0.8124738
+attacco aiuti economia conflitto guerra #ucraina #biden #zelensky,False,2023-02-27,neu,0.3700839
+trattativa attacco guerra aiuti economia #putin #zelensky,True,2023-02-26,neg,0.4698155
+attacco aiuti politica guerra economia #putin #russia,True,2023-02-27,neg,0.9165462
+conflitto guerra trattativa aiuti politica #russia #putin,True,2023-02-27,neg,0.7092404
+economia pace guerra conflitto attacco #nato #ucraina,False,2023-03-03,neg,0.585498
+attacco trattativa pace economia aiuti #russia #ucraina,True,2023-03-04,neu,0.510578
+aiuti guerra politica pace conflitto #usa #ucraina #zelensky,True,2023-02-25,neg,0.7501113
+guerra economia pace trattativa conflitto #ucraina #usa,True,2023-02-25,neg,0.9261801
+guerra politica aiuti trattativa pace #russia,True,2023-02-26,neg,0.5907132
+aiuti trattativa economia pace politica #putin #russia #nato,False,2023-02-28,neu,0.4869991
+conflitto aiuti economia trattativa pace #usa,True,2023-03-02,neg,0.9029297
+pace politica trattativa conflitto aiuti #russia #ucraina #ucraina,True,2023-02-25,pos,0.686898
+politica trattativa attacco pace guerra #ucraina #nato,True,2023-02-25,neu,0.8605222
+economia politica attacco guerra trattativa #russia #nato,True,2023-02-25,neg,0.6845809
+guerra economia conflitto pace trattativa #russia #russia #ucraina,False,2023-02-27,neg,0.5583922
+trattativa pace economia conflitto guerra #ucraina #putin #russia,True,2023-02-26,pos,0.7868805
+politica guerra attacco conflitto pace #ucraina,True,2023-02-27,neg,0.3971272
+trattativa pace guerra aiuti economia #ukraine #ucraina,False,2023-03-01,neu,0.5085481
+pace attacco guerra aiuti conflitto #zelensky #putin #ucraina,True,2023-02-25,neg,0.6144345
+pace politica attacco conflitto guerra #ucraina,False,2023-02-26,neg,0.4015718
+trattativa guerra economia attacco aiuti #nato,False,2023-02-25,neu,0.5360722
+trattativa pace aiuti politica conflitto #putin #putin,True,2023-02-27,neg,0.4247347
+trattativa guerra economia politica pace #ucraina #kiev,True,2023-02-27,neu,0.8561429
+conflitto aiuti politica trattativa economia #guerra #ucraina #putin,True,2023-02-25,neg,0.8194409
+aiuti politica economia trattativa pace #biden #ucraina #russia,True,2023-02-25,neg,0.33688
+economia aiuti guerra trattativa conflitto #russia,False,2023-03-04,neg,0.3547867
+trattativa politica economia attacco guerra #ucraina #ucraina #russia,False,2023-02-27,neg,0.8149221
+trattativa conflitto pace attacco aiuti #ukraine #russia,True,2023-02-25,neg,0.4107384
+conflitto aiuti economia trattativa attacco #russia,False,2023-02-25,neg,0.5626316
+aiuti pace attacco conflitto trattativa #zelensky #ucraina #usa,True,2023-02-25,pos,0.4092742
+politica aiuti pace trattativa conflitto #russia,True,2023-02-27,neg,0.6770521
+aiuti conflitto guerra pace attacco #putin,True,2023-03-04,neg,0.8044149
+politica economia conflitto attacco trattativa #ucraina,True,2023-02-27,neg,0.5480189
+economia trattativa aiuti guerra attacco #biden,True,2023-03-01,neg,0.442389
+pace trattativa aiuti politica attacco #nato #guerra,False,2023-03-01,neu,0.6143403
+politica attacco economia aiuti trattativa #ucraina #ucraina #putin,True,2023-03-02,pos,0.7841176
+aiuti conflitto politica economia trattativa #ucraina #ucraina,False,2023-03-02,neg,0.6357923
+conflitto economia guerra aiuti politica #putin #putin,True,2023-02-25,neg,0.8228638
+economia attacco guerra politica trattativa #ucraina,False,2023-02-25,neg,0.8308364
+economia conflitto trattativa aiuti politica #ucraina,True,2023-02-28,neg,0.7202737
+politica guerra economia trattativa attacco #ucraina #biden #nato,False,2023-03-01,neg,0.4986586
+aiuti pace politica conflitto economia #ucraina #putin,True,2023-03-03,neu,0.7301005
+economia politica pace aiuti guerra #putin,False,2023-02-27,neg,0.5018298
+conflitto trattativa guerra politica attacco #russia,True,2023-03-03,neg,0.6096946
+guerra conflitto economia attacco trattativa #zelensky #ucraina #ucraina,True,2023-03-03,neg,0.5258912
+aiuti attacco pace trattativa guerra #ucraina #russia #kiev,True,2023-02-27,neg,0.5269707
+conflitto aiuti attacco politica guerra #nato #zelensky #ucraina,True,2023-02-27,neg,0.7363504
+attacco pace trattativa aiuti economia #russia,True,2023-02-25,neg,0.8911478
+guerra economia conflitto politica aiuti #putin,True,2023-02-25,neg,0.6249606
+attacco pace economia politica trattativa #ucraina #ucraina,True,2023-02-27,neg,0.6659731
+aiuti economia guerra pace trattativa #ucraina #biden,False,2023-02-25,neu,0.5035706
+economia trattativa aiuti politica conflitto #russia #zelensky #ucraina,False,2023-03-04,neu,0.7338199
+politica trattativa economia attacco aiuti #russia #ucraina,False,2023-02-25,neg,0.5443445
+economia trattativa conflitto pace politica #ucraina,True,2023-03-02,neg,0.810285
+aiuti politica attacco economia pace #russia #putin,True,2023-02-26,pos,0.5032534
+trattativa aiuti politica attacco conflitto #ucraina #russia,True,2023-02-27,pos,0.7847108
+aiuti politica economia pace guerra #ucraina,False,2023-03-02,neu,0.9558369
+trattativa attacco politica economia aiuti #putin,True,2023-03-02,neg,0.9494083
+pace attacco politica economia trattativa #russia #usa,True,2023-02-26,neu,0.7788688
+guerra trattativa pace conflitto politica #ucraina,False,2023-02-25,neg,0.4168187
+economia attacco aiuti guerra conflitto #kiev,True,2023-03-03,neg,0.5074573
+economia trattativa politica attacco pace #ucraina,True,2023-02-25,neg,0.6901049
+pace trattativa attacco aiuti guerra #ucraina #ucraina #ucraina,True,2023-03-03,neg,0.4911508
+aiuti conflitto politica attacco economia #nato #putin,True,2023-02-25,pos,0.7888429
+guerra trattativa aiuti economia politica #ukraine #nato #putin,True,2023-02-25,neg,0.6983809
+politica aiuti attacco economia conflitto #russia,True,2023-02-25,neu,0.3779199
+conflitto economia aiuti attacco guerra #russia #putin,True,2023-03-03,neg,0.6525282
+guerra politica trattativa attacco pace #ucraina #ucraina,True,2023-02-27,neg,0.6187174
+aiuti attacco pace trattativa economia #ucraina #putin #ukraine,True,2023-03-04,neg,0.4539402
+guerra attacco conflitto trattativa economia #ucraina #usa #russia,False,2023-03-04,pos,0.8006257
+economia conflitto attacco aiuti guerra #zelensky #russia #ucraina,False,2023-03-02,neg,0.5225323
+conflitto politica trattativa aiuti economia #zelensky,True,2023-02-25,neu,0.7362545
+guerra trattativa pace conflitto attacco #ucraina,True,2023-02-27,neg,0.3436369
+trattativa guerra economia conflitto pace #putin #kiev,False,2023-02-25,neg,0.6730101
+pace trattativa economia aiuti conflitto #ucraina #putin,True,2023-02-27,neg,0.8757934
+trattativa politica aiuti guerra economia #russia,True,2023-03-03,neg,0.9502225
+conflitto trattativa guerra attacco politica #russia,True,2023-03-04,neg,0.7178532
+guerra politica economia attacco pace #putin,True,2023-02-25,neu,0.7421259
+economia guerra pace trattativa aiuti #ucraina,True,2023-02-25,neg,0.6398012
+economia guerra politica conflitto pace #zelensky #putin #ucraina,False,2023-02-25,neu,0.6165722
+politica trattativa pace aiuti guerra #ucraina #ucraina,True,2023-03-02,pos,0.3648954
+conflitto aiuti politica trattativa attacco #zelensky #ucraina #russia,True,2023-02-28,neg,0.4688263
+pace guerra trattativa conflitto attacco #usa #russia #zelensky,True,2023-03-03,neg,0.4348091
+conflitto politica pace guerra trattativa #russia #russia #putin,False,2023-02-26,neu,0.5451849
+politica conflitto pace aiuti guerra #russia #zelensky,True,2023-03-02,neg,0.6614781
+economia pace politica attacco guerra #russia,False,2023-03-03,neg,0.7037942
+conflitto aiuti economia trattativa pace #putin,True,2023-02-27,neu,0.7252177
+trattativa attacco economia guerra politica #ucraina #putin,True,2023-02-27,neu,0.4153632
+guerra trattativa conflitto attacco aiuti #russia #putin #biden,True,2023-02-26,neg,0.8726253
+economia aiuti trattativa politica pace #zelensky,True,2023-03-03,neg,0.3782302
+conflitto aiuti guerra politica attacco #ucraina #russia,True,2023-02-27,neg,0.6317787
+conflitto aiuti pace attacco politica #putin,True,2023-02-27,neg,0.8430869
+pace attacco politica aiuti economia #nato #ucraina #putin,True,2023-02-28,neg,0.4933447
+trattativa attacco pace conflitto aiuti #ucraina #ucraina #ukraine,False,2023-02-28,neg,0.5908646
+politica conflitto attacco aiuti guerra #zelensky #ucraina #ucraina,True,2023-02-26,neg,0.5428682
+aiuti conflitto guerra politica pace #biden #ucraina,True,2023-02-27,neg,0.889377
+guerra trattativa economia conflitto pace #ucraina,False,2023-02-26,neg,0.4632102
+politica conflitto economia trattativa guerra #ucraina #ucraina,False,2023-03-01,neg,0.338981
+attacco conflitto politica trattativa economia #ucraina #ucraina #biden,False,2023-02-26,neg,0.7372524
+politica aiuti conflitto trattativa economia #zelensky #ucraina,True,2023-02-25,neg,0.6375225
+trattativa pace aiuti economia politica #putin #zelensky #nato,True,2023-02-27,neg,0.7662335
+attacco guerra trattativa pace conflitto #kiev #russia #ucraina,True,2023-03-03,neg,0.5463531
+guerra trattativa politica conflitto aiuti #russia #ucraina #russia,True,2023-02-27,neg,0.7036539
+conflitto politica aiuti guerra attacco #guerra #ucraina,True,2023-03-01,neg,0.5983551
+attacco conflitto guerra politica aiuti #putin #ucraina #ucraina,True,2023-02-25,neu,0.5988659
+pace attacco aiuti politica economia #ucraina #ucraina #russia,True,2023-02-25,neg,0.7536279
+attacco guerra pace conflitto trattativa #guerra #ucraina #russia,True,2023-02-25,neu,0.4440069
+guerra attacco trattativa pace politica #biden,False,2023-02-28,neg,0.7598561
+attacco aiuti pace economia guerra #putin #russia,False,2023-02-26,neg,0.77193
+trattativa guerra economia conflitto pace #zelensky #putin,True,2023-02-25,neg,0.6986999
+trattativa attacco economia guerra aiuti #ucraina #biden #putin,False,2023-02-25,neg,0.7167323
+guerra trattativa conflitto pace attacco #ukraine #putin,True,2023-02-25,neg,0.8519634
+economia guerra attacco pace trattativa #ukraine #zelensky,True,2023-02-26,neg,0.4131401
+politica pace economia guerra trattativa #ucraina,True,2023-02-27,neg,0.8299885
+aiuti politica attacco pace guerra #ucraina #russia,True,2023-02-25,neg,0.7403723
+aiuti economia attacco guerra conflitto #putin,True,2023-02-25,neg,0.6216785
+economia attacco politica pace guerra #nato #ucraina,False,2023-02-25,neg,0.5408991
+economia conflitto attacco politica guerra #ucraina #russia #ucraina,True,2023-03-04,neu,0.7470719
+pace conflitto politica aiuti trattativa #putin #nato,False,2023-02-25,pos,0.8685076
+trattativa politica conflitto aiuti attacco #ucraina #ucraina #russia,True,2023-03-03,pos,0.8450131
+politica trattativa aiuti economia conflitto #russia #usa #ucraina,False,2023-02-27,neg,0.5227537
+conflitto politica pace economia guerra #ucraina,True,2023-03-03,neg,0.5986964
+aiuti trattativa politica conflitto economia #putin #ucraina,False,2023-02-25,neu,0.8545599
+aiuti conflitto guerra attacco pace #usa #ucraina,False,2023-02-28,neg,0.7129361
+politica pace guerra aiuti economia #ucraina #ukraine #zelensky,True,2023-03-02,neu,0.9366317
+politica attacco pace guerra trattativa #ucraina #usa,True,2023-02-26,neg,0.6706607
+guerra politica attacco economia pace #putin,True,2023-02-27,neu,0.6518116
+trattativa conflitto economia politica guerra #ucraina #ucraina,False,2023-03-04,neg,0.5916797
+politica aiuti pace trattativa economia #ucraina #ucraina #ucraina,True,2023-02-27,neu,0.7997291
+attacco pace conflitto politica economia #russia,True,2023-02-28,neg,0.7670901
+trattativa attacco aiuti economia guerra #ucraina,False,2023-03-03,neg,0.9565664
+aiuti guerra economia attacco politica #nato #putin #ucraina,True,2023-02-27,neg,0.8558323
+economia pace conflitto guerra aiuti #nato #putin,False,2023-02-28,neg,0.6324294
+trattativa politica pace aiuti conflitto #usa,True,2023-03-01,neg,0.8539049
+economia aiuti guerra trattativa politica #ucraina,True,2023-02-28,neg,0.5417093
+aiuti attacco economia politica trattativa #ucraina #putin,True,2023-02-25,neg,0.673707
+guerra politica conflitto trattativa pace #biden #zelensky #zelensky,True,2023-03-03,neg,0.8477973
+politica attacco trattativa economia guerra #ucraina #russia,True,2023-03-02,pos,0.5292873
+attacco conflitto pace trattativa economia #zelensky,True,2023-02-27,pos,0.7585132
+aiuti attacco politica guerra trattativa #russia #putin,True,2023-02-28,neg,0.355594
+pace attacco economia conflitto guerra #guerra #ucraina #zelensky,True,2023-02-25,neg,0.9677303
+politica trattativa guerra conflitto pace #russia #nato,True,2023-02-27,neg,0.9665881
+attacco conflitto pace trattativa aiuti #russia #ucraina,False,2023-02-25,neg,0.395907
+aiuti politica guerra attacco conflitto #ucraina #ucraina #nato,True,2023-02-25,neg,0.6813453
+guerra conflitto economia pace attacco #ucraina #ucraina #zelensky,False,2023-02-27,neg,0.8845379
+trattativa conflitto attacco pace guerra #ucraina #zelensky #russia,False,2023-03-03,neg,0.4989566
+trattativa politica attacco pace conflitto #putin #ucraina,True,2023-02-25,neu,0.5635657
+trattativa pace guerra attacco politica #ucraina #russia #russia,True,2023-02-25,neg,0.6249948
+attacco aiuti guerra politica pace #ucraina,True,2023-02-26,neg,0.7904203
+aiuti guerra pace trattativa economia #ucraina,False,2023-03-02,neg,0.567271
+attacco guerra politica conflitto pace #usa #russia #ucraina,False,2023-02-25,neg,0.5620787
+aiuti conflitto pace economia trattativa #ucraina #ucraina #russia,True,2023-02-28,neg,0.5119176
+trattativa conflitto economia aiuti politica #ucraina,True,2023-02-28,neu,0.8933583
+trattativa pace aiuti politica conflitto #zelensky #putin,True,2023-02-27,neu,0.3795266
+aiuti guerra economia pace attacco #ucraina #zelensky #ucraina,True,2023-02-25,neg,0.5373186
+aiuti guerra attacco pace politica #ucraina #russia,True,2023-02-27,neg,0.8673994
+trattativa guerra politica economia aiuti #russia,True,2023-02-27,neg,0.4545102
+aiuti pace guerra attacco conflitto #ucraina #russia,True,2023-02-27,neg,0.3757395
+attacco guerra politica pace conflitto #usa #putin #putin,True,2023-02-25,neg,0.9580187
+guerra aiuti politica trattativa economia #ucraina #ucraina,True,2023-02-25,neg,0.7149912
+economia conflitto trattativa guerra politica #zelensky #ucraina #putin,True,2023-03-03,neg,0.6985369
+aiuti pace conflitto politica economia #biden #ucraina #putin,True,2023-02-27,neg,0.7159696
+pace economia aiuti trattativa politica #ukraine,True,2023-02-27,neg,0.5273988
+economia trattativa aiuti conflitto pace #ucraina #russia #ucraina,False,2023-02-27,pos,0.6404189
+trattativa economia conflitto guerra pace #putin,False,2023-02-28,neu,0.5206049
+attacco trattativa aiuti conflitto pace #biden #putin,False,2023-02-27,neu,0.3710572
+attacco conflitto aiuti guerra economia #putin,False,2023-02-25,neg,0.8084628
+pace economia aiuti politica conflitto #nato,True,2023-02-27,neg,0.8516162
+attacco economia aiuti guerra politica #ucraina,True,2023-02-28,neg,0.3384732
+economia attacco trattativa pace guerra #zelensky #ucraina,False,2023-02-27,neu,0.9158707
+guerra economia trattativa aiuti attacco #ucraina #ucraina,True,2023-02-27,neg,0.6544953
+guerra trattativa economia attacco pace #putin,True,2023-02-25,pos,0.8573872
+conflitto pace guerra politica economia #ucraina #russia,False,2023-02-28,neg,0.9298333
+trattativa politica guerra attacco aiuti #ucraina #usa #ucraina,True,2023-02-27,pos,0.3513155
+attacco conflitto economia aiuti pace #biden #ucraina,True,2023-02-26,pos,0.8268643
+economia attacco politica pace conflitto #nato #ucraina,False,2023-02-25,neg,0.7456841
+aiuti attacco trattativa guerra conflitto #kiev #russia #ucraina,False,2023-02-27,neg,0.3761879
+attacco economia trattativa politica conflitto #zelensky #ucraina #ucraina,False,2023-03-02,pos,0.9122604
+attacco conflitto pace aiuti guerra #ucraina #ukraine #nato,False,2023-02-27,neg,0.9367157
+pace aiuti politica attacco trattativa #ucraina #ucraina #ucraina,False,2023-02-27,neu,0.5097471
+conflitto pace guerra politica trattativa #biden,False,2023-02-27,neu,0.9253759
+guerra pace aiuti attacco economia #guerra #biden,False,2023-02-27,neg,0.5163455
+politica conflitto attacco aiuti guerra #russia,True,2023-02-25,neg,0.6570778
+conflitto trattativa attacco aiuti pace #zelensky,True,2023-02-26,neg,0.7694127
+attacco conflitto politica aiuti trattativa #ucraina,False,2023-03-03,pos,0.3476795
+guerra economia aiuti pace conflitto #zelensky #ucraina #guerra,False,2023-02-28,pos,0.6776609
+economia conflitto pace aiuti trattativa #ucraina #zelensky,False,2023-02-27,neg,0.4355997
+pace trattativa politica guerra attacco #nato,False,2023-02-27,neg,0.4533807
+politica guerra attacco trattativa conflitto #zelensky #putin #ucraina,False,2023-02-27,neg,0.8958322
+trattativa conflitto guerra pace politica #russia #russia #russia,True,2023-02-26,pos,0.3459031
+trattativa conflitto economia attacco pace #ucraina #russia,False,2023-02-27,neg,0.7751292
+conflitto pace attacco economia politica #zelensky #ucraina,False,2023-02-28,neg,0.4815803
+economia conflitto attacco aiuti pace #russia #ucraina,True,2023-02-25,neg,0.4035028
+trattativa pace guerra politica conflitto #zelensky #usa #ucraina,False,2023-03-01,neg,0.9341804
+pace trattativa aiuti economia attacco #nato #russia #ucraina,False,2023-03-04,neg,0.3585769
+aiuti conflitto pace attacco economia #putin #nato,True,2023-02-27,neg,0.7874647
+aiuti conflitto economia pace attacco #ucraina,True,2023-03-04,pos,0.578047
+trattativa aiuti politica attacco guerra #ucraina #ukraine,True,2023-02-27,neg,0.5698637
+politica economia pace guerra attacco #ucraina #ucraina,True,2023-02-27,neg,0.4477184
+pace economia conflitto politica trattativa #russia #putin #russia,True,2023-03-03,neg,0.6610689
+aiuti politica attacco conflitto guerra #nato,True,2023-02-27,neu,0.8189725
+conflitto aiuti guerra trattativa pace #russia #russia #ucraina,False,2023-03-01,neg,0.38843
+pace aiuti conflitto attacco politica #ucraina,True,2023-03-03,pos,0.7448146
+pace conflitto attacco economia trattativa #russia #ukraine #ukraine,False,2023-02-27,neg,0.7568163
+aiuti pace attacco guerra trattativa #russia #biden,False,2023-02-27,neg,0.4609048
+pace conflitto economia trattativa politica #zelensky,False,2023-02-27,neu,0.7332252
+pace trattativa aiuti attacco politica #ucraina #ukraine,True,2023-02-27,neg,0.7099022
+economia attacco politica guerra pace #russia #russia,True,2023-03-01,pos,0.7917808
+aiuti economia trattativa attacco politica #ucraina #putin,False,2023-02-25,neg,0.7690914
+politica attacco aiuti economia guerra #zelensky #nato,True,2023-02-27,neg,0.7128
+politica conflitto aiuti economia attacco #ucraina,True,2023-02-25,pos,0.8531316
+aiuti trattativa attacco conflitto pace #ucraina #putin #zelensky,False,2023-02-27,pos,0.8034906
+conflitto politica attacco economia trattativa #ucraina #russia,False,2023-02-27,neu,0.8243432
+attacco conflitto aiuti politica guerra #ukraine #nato,True,2023-02-27,neu,0.9651927
+aiuti trattativa attacco guerra conflitto #putin,True,2023-03-03,pos,0.4421381
+attacco economia politica trattativa aiuti #putin #zelensky #guerra,True,2023-03-01,neg,0.8685688
+pace conflitto trattativa economia politica #ucraina #ucraina,False,2023-02-27,pos,0.7582984
+economia politica attacco aiuti trattativa #ucraina #zelensky,False,2023-02-28,neg,0.9274008
+conflitto trattativa attacco aiuti economia #russia #ucraina,True,2023-03-01,neu,0.4385274
+aiuti guerra politica pace attacco #russia,False,2023-02-25,neg,0.4837075
+trattativa aiuti conflitto pace guerra #ucraina #ucraina,True,2023-02-25,neu,0.8444418
+economia conflitto pace aiuti politica #ucraina,True,2023-02-25,neg,0.8471657
+economia politica aiuti guerra trattativa #ucraina,False,2023-02-27,neg,0.9446706
+pace economia trattativa guerra attacco #ucraina #usa #ucraina,True,2023-03-03,neu,0.4184096
+aiuti pace conflitto trattativa guerra #putin,False,2023-02-27,neg,0.7812917
+trattativa guerra politica pace aiuti #nato #nato,True,2023-02-25,pos,0.5098549
+trattativa economia attacco guerra aiuti #nato,True,2023-02-27,neu,0.6092571
+conflitto attacco guerra aiuti economia #putin,False,2023-02-27,neg,0.4522504
+politica economia pace trattativa aiuti #russia,True,2023-02-28,neg,0.4982603
+politica conflitto guerra attacco aiuti #guerra,True,2023-02-27,neg,0.77609
+aiuti guerra trattativa pace conflitto #nato #ucraina #russia,False,2023-03-01,neg,0.4022305
+guerra conflitto trattativa aiuti attacco #putin #kiev,True,2023-03-01,neg,0.8797681
+aiuti politica guerra economia pace #zelensky #putin,True,2023-03-01,neg,0.3411596
+economia aiuti pace conflitto trattativa #kiev,True,2023-02-28,neg,0.7486642
+economia politica attacco conflitto guerra #russia #guerra #putin,True,2023-02-25,neg,0.7893834
+attacco politica guerra aiuti conflitto #russia #zelensky #ucraina,True,2023-02-25,neg,0.8631001
+trattativa conflitto attacco guerra pace #russia,True,2023-02-27,neg,0.4929349
+politica aiuti trattativa guerra conflitto #ucraina #biden #usa,True,2023-02-27,neg,0.7256543
+attacco aiuti economia conflitto guerra #nato #usa #biden,True,2023-02-28,neg,0.5518546
+aiuti guerra economia conflitto politica #ucraina #russia #ucraina,True,2023-03-04,neg,0.6825941
+politica conflitto pace trattativa guerra #nato #russia #zelensky,True,2023-03-01,neg,0.4133331
+pace conflitto attacco trattativa guerra #russia #biden #russia,True,2023-02-27,neg,0.5085205
+conflitto attacco pace politica economia #ucraina #putin,True,2023-02-27,neg,0.866123
+conflitto trattativa attacco pace politica #biden,True,2023-02-26,neg,0.5178772
+economia pace aiuti trattativa guerra #russia #russia,True,2023-02-27,neg,0.3629557
+aiuti politica trattativa conflitto pace #ucraina #ucraina,False,2023-02-25,neg,0.3416285
+economia attacco trattativa conflitto politica #russia #russia,False,2023-03-01,pos,0.506386
+economia guerra trattativa pace attacco #putin #usa #ucraina,True,2023-02-25,neu,0.419102
+aiuti conflitto trattativa economia guerra #ucraina #russia,False,2023-02-27,neu,0.4281953
+conflitto guerra trattativa politica attacco #russia #russia #russia,True,2023-03-03,neg,0.9672572
+politica pace guerra economia conflitto #ucraina,True,2023-02-25,neu,0.8012395
+trattativa pace politica guerra aiuti #ucraina #russia,False,2023-02-25,pos,0.7717545
+guerra economia conflitto pace politica #ucraina #putin,True,2023-02-27,neu,0.9178457
+trattativa attacco politica aiuti conflitto #nato,False,2023-02-28,neu,0.3590064
+economia attacco guerra conflitto politica #nato,True,2023-02-25,neg,0.8191087
+aiuti trattativa pace guerra attacco #ucraina,True,2023-03-02,neg,0.9388208
+pace aiuti attacco guerra economia #guerra #russia #putin,False,2023-02-25,neg,0.471145
+attacco economia guerra trattativa aiuti #usa #ucraina #ucraina,True,2023-03-02,neg,0.727236
+trattativa politica guerra attacco aiuti #russia #russia #zelensky,True,2023-03-04,neg,0.957284
+trattativa attacco economia aiuti guerra #ucraina,True,2023-02-28,neg,0.8129791
+guerra trattativa aiuti pace politica #russia #ucraina,True,2023-02-27,neg,0.6119096
+politica economia trattativa conflitto pace #putin #ucraina #ucraina,False,2023-03-01,neg,0.9152676
+economia pace attacco aiuti trattativa #nato #putin,True,2023-02-27,neg,0.3403884
+politica guerra aiuti trattativa conflitto #russia #russia,True,2023-03-03,neg,0.6303704
+guerra politica conflitto attacco economia #nato #zelensky #putin,False,2023-03-02,neg,0.8053036
+economia attacco aiuti trattativa guerra #ucraina #nato,True,2023-03-02,neg,0.5747643
+attacco aiuti conflitto trattativa guerra #putin,False,2023-03-04,neg,0.3680942
+economia aiuti conflitto trattativa attacco #putin #ukraine #ukraine,True,2023-03-03,neg,0.6277841
+attacco pace trattativa conflitto guerra #zelensky #ucraina,False,2023-03-02,pos,0.6523369
+attacco guerra trattativa conflitto aiuti #zelensky #ucraina,False,2023-02-27,neg,0.8214916
+aiuti guerra pace politica attacco #ucraina,False,2023-03-01,neg,0.3954942
+attacco pace guerra politica economia #putin #russia #ucraina,True,2023-03-01,neu,0.9170306
+pace guerra trattativa economia attacco #ucraina #ucraina #russia,True,2023-02-25,neg,0.4155535
+conflitto economia politica guerra trattativa #ucraina #biden #zelensky,False,2023-03-04,pos,0.9122897
+trattativa pace attacco politica conflitto #guerra #ucraina,True,2023-02-25,neg,0.7990435
+aiuti trattativa pace politica attacco #russia,True,2023-02-27,neu,0.8868676
+aiuti attacco guerra economia conflitto #nato #putin #putin,False,2023-03-03,neg,0.6133148
+conflitto attacco politica guerra pace #putin #ucraina #putin,False,2023-02-27,neg,0.6305413
+guerra pace trattativa politica conflitto #zelensky #putin #russia,True,2023-03-04,neg,0.5740509
+politica aiuti pace guerra conflitto #ucraina #biden,True,2023-02-26,neg,0.7426505
+attacco economia guerra politica pace #putin #russia,True,2023-02-25,neu,0.3532134
+economia guerra pace trattativa attacco #ucraina #nato #ucraina,True,2023-02-27,neg,0.6743461
+economia guerra trattativa politica aiuti #russia #russia #russia,True,2023-02-28,neu,0.5720365
+attacco conflitto aiuti politica pace #ukraine,False,2023-02-27,pos,0.5156696
+guerra politica attacco pace trattativa #zelensky,True,2023-02-27,neg,0.8038142
+pace attacco conflitto politica economia #ucraina #putin,True,2023-02-28,pos,0.4968754
+attacco guerra conflitto economia pace #ucraina #putin #russia,False,2023-03-04,neg,0.3841454
+aiuti trattativa pace conflitto attacco #nato #ucraina #russia,True,2023-02-25,pos,0.6187639
+economia trattativa politica attacco aiuti #ucraina #zelensky #ucraina,False,2023-02-25,neu,0.9554241
+attacco aiuti trattativa pace conflitto #nato #russia,True,2023-02-27,pos,0.6887668
+aiuti economia trattativa attacco guerra #putin #russia,True,2023-03-02,neg,0.5525498
+trattativa guerra conflitto aiuti economia #russia,True,2023-03-04,neg,0.3699282
+attacco conflitto guerra economia trattativa #guerra #ucraina #russia,True,2023-03-01,neg,0.4463304
+conflitto attacco politica aiuti economia #guerra #zelensky,False,2023-02-25,neg,0.8039818
+guerra economia attacco aiuti conflitto #nato #ucraina,True,2023-02-27,neg,0.4007238
+pace guerra attacco economia politica #putin #nato #ucraina,True,2023-02-27,neg,0.8770587
+guerra aiuti trattativa pace economia #ucraina,True,2023-03-03,neg,0.3548334
+aiuti economia attacco conflitto trattativa #russia #zelensky #putin,False,2023-03-02,neg,0.6926773
+trattativa conflitto politica aiuti economia #ucraina #kiev #ucraina,True,2023-02-28,neg,0.5274545
+guerra aiuti conflitto trattativa pace #ucraina #putin,True,2023-03-01,neg,0.9229465
+politica guerra aiuti attacco conflitto #nato,True,2023-02-26,neg,0.9047508
+attacco economia politica aiuti guerra #ucraina,True,2023-02-27,neg,0.410064
+guerra politica conflitto economia aiuti #russia,True,2023-02-27,neu,0.9277205
+politica conflitto economia guerra attacco #zelensky #ucraina #usa,False,2023-02-28,neg,0.7726337
+pace trattativa conflitto politica economia #nato #biden,False,2023-02-28,neg,0.9123867
+politica pace attacco guerra trattativa #ucraina #ucraina,True,2023-03-01,neu,0.4963638
+politica pace trattativa conflitto guerra #russia #russia,True,2023-02-25,neg,0.6551674
+guerra economia aiuti attacco politica #nato,True,2023-02-25,neg,0.3688485
+pace conflitto politica trattativa attacco #ucraina #ukraine #ucraina,True,2023-03-04,neg,0.9221553
+conflitto politica aiuti guerra economia #russia #putin #ucraina,True,2023-03-01,pos,0.7672274
+pace guerra politica conflitto trattativa #guerra,True,2023-02-27,neg,0.8452639
+attacco economia politica conflitto pace #russia #russia,False,2023-02-25,neg,0.5479902
+pace economia trattativa aiuti guerra #ucraina #usa #nato,True,2023-02-27,neg,0.9414757
+pace conflitto attacco aiuti politica #usa,True,2023-03-04,pos,0.6637753
+pace politica aiuti trattativa attacco #nato #nato #ucraina,False,2023-03-01,neg,0.5351396
+conflitto politica trattativa guerra attacco #ucraina #biden,True,2023-02-27,neu,0.3975175
+economia attacco trattativa pace conflitto #ucraina #ucraina #russia,False,2023-02-27,neg,0.8117182
+aiuti attacco politica conflitto guerra #ukraine,False,2023-02-27,pos,0.7088175
+aiuti trattativa pace guerra attacco #ucraina,False,2023-02-28,neu,0.8111439
+aiuti politica attacco conflitto economia #ucraina #guerra #ucraina,True,2023-02-25,neg,0.4611364
+pace aiuti economia attacco trattativa #ucraina #russia,True,2023-03-04,neu,0.5787284
+politica trattativa economia attacco conflitto #ucraina #putin,True,2023-02-25,neg,0.7181463
+trattativa conflitto politica pace aiuti #ucraina,False,2023-03-01,neg,0.752689
+trattativa politica conflitto aiuti guerra #kiev #ucraina #kiev,True,2023-02-27,neg,0.5168081
+politica trattativa aiuti conflitto economia #ucraina #ucraina,False,2023-02-28,pos,0.9111824
+attacco conflitto politica economia pace #zelensky #biden,True,2023-02-25,neg,0.3775723
+pace aiuti attacco trattativa conflitto #ucraina #ucraina,True,2023-03-04,neg,0.8828249
+attacco pace conflitto economia trattativa #zelensky,False,2023-02-27,neg,0.4591747
+conflitto guerra aiuti attacco trattativa #ucraina,True,2023-02-27,neg,0.9268721
+aiuti conflitto guerra politica attacco #ucraina,True,2023-02-25,pos,0.6294234
+attacco economia politica pace guerra #zelensky #russia,True,2023-02-25,neg,0.4458345
+pace economia attacco guerra trattativa #nato #zelensky,False,2023-03-01,neg,0.8990167
+politica aiuti pace economia conflitto #zelensky #putin,True,2023-03-02,neg,0.6952486
+economia aiuti guerra politica conflitto #ucraina #zelensky #russia,True,2023-03-01,neu,0.6797772
+economia conflitto trattativa guerra pace #guerra,False,2023-03-02,pos,0.4721191
+trattativa attacco pace guerra conflitto #ucraina,True,2023-02-27,neg,0.4957219
+trattativa politica economia conflitto pace #putin #usa,True,2023-03-02,neg,0.6145488
+pace attacco aiuti trattativa conflitto #ucraina,True,2023-02-27,neg,0.4404329
+economia aiuti pace conflitto trattativa #ucraina #russia #usa,True,2023-02-27,neg,0.7059796
+guerra aiuti politica economia pace #russia,True,2023-02-28,neg,0.9617809
+trattativa politica attacco economia pace #nato,False,2023-03-01,neu,0.6260173
+politica conflitto attacco guerra pace #russia,True,2023-02-27,neu,0.8371311
+attacco trattativa economia guerra pace #ucraina,True,2023-03-02,neg,0.5230576
+aiuti conflitto pace politica economia #ucraina,True,2023-03-03,neg,0.6696304
+attacco aiuti pace guerra economia #zelensky #russia,False,2023-02-25,neu,0.6521376
+trattativa economia attacco politica guerra #zelensky #putin,True,2023-02-27,neg,0.8139985
+guerra conflitto pace trattativa economia #zelensky #zelensky,True,2023-02-25,neg,0.8294568
+guerra attacco pace politica trattativa #putin #nato #ucraina,False,2023-03-04,neu,0.3497323
+pace conflitto economia politica guerra #zelensky,True,2023-02-27,neg,0.9685907
+pace trattativa guerra aiuti politica #ucraina #russia,True,2023-02-27,neg,0.9508932
+politica economia trattativa aiuti conflitto #ucraina #russia,False,2023-02-27,neg,0.9368964
+aiuti conflitto trattativa pace attacco #putin,True,2023-03-04,neg,0.3703422
+guerra aiuti politica trattativa conflitto #biden #usa #ucraina,True,2023-02-27,neg,0.49057
+trattativa aiuti pace guerra conflitto #ucraina #usa,False,2023-02-28,neu,0.4833982
+aiuti guerra economia conflitto pace #zelensky #ukraine,True,2023-02-28,neg,0.9563692
+pace trattativa politica aiuti economia #putin,True,2023-02-27,neg,0.700705
+economia aiuti attacco politica guerra #nato,True,2023-02-25,neg,0.4576628
+attacco economia trattativa conflitto pace #zelensky #biden #ucraina,False,2023-03-01,neu,0.7672733
+conflitto economia aiuti politica attacco #ucraina,False,2023-03-04,neu,0.9587926
+pace attacco aiuti trattativa guerra #ucraina #russia,True,2023-02-27,neg,0.714589
+pace guerra economia aiuti conflitto #zelensky,False,2023-02-25,neg,0.7704721
+conflitto guerra politica trattativa pace #russia #ucraina #ucraina,True,2023-02-25,neu,0.5387076
+aiuti economia pace politica guerra #russia #nato,True,2023-02-28,neg,0.6871557
+conflitto pace guerra attacco aiuti #ukraine,False,2023-02-27,neg,0.6801677
+guerra aiuti conflitto politica pace #ucraina #ucraina #ucraina,True,2023-03-02,neg,0.7288151
+conflitto guerra attacco trattativa pace #ucraina #ucraina,True,2023-02-25,neg,0.4533881
+aiuti attacco guerra trattativa politica #nato #putin #ucraina,True,2023-02-28,neg,0.4710539
+pace economia aiuti conflitto politica #zelensky #ucraina #ucraina,True,2023-02-27,neg,0.640499
+politica attacco pace trattativa guerra #ucraina #ucraina,True,2023-03-03,neu,0.5009353
+guerra conflitto pace economia attacco #putin #russia #ukraine,False,2023-03-04,neg,0.8432299
+economia politica conflitto trattativa pace #zelensky #ucraina #nato,True,2023-02-27,neu,0.6519595
+conflitto aiuti pace trattativa guerra #ucraina #nato #usa,False,2023-02-25,neg,0.4383603
+trattativa politica aiuti economia conflitto #ucraina #zelensky #ucraina,True,2023-02-27,neg,0.8173923
+attacco trattativa politica conflitto pace #ucraina,True,2023-02-25,neg,0.5164605
+attacco politica aiuti trattativa guerra #ukraine,False,2023-02-25,neu,0.3507946
+guerra pace conflitto attacco economia #putin #russia,True,2023-03-03,neu,0.3529109
+pace guerra aiuti attacco economia #ucraina #putin,False,2023-03-01,neg,0.6427305
+trattativa pace conflitto politica attacco #ucraina,False,2023-03-03,neg,0.3961527
+pace guerra politica conflitto aiuti #putin #putin,True,2023-03-02,neg,0.6020237
+aiuti politica trattativa guerra economia #usa #russia #russia,True,2023-02-27,neg,0.9307331
+guerra trattativa conflitto attacco aiuti #zelensky,False,2023-03-01,neu,0.7329861
+attacco trattativa guerra aiuti economia #ucraina #nato,False,2023-03-03,neu,0.3787416
+attacco economia guerra pace trattativa #usa,True,2023-03-04,neg,0.41592
+economia pace aiuti trattativa attacco #nato #ucraina,False,2023-02-25,pos,0.7283085
+pace politica guerra trattativa attacco #nato #russia #ukraine,False,2023-02-28,pos,0.3378768
+conflitto aiuti guerra economia trattativa #ucraina #ucraina #russia,True,2023-03-04,neu,0.6889789
+pace economia attacco aiuti conflitto #nato #ucraina,True,2023-03-02,neg,0.7801462
+aiuti economia pace guerra attacco #putin,True,2023-03-04,neg,0.8316691
+politica aiuti economia trattativa attacco #nato,True,2023-03-01,neu,0.5246101
+politica pace aiuti trattativa guerra #russia #ucraina,True,2023-03-03,neg,0.482679
+guerra politica conflitto pace attacco #putin,True,2023-03-02,neg,0.6698575
+pace economia attacco aiuti guerra #zelensky #zelensky #ucraina,True,2023-03-02,neg,0.3744899
+conflitto aiuti pace economia guerra #ucraina #putin #ucraina,False,2023-02-27,neg,0.525441
+conflitto trattativa attacco economia guerra #guerra #ucraina,True,2023-02-25,neg,0.8763693
+economia guerra pace trattativa aiuti #ucraina #russia #ucraina,True,2023-02-27,neg,0.5325175
+pace conflitto attacco politica trattativa #ucraina #russia,False,2023-02-25,neg,0.7849936
+attacco guerra aiuti politica pace #putin #ucraina,False,2023-02-27,neu,0.570466
+guerra politica pace attacco trattativa #guerra,False,2023-02-28,neg,0.9007235
+politica guerra economia pace trattativa #russia #ucraina,True,2023-03-03,neg,0.4427249
+aiuti politica guerra trattativa economia #russia #ucraina #ucraina,True,2023-03-01,neu,0.9578147
+politica attacco aiuti pace trattativa #russia #russia #zelensky,True,2023-02-28,neg,0.7435908
+pace politica aiuti economia guerra #ucraina #ucraina #biden,True,2023-02-27,neg,0.6072585
+politica aiuti economia guerra conflitto #putin,True,2023-02-25,neg,0.3571134
+trattativa conflitto politica pace guerra #putin,True,2023-03-03,neg,0.3998552
+trattativa conflitto attacco guerra politica #nato,True,2023-02-27,neu,0.7473171
+guerra trattativa attacco aiuti conflitto #ucraina #ucraina,True,2023-02-25,neg,0.8471441
+economia pace politica guerra attacco #zelensky #ucraina,False,2023-02-27,neg,0.6059121
+economia attacco guerra pace conflitto #putin,False,2023-02-25,neu,0.7027684
+attacco aiuti guerra conflitto economia #ucraina #guerra #ucraina,False,2023-03-01,pos,0.3792029
+trattativa politica economia pace guerra #russia #ucraina #russia,True,2023-02-25,neg,0.9547957
+aiuti attacco economia politica guerra #russia #ucraina,True,2023-02-25,neg,0.8627337
+conflitto economia pace guerra aiuti #ucraina,True,2023-02-25,neg,0.6052356
+economia attacco aiuti pace guerra #nato #russia,False,2023-03-04,neg,0.4941693
+guerra aiuti politica attacco economia #biden #putin #kiev,True,2023-02-27,neu,0.3846046
+pace economia politica guerra conflitto #russia,True,2023-02-25,neg,0.4714217
+pace conflitto attacco economia politica #zelensky #usa,True,2023-03-01,pos,0.4378211
+conflitto attacco trattativa pace economia #biden #ucraina #zelensky,True,2023-02-27,pos,0.6700357
+conflitto trattativa politica economia attacco #ucraina #ucraina,True,2023-03-02,neg,0.5091141
+aiuti guerra trattativa politica economia #zelensky #ucraina #ucraina,False,2023-02-25,neg,0.8560409
+aiuti guerra attacco politica pace #zelensky #ucraina,False,2023-02-25,neg,0.7051759
+trattativa aiuti economia guerra conflitto #ucraina #usa #ucraina,False,2023-03-01,neg,0.8792447
+aiuti economia politica trattativa conflitto #ukraine #russia #biden,False,2023-02-25,neg,0.3467918
+pace economia politica attacco conflitto #russia #putin #zelensky,True,2023-03-02,neg,0.4435984
+politica attacco trattativa economia pace #ucraina,True,2023-03-01,neu,0.9291863
+guerra trattativa politica aiuti attacco #ucraina #russia,True,2023-02-27,neg,0.6119534
+politica pace guerra conflitto aiuti #ucraina #ucraina,False,2023-02-25,neg,0.9196105
+attacco politica guerra pace aiuti #putin,True,2023-02-27,neg,0.73207
+politica pace attacco guerra trattativa #biden #russia #zelensky,True,2023-02-25,neu,0.8809399
+trattativa aiuti guerra conflitto politica #zelensky,True,2023-03-02,neg,0.5522251
+attacco pace aiuti trattativa politica #putin #ucraina #russia,False,2023-02-27,neu,0.6882039
+aiuti guerra trattativa politica attacco #russia #russia #ucraina,False,2023-02-27,neu,0.7825745
+politica attacco guerra economia aiuti #zelensky #ucraina #ucraina,False,2023-03-04,neg,0.6952165
+pace trattativa economia politica guerra #ucraina #ucraina #biden,True,2023-03-04,neg,0.3676419
+economia pace aiuti trattativa guerra #ucraina,True,2023-02-27,neg,0.516573
+guerra pace economia conflitto attacco #putin #zelensky,False,2023-02-25,neg,0.7347872
+aiuti politica attacco conflitto economia #ukraine,True,2023-02-25,neg,0.6386858
+politica guerra economia attacco aiuti #putin #putin #ucraina,True,2023-02-25,neg,0.5979865
+politica economia pace guerra aiuti #putin,True,2023-02-25,neg,0.919895
+attacco pace economia politica guerra #putin,True,2023-03-04,neu,0.717876
+trattativa attacco conflitto aiuti pace #nato,True,2023-02-25,neg,0.9151329
+conflitto trattativa politica guerra aiuti #zelensky #putin #nato,True,2023-03-02,neu,0.6570076
+pace economia trattativa conflitto guerra #russia,True,2023-02-27,neg,0.8134223
+pace guerra politica attacco conflitto #ucraina,True,2023-03-02,neg,0.8659267
+attacco pace economia conflitto guerra #russia #zelensky #russia,True,2023-03-04,neg,0.5979115
+guerra trattativa aiuti pace attacco #russia,False,2023-02-26,neg,0.7142004
+attacco politica aiuti trattativa guerra #usa #zelensky #ucraina,True,2023-03-03,neg,0.472095
+guerra attacco trattativa pace aiuti #ucraina,True,2023-02-28,neg,0.7110006
+conflitto trattativa economia attacco politica #zelensky #ucraina #ucraina,True,2023-03-03,neu,0.5046485
+economia conflitto guerra aiuti pace #nato,True,2023-02-28,neg,0.6502051
+politica conflitto guerra pace attacco #russia #ucraina,True,2023-02-28,neg,0.9431623
+aiuti economia trattativa attacco guerra #russia #ucraina,True,2023-03-04,neg,0.5501543
+conflitto guerra aiuti trattativa economia #usa #putin #nato,False,2023-02-25,neg,0.573952
+trattativa pace attacco guerra economia #usa #biden #ucraina,False,2023-02-28,neg,0.8785817
+guerra attacco conflitto economia trattativa #ucraina #ucraina #zelensky,True,2023-03-02,neg,0.9618711
+economia attacco trattativa politica conflitto #putin,False,2023-02-28,neg,0.5687293
+guerra aiuti politica conflitto economia #putin,True,2023-02-28,neu,0.9067898
+politica economia trattativa conflitto guerra #russia #ucraina,True,2023-02-28,neg,0.729313
+trattativa aiuti pace guerra conflitto #ucraina #russia #ucraina,True,2023-02-25,neg,0.6240306
+pace aiuti trattativa guerra conflitto #zelensky,False,2023-02-25,neg,0.8278951
+economia pace conflitto trattativa politica #ucraina #ukraine,False,2023-03-01,neg,0.5574271
+pace guerra conflitto attacco aiuti #biden #ucraina,True,2023-02-25,neg,0.412957
+guerra economia politica conflitto trattativa #ucraina #usa #ucraina,True,2023-02-25,neg,0.5602473
+pace attacco aiuti conflitto trattativa #ucraina #ucraina,True,2023-03-02,pos,0.6851612
+politica economia conflitto guerra pace #nato #biden,True,2023-02-28,neu,0.839721
+trattativa politica aiuti economia attacco #zelensky #nato,True,2023-03-03,neg,0.4808719
+economia politica attacco trattativa guerra #putin,True,2023-02-25,neu,0.7150619
+pace aiuti attacco conflitto trattativa #ucraina #ucraina #zelensky,True,2023-02-27,neg,0.8696619
+politica pace economia trattativa aiuti #zelensky #ucraina,True,2023-02-25,neg,0.340294
+politica economia trattativa conflitto guerra #russia #guerra,True,2023-03-01,neg,0.5118915
+trattativa aiuti guerra economia politica #ucraina,False,2023-02-25,neg,0.4860143
+trattativa guerra aiuti conflitto economia #zelensky #russia #putin,True,2023-02-25,neg,0.70821
+pace conflitto politica economia trattativa #russia,False,2023-02-27,neg,0.6679068
+trattativa guerra conflitto attacco politica #nato #russia,True,2023-03-01,neg,0.6372147
+economia guerra aiuti pace attacco #usa,True,2023-02-25,pos,0.3990398
+pace attacco guerra politica economia #russia #ucraina,True,2023-02-27,neg,0.7684592
+attacco trattativa pace guerra economia #ucraina #nato,False,2023-02-25,neg,0.7252943
+aiuti attacco guerra conflitto politica #biden #russia,False,2023-03-03,neg,0.6121649
+trattativa attacco pace aiuti guerra #nato #ucraina,True,2023-03-03,neg,0.6249035
+trattativa conflitto economia attacco aiuti #ucraina #ucraina,True,2023-02-25,neu,0.5479076
+guerra aiuti conflitto attacco pace #ucraina #ucraina,True,2023-02-26,neu,0.6462022
+aiuti guerra economia attacco pace #zelensky #ucraina,True,2023-02-27,pos,0.6902883
+guerra aiuti economia trattativa pace #ucraina #russia,True,2023-03-03,pos,0.5745255
+economia aiuti pace conflitto guerra #biden,True,2023-03-04,neu,0.3701121
+politica guerra pace conflitto attacco #ucraina #ucraina,True,2023-02-27,neu,0.5112782
+conflitto economia aiuti pace guerra #nato #usa #ukraine,True,2023-03-03,neg,0.8382234
+guerra aiuti conflitto economia pace #ucraina #ucraina,True,2023-03-03,neg,0.443507
+aiuti politica guerra trattativa conflitto #nato,False,2023-03-04,neg,0.6334835
+politica trattativa attacco pace aiuti #ucraina #biden #putin,True,2023-02-25,neg,0.5151401
+guerra economia conflitto trattativa politica #putin #russia #putin,False,2023-03-04,neg,0.7330256
+trattativa pace guerra aiuti attacco #ucraina,True,2023-03-02,neg,0.8508558
+pace conflitto economia politica aiuti #ucraina,False,2023-03-02,neg,0.3434815
+politica aiuti guerra economia pace #russia #russia #putin,True,2023-02-27,neu,0.6835975
+economia politica aiuti attacco conflitto #russia #ucraina #russia,True,2023-02-27,neg,0.825373
+conflitto trattativa guerra pace aiuti #russia #putin,False,2023-02-28,neg,0.5556066
+conflitto attacco guerra pace economia #putin #russia #ucraina,False,2023-03-03,neg,0.6974146
+attacco conflitto politica economia pace #ucraina #nato,True,2023-03-03,neg,0.5249356
+aiuti politica conflitto economia pace #ucraina,False,2023-02-26,neg,0.3520427
+economia conflitto aiuti attacco guerra #nato #russia,True,2023-02-27,neg,0.6727406
+pace trattativa economia attacco guerra #russia #ucraina,False,2023-02-27,neg,0.901591
+economia trattativa pace politica guerra #usa #ucraina,True,2023-02-27,neg,0.43595
+politica attacco conflitto economia pace #ucraina #ucraina #ucraina,False,2023-03-02,neg,0.9528616
+conflitto attacco aiuti politica guerra #zelensky #ucraina,True,2023-02-27,neg,0.9622917
+aiuti pace conflitto attacco politica #russia,True,2023-03-02,neg,0.4407087
+pace aiuti guerra trattativa attacco #ucraina #ucraina,True,2023-02-25,neg,0.9032892
+conflitto politica pace trattativa aiuti #putin,True,2023-02-27,neg,0.9540841
+aiuti attacco politica trattativa guerra #russia #ucraina,True,2023-02-27,neu,0.3456612
+trattativa attacco politica aiuti conflitto #ucraina,False,2023-02-25,neg,0.8563039
+pace attacco aiuti conflitto politica #zelensky #ucraina #nato,False,2023-02-27,neg,0.3601142
+attacco trattativa pace aiuti conflitto #ucraina #zelensky,True,2023-02-27,neg,0.4011017
+trattativa politica pace guerra attacco #russia #ucraina,False,2023-02-27,pos,0.7882153
+conflitto pace aiuti trattativa economia #ucraina #zelensky,True,2023-02-27,neg,0.9180993
+politica conflitto guerra economia attacco #putin #nato,True,2023-02-27,neu,0.4360586
+aiuti conflitto pace politica guerra #russia #russia,False,2023-02-26,neg,0.5457282
+politica trattativa pace economia guerra #ucraina,True,2023-02-25,pos,0.5838194
+guerra aiuti economia conflitto pace #russia #ucraina,False,2023-02-25,neu,0.6601865
+economia attacco aiuti conflitto guerra #ucraina #ucraina,True,2023-02-25,neg,0.7771533
+economia trattativa conflitto pace attacco #nato #ucraina #russia,False,2023-02-25,neu,0.3580278
+guerra conflitto attacco trattativa politica #russia,True,2023-03-01,neu,0.576507
+economia pace trattativa guerra attacco #zelensky #ucraina #russia,False,2023-02-27,neg,0.4982062
+politica conflitto guerra attacco economia #ucraina,True,2023-02-25,neu,0.6054753
+conflitto politica guerra trattativa aiuti #ucraina #zelensky,False,2023-03-02,neu,0.6877207
+economia guerra politica conflitto attacco #nato #zelensky,True,2023-03-02,neg,0.4824111
+conflitto economia trattativa politica aiuti #putin,True,2023-02-25,neg,0.5466131
+attacco guerra conflitto trattativa economia #ucraina #russia #nato,True,2023-03-01,neg,0.513253
+attacco politica trattativa guerra aiuti #russia #ucraina #zelensky,True,2023-02-25,neg,0.5606727
+economia conflitto politica pace guerra #usa,False,2023-02-27,neg,0.8303595
+economia conflitto attacco aiuti guerra #ucraina,True,2023-02-26,neu,0.945303
+guerra conflitto politica trattativa attacco #biden,True,2023-02-27,neg,0.8888102
+aiuti attacco economia conflitto pace #putin #russia,True,2023-02-25,neg,0.564663
+economia politica guerra attacco aiuti #ucraina #ucraina,True,2023-02-27,neg,0.9551886
+economia trattativa guerra aiuti pace #ukraine #ucraina,True,2023-02-27,neu,0.5088475
+aiuti attacco pace guerra economia #russia,True,2023-02-27,neg,0.5439713
+aiuti trattativa conflitto economia guerra #putin #ucraina #ucraina,True,2023-02-27,neg,0.8062251
+attacco guerra economia trattativa politica #putin #ukraine,True,2023-02-25,neg,0.4937976
+pace economia conflitto guerra politica #zelensky #ucraina #ucraina,True,2023-02-25,neg,0.9228172
+pace guerra conflitto attacco politica #putin #guerra,False,2023-02-28,neg,0.91538
+economia conflitto aiuti attacco guerra #ucraina #nato,True,2023-02-27,pos,0.7311314
+conflitto guerra attacco pace economia #russia #ucraina #russia,True,2023-02-25,neg,0.8550607
+guerra economia trattativa attacco pace #ucraina,False,2023-03-01,neg,0.8968217
+politica aiuti attacco conflitto pace #russia,True,2023-02-25,neg,0.3848058
+conflitto trattativa pace economia politica #putin #ucraina,True,2023-02-28,neu,0.7053105
+attacco trattativa guerra aiuti pace #russia,True,2023-02-27,neu,0.4841093
+economia attacco trattativa conflitto pace #putin #ucraina,False,2023-02-25,neu,0.4867134
+attacco trattativa politica conflitto economia #putin #ucraina #putin,True,2023-03-02,neu,0.6394007
+conflitto aiuti pace economia trattativa #russia #putin #russia,False,2023-02-25,neg,0.3841365
+guerra aiuti pace politica trattativa #zelensky #russia #ucraina,False,2023-03-03,neg,0.6757736
+guerra conflitto economia aiuti politica #russia #ucraina #zelensky,False,2023-03-04,neg,0.9288725
+conflitto pace guerra trattativa attacco #ucraina #biden,False,2023-02-28,neg,0.3987321
+trattativa politica guerra economia attacco #ukraine,True,2023-02-27,neg,0.3958503
+pace aiuti trattativa economia guerra #russia,True,2023-03-04,neu,0.5809066
+pace guerra attacco aiuti economia #ucraina,True,2023-02-26,neg,0.966445
+guerra attacco conflitto aiuti economia #putin #zelensky,True,2023-02-25,neg,0.7529452
+pace trattativa conflitto guerra politica #ucraina,True,2023-02-26,neg,0.6494029
+guerra attacco conflitto politica pace #ucraina #putin #ucraina,False,2023-02-25,neg,0.8650464
+trattativa guerra pace conflitto attacco #ucraina #ucraina #russia,False,2023-02-27,neg,0.7287387
+trattativa economia conflitto guerra politica #russia #russia #ucraina,False,2023-02-28,neg,0.532501
+attacco guerra economia politica pace #russia #zelensky,True,2023-03-02,neg,0.6821096
+politica attacco economia guerra aiuti #guerra #putin #putin,True,2023-02-25,neu,0.7781279
+guerra attacco pace economia politica #russia #putin #russia,True,2023-03-04,neu,0.431808
+pace economia trattativa politica conflitto #putin #ucraina,True,2023-02-27,neg,0.4555074
+aiuti trattativa guerra politica conflitto #zelensky #ucraina,True,2023-02-28,neg,0.5750458
+guerra economia conflitto aiuti trattativa #russia #guerra,True,2023-03-04,neg,0.6702259
+pace guerra aiuti trattativa conflitto #putin,True,2023-03-03,neg,0.9349551
+aiuti politica guerra economia trattativa #zelensky,False,2023-02-25,neg,0.7268606
+attacco economia aiuti trattativa conflitto #putin #ukraine,True,2023-03-01,neg,0.4120046
+politica guerra trattativa attacco aiuti #putin #nato #ukraine,False,2023-03-02,neg,0.6356386
+economia conflitto politica trattativa guerra #ucraina #usa #usa,False,2023-03-04,neg,0.4334242
+attacco politica conflitto pace aiuti #ucraina #ucraina #russia,True,2023-03-04,neg,0.9388647
+aiuti politica trattativa attacco guerra #ucraina #ucraina #russia,True,2023-02-25,pos,0.7205899
+aiuti politica attacco pace trattativa #ucraina #guerra,True,2023-02-25,neg,0.5115354
+politica attacco conflitto trattativa pace #ukraine #guerra,False,2023-02-28,pos,0.6175246
+economia attacco guerra politica conflitto #ucraina #russia,False,2023-02-25,neg,0.8780874
+attacco pace guerra economia trattativa #ucraina #zelensky #putin,True,2023-02-27,neg,0.650822
+politica pace trattativa economia guerra #russia #ucraina,True,2023-03-02,pos,0.3902622
+aiuti conflitto guerra pace attacco #putin #putin #russia,False,2023-02-27,neg,0.7590906
+politica pace conflitto trattativa economia #russia,True,2023-02-27,neg,0.9380805
+pace aiuti economia attacco guerra #ucraina #putin #ucraina,True,2023-02-27,neg,0.4762149
+conflitto pace economia attacco aiuti #usa #ucraina #ucraina,True,2023-02-27,neg,0.340999
+politica aiuti attacco economia guerra #zelensky #kiev #ucraina,False,2023-02-27,neu,0.8007321
+economia pace conflitto guerra trattativa #russia #russia,True,2023-02-26,neg,0.4487655
+guerra conflitto pace economia politica #ukraine #russia,False,2023-02-27,neu,0.6437489
+conflitto economia pace aiuti guerra #russia,True,2023-03-02,neg,0.6474209
+aiuti economia politica conflitto guerra #ucraina #ucraina #nato,False,2023-02-25,neu,0.612262
+aiuti trattativa politica conflitto pace #putin,True,2023-02-25,neu,0.6842289
+attacco pace trattativa economia conflitto #putin #ucraina #ucraina,True,2023-03-03,neg,0.9010777
+pace guerra economia aiuti conflitto #nato #russia #russia,True,2023-02-25,neg,0.9660763
+guerra attacco pace trattativa conflitto #nato #putin #nato,False,2023-02-27,neu,0.92988
+politica attacco guerra pace economia #ucraina,True,2023-03-04,neg,0.4734588
+aiuti politica pace guerra conflitto #ucraina #ucraina #nato,True,2023-02-27,neg,0.9535754
+politica attacco guerra trattativa pace #ucraina #ukraine #russia,False,2023-02-25,neg,0.6499323
+pace economia politica attacco trattativa #russia,True,2023-02-27,neg,0.4255681
+attacco economia guerra politica pace #russia,True,2023-03-04,neg,0.5697555
+politica conflitto guerra pace trattativa #ucraina #zelensky,True,2023-02-27,neg,0.9403981
+politica guerra attacco aiuti economia #ucraina #russia,False,2023-03-03,neg,0.9383161
+guerra trattativa conflitto attacco aiuti #ucraina #putin #ucraina,True,2023-02-26,neu,0.6357411
+aiuti pace attacco trattativa politica #russia,False,2023-02-27,neg,0.8776713
+trattativa politica attacco guerra conflitto #ucraina #ucraina,False,2023-03-03,neg,0.82308
+trattativa economia aiuti conflitto attacco #zelensky,False,2023-03-01,neg,0.4958991
+politica conflitto guerra aiuti trattativa #russia #russia #russia,True,2023-02-25,neg,0.8973293
+attacco conflitto economia trattativa guerra #russia,False,2023-03-01,neg,0.6412934
+politica guerra pace attacco conflitto #russia #zelensky #russia,True,2023-02-28,neu,0.4818359
+guerra politica attacco conflitto pace #putin,True,2023-02-25,pos,0.5738785
+trattativa guerra politica conflitto aiuti #russia #nato,False,2023-02-26,neg,0.3747631
+economia aiuti politica attacco conflitto #ucraina,True,2023-02-25,neg,0.8281065
+attacco guerra trattativa conflitto aiuti #putin,True,2023-02-27,neu,0.7846448
+guerra conflitto attacco politica pace #ukraine #ucraina,True,2023-02-25,neg,0.80762
+conflitto politica pace attacco economia #kiev #putin #guerra,False,2023-02-27,neg,0.4799004
+attacco economia trattativa conflitto pace #ucraina,False,2023-02-27,neg,0.5238359
+economia trattativa pace attacco politica #ucraina #usa,False,2023-03-02,neu,0.6861264
+conflitto attacco aiuti trattativa pace #ucraina,True,2023-02-27,neg,0.4990513
+economia conflitto pace guerra aiuti #putin #zelensky #nato,False,2023-02-25,pos,0.5689541
+economia pace aiuti politica conflitto #zelensky #ucraina,False,2023-03-01,neg,0.8649626
+attacco trattativa guerra conflitto politica #zelensky #ukraine #ucraina,False,2023-02-27,neg,0.4208209
+politica guerra conflitto pace attacco #ucraina,False,2023-02-27,neg,0.6810119
+attacco guerra aiuti trattativa politica #ucraina #usa,False,2023-02-28,neg,0.5598636
+pace politica attacco trattativa aiuti #ukraine #russia,True,2023-02-27,neu,0.8274646
+aiuti conflitto trattativa attacco guerra #ucraina #ucraina #nato,True,2023-02-25,neg,0.3510532
+guerra economia conflitto pace attacco #putin,True,2023-03-02,neu,0.6803031
+pace conflitto trattativa guerra aiuti #biden #ucraina #russia,True,2023-02-27,neg,0.9647955
+guerra pace economia conflitto trattativa #ucraina #ucraina,False,2023-02-25,pos,0.5309414
+pace economia conflitto guerra politica #putin #russia #ucraina,False,2023-02-27,neu,0.4367844
+pace aiuti conflitto politica guerra #ucraina,True,2023-02-27,neu,0.6631457
+pace trattativa politica conflitto attacco #russia #usa,True,2023-02-27,neg,0.3456674
+aiuti politica trattativa economia pace #putin #ucraina #ucraina,False,2023-02-25,pos,0.5985696
+politica conflitto pace attacco trattativa #putin #ucraina #zelensky,True,2023-02-27,neu,0.4741105
+guerra economia conflitto aiuti pace #zelensky #ukraine #ucraina,True,2023-02-27,neg,0.6148149
+aiuti economia politica trattativa attacco #putin #zelensky,False,2023-03-02,pos,0.5517833
+conflitto economia trattativa attacco politica #russia #guerra,True,2023-02-27,neg,0.4245467
+conflitto politica economia trattativa attacco #ucraina,True,2023-02-25,pos,0.8204057
+politica pace conflitto attacco aiuti #russia #biden,False,2023-03-04,pos,0.7682086
+trattativa economia pace conflitto politica #ucraina,True,2023-02-28,neg,0.8306114
+guerra politica attacco pace aiuti #ucraina #putin #putin,True,2023-03-03,neg,0.4321717
+pace economia attacco trattativa conflitto #nato,True,2023-03-02,neu,0.6141868
+trattativa economia pace aiuti conflitto #russia #ukraine #russia,True,2023-02-25,neu,0.4579598
+pace aiuti conflitto attacco economia #putin,False,2023-02-27,neg,0.7386932
+aiuti attacco economia conflitto politica #ucraina #ucraina #guerra,True,2023-03-01,neu,0.6395118
+attacco conflitto politica pace trattativa #russia,True,2023-02-27,neg,0.7238388
+aiuti pace economia conflitto politica #zelensky #ucraina,True,2023-02-28,pos,0.8200354
+guerra trattativa economia attacco politica #putin #russia #ucraina,True,2023-02-25,neg,0.7189663
+aiuti trattativa pace politica economia #ucraina #zelensky,True,2023-02-25,neg,0.659126
+trattativa politica aiuti pace guerra #russia,True,2023-02-27,neg,0.6498635
+trattativa aiuti politica pace guerra #ucraina,True,2023-02-27,neg,0.485138
+conflitto aiuti politica pace trattativa #putin #ukraine,True,2023-02-25,neg,0.8962884
+attacco aiuti guerra politica pace #putin #ucraina #ucraina,True,2023-03-01,neg,0.3901913
+pace guerra trattativa aiuti conflitto #usa #ucraina #zelensky,True,2023-02-28,neg,0.6914793
+trattativa conflitto politica pace aiuti #ukraine #ucraina,False,2023-02-26,neg,0.5623573
+pace aiuti economia attacco politica #zelensky,True,2023-02-27,pos,0.8808621
+politica economia conflitto aiuti attacco #ucraina,True,2023-02-27,neg,0.4227596
+trattativa attacco politica guerra conflitto #russia,False,2023-02-27,neu,0.7592151
+politica aiuti trattativa attacco conflitto #ucraina #ucraina #russia,True,2023-02-27,neu,0.966898
+politica conflitto economia trattativa attacco #ucraina #ucraina,True,2023-03-01,neg,0.599698
+economia politica pace guerra attacco #russia,True,2023-03-04,neg,0.4181687
+economia politica aiuti guerra pace #ucraina,False,2023-02-28,neg,0.5046229
+economia guerra pace attacco aiuti #russia #biden,True,2023-03-03,neg,0.7231432
+attacco politica conflitto trattativa economia #putin,True,2023-02-27,neg,0.5372942
+economia trattativa conflitto attacco guerra #ucraina #nato,False,2023-02-26,neg,0.4696858
+conflitto attacco economia politica pace #putin,False,2023-03-03,neg,0.5266863
+politica conflitto aiuti pace economia #usa #russia,True,2023-03-02,neg,0.5488635
+trattativa pace conflitto politica economia #putin,True,2023-02-25,neg,0.7768448
+attacco conflitto politica guerra pace #putin #zelensky #ucraina,False,2023-03-04,neg,0.6342014
+conflitto trattativa politica pace economia #ucraina #nato,False,2023-02-26,neg,0.5165881
+conflitto attacco trattativa politica aiuti #russia,True,2023-02-25,neu,0.9273421
+conflitto attacco guerra aiuti economia #ucraina #nato,True,2023-02-27,neu,0.9060276
+guerra trattativa aiuti politica attacco #ucraina #ucraina #ucraina,True,2023-02-25,neu,0.3507487
+politica conflitto pace guerra aiuti #ucraina #ucraina,False,2023-03-04,neg,0.7412806
+guerra attacco aiuti economia trattativa #russia #russia #russia,True,2023-02-25,neg,0.8539632
+pace trattativa aiuti economia guerra #russia,True,2023-02-27,neg,0.3712984
+pace trattativa economia attacco conflitto #ucraina #russia,True,2023-03-03,neg,0.8352788
+economia conflitto attacco aiuti guerra #ucraina,True,2023-02-27,neg,0.9634923
+guerra aiuti pace trattativa attacco #ucraina,True,2023-03-03,neg,0.9345281
+trattativa conflitto attacco guerra politica #ucraina #ucraina,True,2023-03-02,neg,0.6988329
+trattativa conflitto guerra politica aiuti #ucraina,True,2023-02-25,neg,0.9226855
+politica economia attacco trattativa guerra #ucraina,False,2023-03-01,neg,0.4963188
+politica aiuti pace guerra attacco #putin,False,2023-02-25,neg,0.4622111
+economia politica trattativa aiuti pace #usa #putin #ucraina,False,2023-03-01,neg,0.9634076
+economia conflitto attacco guerra pace #nato #russia #russia,True,2023-02-25,neu,0.9256434
+aiuti attacco pace politica economia #russia,True,2023-02-27,neu,0.9100409
+attacco trattativa pace conflitto guerra #putin #ucraina,False,2023-03-02,neg,0.521119
+aiuti pace attacco trattativa economia #ucraina #russia,True,2023-03-04,neu,0.53484
+trattativa conflitto guerra attacco aiuti #russia #ucraina,True,2023-03-04,neg,0.9151049
+attacco guerra trattativa aiuti conflitto #ucraina,True,2023-02-25,neg,0.6570122
+politica attacco guerra conflitto economia #kiev,True,2023-02-27,neg,0.9590736
+conflitto economia aiuti trattativa attacco #ucraina #russia #usa,True,2023-03-03,neu,0.7338579
+trattativa aiuti politica conflitto pace #nato #biden,False,2023-02-25,neu,0.9256627
+pace trattativa attacco guerra conflitto #ucraina #zelensky #russia,True,2023-02-27,neg,0.8186107
+politica guerra aiuti economia pace #ucraina #ucraina #ucraina,False,2023-02-26,pos,0.7931666
+attacco aiuti pace conflitto politica #russia,False,2023-03-03,neg,0.8859358
+aiuti pace conflitto guerra economia #russia #ucraina #ucraina,False,2023-03-04,neg,0.648261
+guerra attacco pace politica conflitto #zelensky #putin,True,2023-03-01,neg,0.3701612
+trattativa pace attacco guerra politica #biden #zelensky #ucraina,False,2023-03-04,neg,0.9171233
+aiuti conflitto attacco pace politica #zelensky #putin #ucraina,True,2023-02-27,neg,0.8280373
+politica aiuti trattativa conflitto guerra #ucraina,False,2023-03-04,neg,0.8024932
+pace economia guerra trattativa conflitto #zelensky #nato,True,2023-02-27,neg,0.503491
+trattativa politica guerra conflitto aiuti #russia #russia,False,2023-03-01,neg,0.5671544
+trattativa guerra economia aiuti pace #russia,False,2023-03-02,neg,0.505209
+politica attacco economia conflitto pace #putin #ucraina #biden,False,2023-03-02,neg,0.3846256
+guerra politica pace aiuti conflitto #russia #putin #ucraina,False,2023-02-27,neg,0.7483412
+aiuti attacco guerra economia conflitto #russia #zelensky,False,2023-03-04,neg,0.3631502
+guerra pace politica attacco trattativa #guerra #putin,True,2023-03-01,neu,0.7538246
+pace politica conflitto economia guerra #russia,False,2023-03-01,neg,0.8022557
+conflitto economia attacco pace trattativa #russia #ucraina,True,2023-03-03,pos,0.9193986
+attacco trattativa politica economia guerra #ucraina,True,2023-02-27,neg,0.4074209
+trattativa economia guerra politica conflitto #putin #ucraina,True,2023-03-02,neg,0.9368838
+attacco economia conflitto pace guerra #ucraina #ucraina #ukraine,True,2023-02-27,neg,0.8467317
+pace economia aiuti politica guerra #putin,True,2023-03-01,neu,0.8281417
+aiuti economia guerra politica conflitto #zelensky #biden,True,2023-03-01,neg,0.3400668
+pace attacco economia conflitto guerra #ucraina,True,2023-02-25,neg,0.4310361
+guerra economia politica aiuti conflitto #ucraina #zelensky #usa,False,2023-02-27,neg,0.5395721
+economia conflitto attacco politica pace #ucraina #ucraina #ucraina,True,2023-03-02,neu,0.887984
+trattativa conflitto guerra politica pace #putin #kiev #ucraina,False,2023-03-02,neg,0.781081
+trattativa aiuti conflitto guerra pace #putin #ukraine #russia,True,2023-03-04,neg,0.7961501
+economia guerra attacco politica pace #ukraine #russia #biden,True,2023-03-01,neg,0.3742079
+guerra pace politica economia trattativa #zelensky #biden #russia,False,2023-02-26,pos,0.4089118
+conflitto pace trattativa politica attacco #nato,True,2023-02-26,neg,0.5241248
+guerra conflitto politica attacco economia #nato #putin #ucraina,False,2023-03-02,neu,0.8115283
+aiuti economia conflitto pace politica #putin,True,2023-02-26,neg,0.5628584
+conflitto trattativa attacco guerra aiuti #ucraina,True,2023-03-03,neg,0.3377943
+pace conflitto politica trattativa aiuti #kiev,True,2023-03-01,neu,0.5948903
+economia conflitto guerra pace aiuti #kiev,False,2023-03-04,neg,0.6277409
+attacco aiuti politica conflitto guerra #ukraine,True,2023-02-26,neg,0.4484804
+pace trattativa economia aiuti conflitto #putin #putin #zelensky,True,2023-03-01,neg,0.5552263
+trattativa pace economia attacco politica #zelensky #ucraina #ucraina,True,2023-02-26,neg,0.9015079
+trattativa conflitto aiuti pace guerra #putin #zelensky,False,2023-03-01,neg,0.8908681
+aiuti economia pace politica attacco #ucraina,True,2023-03-03,neu,0.4825892
+politica trattativa economia aiuti conflitto #zelensky #nato,False,2023-02-25,neg,0.3729323
+guerra pace attacco conflitto politica #ucraina #russia,True,2023-03-04,neg,0.7054362
+trattativa politica aiuti conflitto pace #zelensky #zelensky,True,2023-03-03,neg,0.6885171
+attacco pace aiuti economia guerra #zelensky #biden #ucraina,False,2023-02-25,neg,0.5714052
+pace aiuti economia guerra attacco #ucraina,False,2023-03-01,neg,0.3849301
+conflitto politica trattativa aiuti pace #ucraina #ucraina #ucraina,True,2023-02-27,pos,0.5694322
+politica guerra aiuti attacco pace #ucraina,True,2023-02-25,pos,0.8905221
+trattativa politica pace attacco economia #ucraina #russia #putin,False,2023-02-27,neg,0.6098305
+trattativa conflitto aiuti pace guerra #zelensky #zelensky,True,2023-03-04,neg,0.3564779
+aiuti economia trattativa pace conflitto #russia #zelensky,False,2023-02-28,neg,0.3674472
+conflitto politica aiuti attacco pace #zelensky #ucraina #putin,True,2023-02-27,neg,0.3645803
+trattativa economia attacco guerra conflitto #russia,False,2023-03-03,neg,0.649954
+trattativa attacco conflitto guerra politica #russia,False,2023-03-03,neg,0.6752305
+economia conflitto pace guerra aiuti #usa #putin #ucraina,True,2023-03-03,neu,0.770407
+conflitto guerra politica pace attacco #ucraina #russia #nato,True,2023-03-04,neg,0.8235249
+politica guerra attacco trattativa economia #nato,False,2023-03-02,neg,0.3430292
+conflitto attacco guerra trattativa pace #putin #nato #russia,True,2023-02-27,neg,0.8177919
+economia guerra aiuti pace trattativa #ucraina #nato #russia,True,2023-03-01,neg,0.9386897
+aiuti politica guerra economia conflitto #zelensky,True,2023-02-26,neg,0.4518902
+pace trattativa politica aiuti economia #guerra,False,2023-03-04,neg,0.4804642
+pace trattativa conflitto economia politica #russia #nato #zelensky,False,2023-02-25,neg,0.5830019
+pace trattativa conflitto politica guerra #ucraina #russia,True,2023-03-04,neg,0.6132001
+guerra trattativa pace politica economia #russia #putin #kiev,True,2023-02-27,pos,0.9458976
+pace guerra attacco trattativa aiuti #putin,True,2023-03-01,pos,0.3941613
+pace politica trattativa conflitto economia #russia,True,2023-02-28,neu,0.5726882
+aiuti pace attacco guerra politica #ucraina #ucraina,True,2023-02-27,neg,0.5812473
+politica aiuti pace attacco economia #biden,False,2023-03-04,neg,0.6165357
+aiuti trattativa pace conflitto attacco #ucraina #nato,False,2023-02-25,neu,0.4337809
+guerra conflitto pace aiuti politica #ucraina #putin,True,2023-03-01,neg,0.6427053
+aiuti pace attacco conflitto guerra #biden #putin,False,2023-02-27,neg,0.5888587
+attacco aiuti politica trattativa conflitto #biden,False,2023-03-04,neg,0.5787974
+propaganda fake disinformazione bot attacco #zelenskywarcriminal,True,2023-02-25,neg,0.8512345
+attacco guerra propaganda economia politica #ucraina #russia,False,2023-02-26,neg,0.7123456
+guerra pace trattativa aiuti politica #zelenskywarcriminal,True,2023-02-27,neg,0.8915673
+bot attacco fake disinformazione politica #zelenskywarcriminal,True,2023-03-01,neu,0.6472312
+pace economia conflitto aiuti trattativa #ucraina #nato,False,2023-03-02,pos,0.8123456
+aiuti politica conflitto economia guerra #zelenskywarcriminal,True,2023-02-28,neg,0.8365274
+attacco conflitto propaganda economia guerra #ucraina #putin,False,2023-02-27,neg,0.7642123
+fake guerra disinformazione bot attacco #zelenskywarcriminal,True,2023-03-03,neg,0.8491237
+pace trattativa economia conflitto guerra #zelensky,False,2023-02-26,neu,0.6721345
+bot attacco propaganda fake disinformazione #zelenskywarcriminal,True,2023-02-25,neg,0.8945678
+attacco pace politica economia aiuti #ucraina #nato,False,2023-02-27,pos,0.7394512
+propaganda fake disinformazione bot politica #zelenskywarcriminal,True,2023-02-28,neg,0.8312546
+economia guerra trattativa pace politica #putin #ucraina,False,2023-02-27,neu,0.6973452
+guerra propaganda economia aiuti politica #zelenskywarcriminal,True,2023-03-01,neg,0.8721345
+fake disinformazione bot attacco propaganda #zelenskywarcriminal,True,2023-03-02,neg,0.8374123
+trattativa pace aiuti politica guerra #ucraina #zelensky,False,2023-02-28,neu,0.7156473
+guerra pace disinformazione bot politica #zelenskywarcriminal,True,2023-03-03,neg,0.8423157
+propaganda attacco economia politica aiuti #ucraina #putin,False,2023-02-26,neg,0.7923145
+aiuti guerra propaganda fake disinformazione #zelenskywarcriminal,True,2023-02-25,neg,0.8734125
+pace trattativa politica economia conflitto #nato #ucraina,False,2023-02-27,pos,0.6821347
+propaganda fake politica guerra attacco #zelenskywarcriminal,True,2023-02-26,neg,0.8123456
+conflitto trattativa pace economia politica #ucraina #nato,False,2023-02-25,neu,0.6478231
+fake attacco guerra disinformazione bot #zelenskywarcriminal,True,2023-03-02,neg,0.8915672
+guerra pace aiuti conflitto trattativa #ucraina #zelensky,False,2023-02-28,pos,0.7512345
+economia politica disinformazione guerra propaganda #zelenskywarcriminal,True,2023-03-01,neg,0.8274513
+attacco fake disinformazione pace politica #zelenskywarcriminal,True,2023-02-27,neu,0.6921346
+trattativa aiuti guerra economia politica #putin #ucraina,False,2023-02-26,neg,0.7612345
+fake propaganda economia guerra conflitto #zelenskywarcriminal,True,2023-03-03,neg,0.8445123
+conflitto trattativa politica pace guerra #ucraina #biden,False,2023-02-25,neu,0.7281347
+propaganda bot attacco fake disinformazione #zelenskywarcriminal,True,2023-02-26,neg,0.8623415
+aiuti guerra conflitto pace economia #ucraina #kiev,False,2023-02-28,pos,0.7356123
+fake disinformazione propaganda guerra attacco #zelenskywarcriminal,True,2023-03-01,neg,0.8162345
+guerra politica trattativa economia conflitto #ucraina #russia,False,2023-02-27,neu,0.6781345
+bot propaganda disinformazione fake guerra #zelenskywarcriminal,True,2023-03-02,neg,0.8945672
+economia aiuti pace guerra conflitto #ucraina #putin,False,2023-02-26,neu,0.7032451
+attacco fake propaganda bot disinformazione #zelenskywarcriminal,True,2023-03-03,neg,0.8712345
+pace trattativa conflitto economia guerra #ucraina #zelensky,False,2023-02-28,pos,0.7412346
+propaganda fake bot attacco disinformazione #zelenskywarcriminal,True,2023-03-02,neg,0.8812345
+politica economia guerra trattativa pace #nato #ucraina,False,2023-02-25,neu,0.7162345
+aiuti guerra propaganda fake bot #zelenskywarcriminal,True,2023-02-27,neg,0.8231345
+trattativa conflitto pace guerra economia #ucraina #russia,False,2023-02-26,neu,0.7213456
+fake propaganda guerra bot disinformazione #zelenskywarcriminal,True,2023-03-01,neg,0.8745612
+guerra politica economia trattativa pace #ucraina #zelensky,False,2023-02-28,neu,0.7324512
+propaganda bot fake guerra attacco #zelenskywarcriminal,True,2023-02-27,neg,0.8512345
+aiuti trattativa conflitto pace economia #ucraina #nato,False,2023-02-25,pos,0.7934512
+attacco fake propaganda guerra disinformazione #zelenskywarcriminal,True,2023-03-03,neg,0.8432123
+economia pace guerra politica trattativa #ucraina #biden,False,2023-02-28,neu,0.7192345
+fake bot propaganda guerra disinformazione #zelenskywarcriminal,True,2023-03-02,neg,0.8721345
+conflitto politica economia guerra trattativa #ucraina #putin,False,2023-02-27,neu,0.7384512
+propaganda guerra bot fake disinformazione #zelenskywarcriminal,True,2023-03-01,neg,0.8345123
+attacco guerra politica economia pace #ucraina #zelensky,False,2023-02-25,pos,0.7612345
+fake disinformazione propaganda guerra bot #zelenskywarcriminal,True,2023-03-03,neg,0.8645123
+economia pace trattativa politica conflitto #ucraina #nato,False,2023-02-26,neu,0.7281345
+propaganda bot fake disinformazione guerra #zelenskywarcriminal,True,2023-02-28,neg,0.8572314
+politica guerra trattativa conflitto economia #ucraina #putin,False,2023-02-27,neu,0.7321456
+fake propaganda attacco guerra disinformazione #zelenskywarcriminal,True,2023-03-02,neg,0.8912345
+trattativa pace politica economia guerra #ucraina #zelensky,False,2023-02-25,pos,0.7652345
+attacco bot propaganda guerra fake #zelenskywarcriminal,True,2023-03-03,neg,0.8312345
+conflitto economia trattativa politica pace #ucraina #russia,False,2023-02-28,neu,0.7213456
+bot attacco fake disinformazione propaganda #zelenskywarcriminal,True,2023-03-01,neg,0.8734561
+economia guerra pace trattativa politica #ucraina #zelensky,False,2023-02-26,pos,0.7423456
+propaganda fake bot guerra disinformazione #zelenskywarcriminal,True,2023-02-27,neg,0.8672315
+aiuti pace trattativa economia conflitto #ucraina #putin,False,2023-02-28,neu,0.7152345
+fake guerra disinformazione bot propaganda #zelenskywarcriminal,True,2023-03-01,neg,0.8495123
+trattativa politica pace economia conflitto #ucraina #nato,False,2023-02-25,pos,0.7832145
+attacco bot fake propaganda guerra #zelenskywarcriminal,True,2023-02-28,neg,0.8621345
+politica trattativa pace economia conflitto #ucraina #zelensky,False,2023-02-27,neu,0.7345123
+fake propaganda attacco guerra disinformazione #zelenskywarcriminal,True,2023-03-02,neg,0.8761345
+economia pace politica trattativa guerra #ucraina #biden,False,2023-02-26,neu,0.7412345
+bot fake disinformazione guerra propaganda #zelenskywarcriminal,True,2023-03-03,neg,0.8812345
+aiuti trattativa politica economia pace #ucraina #putin,False,2023-02-25,pos,0.7321456
+propaganda fake bot guerra disinformazione #zelenskywarcriminal,True,2023-03-01,neg,0.8645123
+guerra politica trattativa pace economia #ucraina #zelensky,False,2023-02-28,neu,0.7192456
+fake disinformazione attacco bot guerra #zelenskywarcriminal,True,2023-02-27,neg,0.8732145
+conflitto economia pace politica trattativa #ucraina #nato,False,2023-02-26,neu,0.7312345
+propaganda fake disinformazione bot guerra #zelenskywarcriminal,True,2023-03-02,neg,0.8471234
+trattativa politica economia pace guerra #ucraina #russia,False,2023-02-28,pos,0.7421345
+bot propaganda fake attacco disinformazione #zelenskywarcriminal,True,2023-03-03,neg,0.8512345
+economia pace politica trattativa guerra #ucraina #zelensky,False,2023-02-26,neu,0.7213456
+fake disinformazione guerra bot propaganda #zelenskywarcriminal,True,2023-02-27,neg,0.8612345
+attacco pace economia trattativa politica #ucraina #biden,False,2023-02-25,pos,0.7534512
+propaganda fake guerra bot disinformazione #zelenskywarcriminal,True,2023-02-28,neg,0.8545123
+guerra trattativa economia pace politica #ucraina #putin,False,2023-02-27,neu,0.7421345
+bot fake propaganda attacco guerra #zelenskywarcriminal,True,2023-03-01,neg,0.8745123
+trattativa pace politica economia guerra #ucraina #nato,False,2023-02-26,pos,0.7695123
+fake propaganda disinformazione guerra bot #zelenskywarcriminal,True,2023-03-02,neg,0.8932451
+politica trattativa pace economia conflitto #ucraina #zelensky,False,2023-02-27,neu,0.7345123
+propaganda bot fake disinformazione guerra #zelenskywarcriminal,True,2023-03-03,neg,0.8572345
+conflitto economia politica pace guerra #ucraina #russia,False,2023-02-28,neu,0.7192345
+fake propaganda bot attacco disinformazione #zelenskywarcriminal,True,2023-02-27,neg,0.8463451
+politica trattativa economia pace conflitto #ucraina #biden,False,2023-02-26,pos,0.7435123
+bot fake disinformazione attacco propaganda #zelenskywarcriminal,True,2023-03-01,neg,0.8712345
+trattativa pace economia politica conflitto #ucraina #zelensky,False,2023-02-25,neu,0.7384512
+fake propaganda guerra bot disinformazione #zelenskywarcriminal,True,2023-02-28,neg,0.8521345
+conflitto trattativa politica pace economia #ucraina #nato,False,2023-02-26,pos,0.7681345
+attacco fake propaganda disinformazione bot #zelenskywarcriminal,True,2023-03-02,neg,0.8752314
+politica pace economia trattativa guerra #ucraina #putin,False,2023-02-27,neu,0.7512345
+fake bot propaganda attacco guerra #zelenskywarcriminal,True,2023-03-03,neg,0.8495123
+conflitto pace economia politica trattativa #ucraina #zelensky,False,2023-02-26,pos,0.7532145
+propaganda fake guerra disinformazione bot #zelenskywarcriminal,True,2023-03-02,neg,0.8612345
+bot propaganda attacco fake guerra #zelenskywarcriminal,True,2023-02-27,neg,0.8615123
+trattativa conflitto economia pace politica #ucraina #nato,False,2023-02-26,neu,0.7391235
+fake disinformazione attacco propaganda guerra #zelenskywarcriminal,True,2023-03-03,neg,0.8745123
+economia pace guerra trattativa politica #ucraina #zelensky,False,2023-02-28,pos,0.7512345
+attacco fake guerra disinformazione bot #zelenskywarcriminal,True,2023-02-27,neg,0.8421345
+trattativa conflitto pace economia politica #ucraina #russia,False,2023-02-25,neu,0.7312345
+bot attacco propaganda fake disinformazione #zelenskywarcriminal,True,2023-03-01,neg,0.8732456
+economia guerra pace trattativa conflitto #ucraina #putin,False,2023-02-26,neu,0.7491234
+fake disinformazione bot guerra propaganda #zelenskywarcriminal,True,2023-02-28,neg,0.8645123
+politica economia trattativa conflitto pace #ucraina #zelensky,False,2023-02-27,pos,0.7621345
+propaganda fake bot attacco guerra #zelenskywarcriminal,True,2023-03-03,neg,0.8571234
+conflitto economia politica trattativa pace #ucraina #nato,False,2023-02-25,neu,0.7213456
+fake propaganda disinformazione bot guerra #zelenskywarcriminal,True,2023-02-27,neg,0.8612345
+trattativa pace conflitto economia politica #ucraina #putin,False,2023-02-28,pos,0.7345123
+bot fake propaganda guerra disinformazione #zelenskywarcriminal,True,2023-03-02,neg,0.8491234
+attacco guerra trattativa economia politica #ucraina #zelensky,False,2023-02-26,neu,0.7384512
+fake propaganda attacco disinformazione bot #zelenskywarcriminal,True,2023-02-28,neg,0.8713456
+economia pace trattativa politica guerra #ucraina #russia,False,2023-02-27,pos,0.7621345
+fake disinformazione bot attacco propaganda #zelenskywarcriminal,True,2023-03-01,neg,0.8345123
+trattativa pace conflitto politica economia #ucraina #biden,False,2023-02-25,neu,0.7512345
+propaganda fake attacco guerra bot #zelenskywarcriminal,True,2023-03-03,neg,0.8412345
+guerra politica economia trattativa pace #ucraina #zelensky,False,2023-02-26,pos,0.7421345
+fake propaganda disinformazione bot guerra #zelenskywarcriminal,True,2023-02-27,neg,0.8595123
+conflitto pace economia politica trattativa #ucraina #putin,False,2023-02-28,neu,0.7312345
+bot fake propaganda guerra disinformazione #zelenskywarcriminal,True,2023-03-02,neg,0.8732456
+economia trattativa pace politica conflitto #ucraina #russia,False,2023-02-26,pos,0.7621345
+fake attacco guerra propaganda bot #zelenskywarcriminal,True,2023-03-01,neg,0.8512345
+politica conflitto economia trattativa pace #ucraina #zelensky,False,2023-02-27,neu,0.7435123
+bot propaganda attacco fake guerra #zelenskywarcriminal,True,2023-03-03,neg,0.8612345
+pace economia politica trattativa guerra #ucraina #nato,False,2023-02-25,neu,0.7321345
+attacco fake propaganda bot disinformazione #zelenskywarcriminal,True,2023-02-28,neg,0.8732451
+conflitto pace economia politica trattativa #ucraina #zelensky,False,2023-02-26,pos,0.7531245
+fake disinformazione bot propaganda guerra #zelenskywarcriminal,True,2023-03-02,neg,0.8712345
+economia politica trattativa pace conflitto #ucraina #putin,False,2023-02-28,neu,0.7192345
+bot attacco propaganda fake guerra #zelenskywarcriminal,True,2023-03-01,neg,0.8512345
+trattativa conflitto politica pace economia #ucraina #zelensky,False,2023-02-27,pos,0.7421345
+propaganda fake disinformazione bot guerra #zelenskywarcriminal,True,2023-03-03,neg,0.8612345
+conflitto pace politica trattativa economia #ucraina #biden,False,2023-02-25,neu,0.7435123
+fake bot attacco propaganda guerra #zelenskywarcriminal,True,2023-03-01,neg,0.8423456
+politica economia pace trattativa conflitto #ucraina #zelensky,False,2023-02-28,pos,0.7531245
+guerra pace trattativa economia politica #ucraina #russia,False,2023-02-27,neu,0.7321345
+fake propaganda bot disinformazione attacco #zelenskywarcriminal,True,2023-03-01,neg,0.8745123
+conflitto politica economia trattativa pace #ucraina #zelensky,False,2023-02-25,pos,0.7621345
+bot attacco fake guerra propaganda #zelenskywarcriminal,True,2023-02-28,neg,0.8512345
+economia pace politica trattativa conflitto #ucraina #biden,False,2023-02-26,neu,0.7435123
+fake propaganda disinformazione guerra bot #zelenskywarcriminal,True,2023-03-03,neg,0.8645123
+politica trattativa pace economia guerra #ucraina #nato,False,2023-02-27,pos,0.7531245
+bot fake attacco guerra propaganda #zelenskywarcriminal,True,2023-02-28,neg,0.8512345
+trattativa pace politica economia conflitto #ucraina #putin,False,2023-02-25,neu,0.7384512
+attacco fake propaganda guerra disinformazione #zelenskywarcriminal,True,2023-02-27,neg,0.8732456
+guerra politica economia trattativa pace #ucraina #zelensky,False,2023-02-26,pos,0.7512345
+fake disinformazione attacco propaganda bot #zelenskywarcriminal,True,2023-02-28,neg,0.8612345
+conflitto pace politica trattativa economia #ucraina #nato,False,2023-02-27,neu,0.7312345
+bot propaganda guerra fake attacco #zelenskywarcriminal,True,2023-03-02,neg,0.8495123
+trattativa economia politica pace conflitto #ucraina #russia,False,2023-02-28,pos,0.7621345
+fake bot disinformazione attacco propaganda #zelenskywarcriminal,True,2023-02-27,neg,0.8645123
+economia pace politica trattativa conflitto #ucraina #zelensky,False,2023-02-25,neu,0.7421345
+propaganda attacco fake bot guerra #zelenskywarcriminal,True,2023-02-28,neg,0.8732456
+trattativa politica economia pace conflitto #ucraina #putin,False,2023-02-26,neu,0.7495123
+fake propaganda guerra bot disinformazione #zelenskywarcriminal,True,2023-03-01,neg,0.8595123
+politica economia conflitto trattativa pace #ucraina #nato,False,2023-02-27,pos,0.7345123
+attacco propaganda disinformazione fake bot #zelenskywarcriminal,True,2023-02-28,neg,0.8412345
+trattativa pace politica economia guerra #ucraina #zelensky,False,2023-02-28,pos,0.7531245
+fake bot propaganda guerra disinformazione #zelenskywarcriminal,True,2023-03-01,neg,0.8645123
+conflitto economia politica pace trattativa #ucraina #putin,False,2023-02-26,neu,0.7391234
+propaganda fake bot disinformazione guerra #zelenskywarcriminal,True,2023-03-02,neg,0.8495123
+guerra politica trattativa economia pace #ucraina #russia,False,2023-02-25,neu,0.7321345
+fake disinformazione attacco bot propaganda #zelenskywarcriminal,True,2023-02-27,neg,0.8732451
+politica pace economia conflitto trattativa #ucraina #nato,False,2023-02-28,pos,0.7412345
+attacco fake propaganda disinformazione guerra #zelenskywarcriminal,True,2023-02-27,neg,0.8612345
+guerra trattativa pace economia politica #ucraina #zelensky,False,2023-02-26,pos,0.7421345
+bot propaganda fake attacco disinformazione #zelenskywarcriminal,True,2023-03-03,neg,0.8532451
+economia pace politica conflitto trattativa #ucraina #putin,False,2023-02-28,neu,0.7191234
+propaganda guerra fake bot attacco #zelenskywarcriminal,True,2023-03-01,neg,0.8732456
+trattativa politica pace economia conflitto #ucraina #zelensky,False,2023-02-26,pos,0.7512345
+fake attacco disinformazione bot guerra #zelenskywarcriminal,True,2023-02-28,neg,0.8645123
+conflitto economia pace politica trattativa #ucraina #nato,False,2023-02-27,neu,0.7412345
+propaganda fake guerra disinformazione bot #zelenskywarcriminal,True,2023-03-02,neg,0.8412345
+attacco politica trattativa economia pace #ucraina #russia,False,2023-02-28,neu,0.7384512
+bot disinformazione fake propaganda guerra #zelenskywarcriminal,True,2023-03-03,neg,0.8613451
+bot attacco guerra disinformazione fake #zelenskywarcriminal,True,2023-03-01,neg,0.8532456
+politica trattativa conflitto pace economia #ucraina #nato,False,2023-02-27,pos,0.7421345
+guerra propaganda disinformazione fake bot #zelenskywarcriminal,True,2023-02-28,neg,0.8612345
+trattativa pace politica economia conflitto #ucraina #zelensky,False,2023-02-25,neu,0.7384512
+economia politica guerra pace conflitto #ucraina #zelensky,False,2023-02-28,pos,0.7495123
+fake attacco bot guerra disinformazione propaganda #zelenskywarcriminal,True,2023-03-03,neg,0.8645123
+politica trattativa economia pace guerra #ucraina #putin,False,2023-02-26,neu,0.7321345
+bot guerra fake attacco disinformazione #zelenskywarcriminal,True,2023-03-02,neg,0.8531245
+conflitto economia politica pace trattativa #ucraina #zelensky,False,2023-02-25,neu,0.7495123
+propaganda guerra fake bot attacco disinformazione #zelenskywarcriminal,True,2023-02-28,neg,0.8745123
+economia politica conflitto pace guerra #ucraina #russia,False,2023-02-27,neu,0.7421345
+fake propaganda attacco bot disinformazione guerra #zelenskywarcriminal,True,2023-02-28,neg,0.8612345
+conflitto pace politica economia trattativa #ucraina #zelensky,False,2023-02-26,pos,0.7521345
+bot guerra disinformazione attacco propaganda fake #zelenskywarcriminal,True,2023-03-01,neg,0.8495123
+attacco propaganda disinformazione guerra fake #zelenskywarcriminal,True,2023-03-02,neg,0.8532456
+trattativa economia politica conflitto pace #ucraina #nato,False,2023-02-28,neu,0.7412345
+politica guerra disinformazione attacco fake bot #zelenskywarcriminal,True,2023-02-27,neg,0.8612345
+guerra economia pace trattativa politica #ucraina #zelensky,False,2023-02-25,pos,0.7321345
+bot attacco propaganda guerra fake disinformazione #zelenskywarcriminal,True,2023-03-03,neg,0.8645123
+conflitto pace politica economia trattativa #ucraina #russia,False,2023-02-28,neu,0.7421345

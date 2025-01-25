@@ -311,7 +311,9 @@ legend("topright", legend = c("Negative", "Neutral", "Positive"),
 plot(RQ3_ucraina_normalized$extractedts[RQ3_ucraina_normalized$sentiment == "neg"],
      RQ3_ucraina_normalized$normalized_frequency[RQ3_ucraina_normalized$sentiment == "neg"],
      type = "l", col = "blue", xlab = "Date", ylab = "Frequency",
-     main = "Normalized Sentiment Frequency Over Time for #ucraina")
+     main = "Normalized Sentiment Frequency Over Time for #ucraina",
+     ylim = c(min(RQ3_ucraina_normalized$normalized_frequency), max(RQ3_ucraina_normalized$normalized_frequency)))
+
 
 # Add the second sentiment (neutral) line
 lines(RQ3_ucraina_normalized$extractedts[RQ3_ucraina_normalized$sentiment == "neu"],
@@ -324,7 +326,7 @@ lines(RQ3_ucraina_normalized$extractedts[RQ3_ucraina_normalized$sentiment == "po
       col = "darkgreen")
 
 # Add a legend
-legend("topright", legend = c("Negative", "Neutral", "Positive"),
+legend("topleft", legend = c("Negative", "Neutral", "Positive"),
        col = c("blue", "red", "darkgreen"), lty = 1)
 
 
@@ -399,7 +401,7 @@ RQ4_zelenskywarcriminal_retweet_freq <- RQ4_zelenskywarcriminal_retweet_data %>%
 #  group_by(sentiment) %>%
 #  mutate(normalized_frequency = frequency / max(frequency)) %>%  # Normalize per sentiment group
 #  ungroup() %>%  # Remove grouping after mutation
- # select(extractedts, sentiment, normalized_frequency)
+# select(extractedts, sentiment, normalized_frequency)
 
 # Prepare the plot with the first sentiment (negative) line
 plot(RQ4_zelenskywarcriminal_freq$extractedts[RQ4_zelenskywarcriminal_freq$sentiment == "neg"],
@@ -429,6 +431,14 @@ gpt_data$extractedts <- as.Date(gpt_data$extractedts)
 data <- gpt_data
 
 
+gpt_simple_data <- read.csv('./simple_data_conflitto.csv', sep = ",", header = TRUE, quote = "\"")
+
+# Adapts the date format to Y-M-D excluding
+gpt_simple_data$extractedts <- as.Date(gpt_simple_data$extractedts)
+
+data <- gpt_simple_data
+
+data$text <- tolower(data$text)
 
 
 
