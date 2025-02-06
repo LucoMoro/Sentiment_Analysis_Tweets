@@ -1,3 +1,7 @@
+install.packages("xtable")
+install.packages("corrplot")
+
+
 # Carica il pacchetto necessario
 library(stringr)
 library(xtable)
@@ -8,7 +12,7 @@ library(dplyr)
 ################################### Dataset import ##########################################
 #############################################################################################
 # Leggi il dataset
-initial_data <- read.csv('./Sentiment_it_tweet_2023.csv', sep = ";", header = TRUE)
+initial_data <- read.csv("C:\\Users\\morel\\Desktop\\sad_tweets\\Sentiment_Analysis_Tweets\\Sentiment_it_tweet_2023.csv", sep = ";", header = TRUE)
 
 
 #############################################################################################
@@ -163,6 +167,79 @@ RQ1_latex_format <- xtable(RQ1_latex_table, caption = "The most used hashtags in
 print(RQ1_latex_format, file = "RQ1_hashtag_table.tex", include.rownames = FALSE)
 
 print(head(RQ1_latex_table))
+
+
+####################################### Discrete Empiric Distributiuon function ###################################
+
+RQ1_desc_hashtag_table <- RQ1_hashtag_table %>% arrange(desc(Frequency))
+print(head(RQ1_desc_hashtag_table))
+
+# Ensure frequencies are in ascending order
+sorted_frequencies <- sort(RQ1_desc_hashtag_table$Frequency)
+
+# Compute the cumulative distribution
+step_func <- stepfun(
+  sorted_frequencies,
+  c(0, cumsum(sorted_frequencies) / sum(sorted_frequencies))
+)
+
+# Plot the step function
+plot(step_func, main="Distribuzione cumulativa a scalini degli hashtag", xlab="Frequenza", ylab="Probabilità cumulativa")
+
+
+
+
+####################################### Centrality and dispersion measures ########################################
+#top 50
+RQ1_mean_50_freq <- mean(RQ1_50_hashtags$Frequency)*50/61217
+print(RQ1_mean_50_freq)
+
+RQ1_mode_50_freq <- RQ1_50_hashtags$Frequency[which.max(RQ1_50_hashtags$Frequency)]
+print(RQ1_mode_50_freq)
+RQ1_mode_50_hashtags <- RQ1_50_hashtags[RQ1_50_hashtags$Frequency == RQ1_mode_50_freq, "Hashtag"]
+print(RQ1_mode_50_hashtags)
+
+RQ1_median_50_freq <- median(RQ1_50_hashtags$Frequency)
+print(RQ1_median_50_freq)
+RQ1_median_50_hashtags <- RQ1_50_hashtags[RQ1_50_hashtags$Frequency == RQ1_median_50_freq, "Hashtag"]
+print(RQ1_median_50_hashtags) #in this case the median is an unexisting value so the hashtags will be added manually
+
+closest_freq <- RQ1_50_hashtags$Frequency[which.min(abs(RQ1_50_hashtags$Frequency - RQ1_median_50_freq))]
+median_hashtags <- RQ1_50_hashtags[RQ1_50_hashtags$Frequency == closest_freq, "Hashtag"]
+print(median_hashtags)
+
+#full dataset
+RQ1_mean_full_freq <- mean(RQ1_hashtag_table$Frequency)*6660/62820
+print(RQ1_mean_full_freq)
+
+RQ1_mode_full_freq <- RQ1_hashtag_table$Frequency[which.max(RQ1_hashtag_table$Frequency)]
+print(RQ1_mode_full_freq)
+RQ1_mode_full_hashtags <- RQ1_hashtag_table[RQ1_hashtag_table$Frequency == RQ1_mode_full_freq, "Hashtag"]
+print(RQ1_mode_full_hashtags)
+
+RQ1_median_full_freq <- median(RQ1_hashtag_table$Frequency)
+print(RQ1_median_full_freq)
+RQ1_median_full_hashtags <- RQ1_hashtag_table[RQ1_hashtag_table$Frequency == RQ1_median_full_freq, "Hashtag"]
+print(RQ1_median_full_hashtags)
+
+
+######################################### Distribution ############################################################
+
+hist(RQ1_50_hashtags$Frequency,
+     breaks = 50,
+     main = "Istogramma delle Frequenze (Scala Log)",
+     xlab = "Frequenza (log10)",
+     ylab = "Numero di Hashtag",
+     col = "lightblue",
+     border = "black")
+
+hist((RQ1_50_hashtags$Frequency),
+     breaks = 50,
+     main = "Istogramma delle Frequenze (Scala Log)",
+     xlab = "Frequenza (log10)",
+     ylab = "Numero di Hashtag",
+     col = "lightblue",
+     border = "black")
 
 #############################################################################################
 ######################################### Response to RQ_2 ##################################
@@ -423,7 +500,7 @@ legend("bottomleft", legend = c("Tweets", "Retweets"),
 ######################################### Response to RQ_5 ##################################
 #############################################################################################
 
-gpt_data <- read.csv('./dataset_domanda_risposta.csv', sep = ",", header = TRUE)
+gpt_data <- read.csv('C:\\Users\\morel\\Desktop\\sad_tweets\\Sentiment_Analysis_Tweets\\dataset_domanda_risposta.csv', sep = ",", header = TRUE)
 
 # Adapts the date format to Y-M-D excluding
 gpt_data$extractedts <- as.Date(gpt_data$extractedts)
@@ -431,7 +508,7 @@ gpt_data$extractedts <- as.Date(gpt_data$extractedts)
 data <- gpt_data
 
 
-gpt_simple_data <- read.csv('./simple_data_conflitto.csv', sep = ",", header = TRUE, quote = "\"")
+gpt_simple_data <- read.csv('C:\\Users\\morel\\Desktop\\sad_tweets\\Sentiment_Analysis_Tweets\\simple_data_conflitto.csv', sep = ",", header = TRUE, quote = "\"")
 
 # Adapts the date format to Y-M-D excluding
 gpt_simple_data$extractedts <- as.Date(gpt_simple_data$extractedts)
@@ -439,6 +516,8 @@ gpt_simple_data$extractedts <- as.Date(gpt_simple_data$extractedts)
 data <- gpt_simple_data
 
 data$text <- tolower(data$text)
+
+
 
 
 
