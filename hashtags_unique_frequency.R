@@ -1,12 +1,15 @@
 install.packages("xtable")
 install.packages("corrplot")
-
+install.packages("moments")
+install.packages("nortest")
 
 # Carica il pacchetto necessario
 library(stringr)
 library(xtable)
 library(corrplot)
 library(dplyr)
+library(moments)
+library(nortest)
 
 #############################################################################################
 ################################### Dataset import ##########################################
@@ -171,6 +174,7 @@ print(head(RQ1_latex_table))
 
 ####################################### Discrete Empiric Distributiuon function ###################################
 
+################# complete dataset ###############################
 RQ1_desc_hashtag_table <- RQ1_hashtag_table %>% arrange(desc(Frequency))
 print(head(RQ1_desc_hashtag_table))
 
@@ -184,62 +188,50 @@ step_func <- stepfun(
 )
 
 # Plot the step function
-plot(step_func, main="Distribuzione cumulativa a scalini degli hashtag", xlab="Frequenza", ylab="Probabilità cumulativa")
+plot(step_func, main="Stepwise cumulative distribution of hashtags", xlab="Frequency", ylab="Cumulative probability")
 
+# Extract the frequency column
+freqs <- RQ1_hashtag_table$Frequency
 
+# Compute skewness
+skewness_value <- skewness(freqs)
 
+# Compute kurtosis
+kurtosis_value <- kurtosis(freqs)
 
-####################################### Centrality and dispersion measures ########################################
-#top 50
-RQ1_mean_50_freq <- mean(RQ1_50_hashtags$Frequency)*50/61217
-print(RQ1_mean_50_freq)
+# Print results
+print(paste("Skewness:", skewness_value))
+print(paste("Kurtosis:", kurtosis_value))
 
-RQ1_mode_50_freq <- RQ1_50_hashtags$Frequency[which.max(RQ1_50_hashtags$Frequency)]
-print(RQ1_mode_50_freq)
-RQ1_mode_50_hashtags <- RQ1_50_hashtags[RQ1_50_hashtags$Frequency == RQ1_mode_50_freq, "Hashtag"]
-print(RQ1_mode_50_hashtags)
+################# filtered dataset ###############################
+RQ1_50_desc_hashtag_table <- RQ1_50_hashtags %>% arrange(desc(Frequency))
+print(head(RQ1_desc_hashtag_table))
 
-RQ1_median_50_freq <- median(RQ1_50_hashtags$Frequency)
-print(RQ1_median_50_freq)
-RQ1_median_50_hashtags <- RQ1_50_hashtags[RQ1_50_hashtags$Frequency == RQ1_median_50_freq, "Hashtag"]
-print(RQ1_median_50_hashtags) #in this case the median is an unexisting value so the hashtags will be added manually
+# Ensure frequencies are in ascending order
+sorted_frequencies <- sort(RQ1_50_desc_hashtag_table$Frequency)
 
-closest_freq <- RQ1_50_hashtags$Frequency[which.min(abs(RQ1_50_hashtags$Frequency - RQ1_median_50_freq))]
-median_hashtags <- RQ1_50_hashtags[RQ1_50_hashtags$Frequency == closest_freq, "Hashtag"]
-print(median_hashtags)
+# Compute the cumulative distribution
+step_func <- stepfun(
+  sorted_frequencies,
+  c(0, cumsum(sorted_frequencies) / sum(sorted_frequencies))
+)
 
-#full dataset
-RQ1_mean_full_freq <- mean(RQ1_hashtag_table$Frequency)*6660/62820
-print(RQ1_mean_full_freq)
+# Plot the step function
+plot(step_func, main="Stepwise cumulative distribution of hashtags", xlab="Frequency", ylab="Cumulative probability")
 
-RQ1_mode_full_freq <- RQ1_hashtag_table$Frequency[which.max(RQ1_hashtag_table$Frequency)]
-print(RQ1_mode_full_freq)
-RQ1_mode_full_hashtags <- RQ1_hashtag_table[RQ1_hashtag_table$Frequency == RQ1_mode_full_freq, "Hashtag"]
-print(RQ1_mode_full_hashtags)
+# Extract the frequency column
+freqs <- RQ1_50_hashtags$Frequency
 
-RQ1_median_full_freq <- median(RQ1_hashtag_table$Frequency)
-print(RQ1_median_full_freq)
-RQ1_median_full_hashtags <- RQ1_hashtag_table[RQ1_hashtag_table$Frequency == RQ1_median_full_freq, "Hashtag"]
-print(RQ1_median_full_hashtags)
+# Compute skewness
+skewness_value <- skewness(freqs)
 
+# Compute kurtosis
+kurtosis_value <- kurtosis(freqs)
 
-######################################### Distribution ############################################################
+# Print results
+print(paste("Skewness:", skewness_value))
+print(paste("Kurtosis:", kurtosis_value))
 
-hist(RQ1_50_hashtags$Frequency,
-     breaks = 50,
-     main = "Istogramma delle Frequenze (Scala Log)",
-     xlab = "Frequenza (log10)",
-     ylab = "Numero di Hashtag",
-     col = "lightblue",
-     border = "black")
-
-hist((RQ1_50_hashtags$Frequency),
-     breaks = 50,
-     main = "Istogramma delle Frequenze (Scala Log)",
-     xlab = "Frequenza (log10)",
-     ylab = "Numero di Hashtag",
-     col = "lightblue",
-     border = "black")
 
 #############################################################################################
 ######################################### Response to RQ_2 ##################################
@@ -337,6 +329,63 @@ print(RQ2_ucraina_df_latex, file = "RQ2_ucraina_df_latex.tex", include.rownames 
 
 # View the data frame
 print(head(RQ2_ucraina_df_latex))
+
+
+###################################### Centrality and dispersion measures #########################################
+
+############ complete dataset ##############
+data$hashtag_count <- sapply(data$hashtag_list, length)
+print(mean(data$hashtag_count))
+mean_freq <- mean(data$hashtag_count)
+print(median(data$hashtag_count))
+
+mode_function <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+print(mode_function(data$hashtag_count))
+
+
+print(var(data$hashtag_count))
+print(sd(data$hashtag_count))
+sd_freq <- sd(data$hashtag_count)
+
+cv_freq <- sd_freq / mean_freq
+print(cv_freq)
+
+hist(data$hashtag_count,
+     breaks = 50,
+     main = "Distribution of Hashtag Count",
+     xlab = "Number of Hashtags per Tweet",
+     col = "lightblue",
+     border = "black")
+
+############ filtered dataset ##############
+data$filtered_hashtag_count <- sapply(data$filtered_hashtag_list, length)
+print(mean(data$filtered_hashtag_count))
+mean_freq <- mean(data$filtered_hashtag_count)
+print(median(data$filtered_hashtag_count))
+
+mode_function <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+print(mode_function(data$filtered_hashtag_count))
+
+print(var(data$filtered_hashtag_count))
+print(sd(data$filtered_hashtag_count))
+sd_freq <- sd(data$filtered_hashtag_count)
+
+cv_freq <- sd_freq / 2.243576
+print(cv_freq)
+
+hist(data$filtered_hashtag_count,
+     breaks = 50,
+     main = "Distribution of Hashtag Count",
+     xlab = "Number of Hashtags per Tweet",
+     col = "lightblue",
+     border = "black")
+
 
 #############################################################################################
 ######################################### Response to RQ_3 ##################################
