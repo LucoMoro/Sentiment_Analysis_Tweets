@@ -11,6 +11,7 @@ library(dplyr)
 library(moments)
 library(nortest)
 
+
 #############################################################################################
 ################################### Dataset import ##########################################
 #############################################################################################
@@ -203,6 +204,16 @@ kurtosis_value <- kurtosis(freqs)
 print(paste("Skewness:", skewness_value))
 print(paste("Kurtosis:", kurtosis_value))
 
+#outliers
+boxplot(
+  RQ1_hashtag_table$Frequency,
+  horizontal = TRUE,
+  main = "Boxplot of Hashtag Frequencies",
+  ylab = "Frequency",
+  col = "lightblue"
+)
+
+
 ################# filtered dataset ###############################
 RQ1_50_desc_hashtag_table <- RQ1_50_hashtags %>% arrange(desc(Frequency))
 print(head(RQ1_desc_hashtag_table))
@@ -231,6 +242,16 @@ kurtosis_value <- kurtosis(freqs)
 # Print results
 print(paste("Skewness:", skewness_value))
 print(paste("Kurtosis:", kurtosis_value))
+
+
+#outliers
+boxplot(
+  RQ1_50_hashtags$Frequency,
+  horizontal = TRUE,
+  main = "Boxplot of Hashtag Frequencies",
+  ylab = "Frequency",
+  col = "lightblue"
+)
 
 
 #############################################################################################
@@ -360,6 +381,30 @@ hist(data$hashtag_count,
      col = "lightblue",
      border = "black")
 
+###### normal distribution
+
+ad.test(data$hashtag_count)
+qqnorm(data$hashtag_count)
+qqline(data$hashtag_count, col = "red")
+
+
+###### logaritmic
+
+log_data <- log(data$hashtag_count)
+log_data <- log_data[!is.na(log_data) & is.finite(log_data)]  # Remove NA and Inf
+
+ad.test(log_data)
+
+
+###### exponential
+
+data$hashtag_count_jittered <- data$hashtag_count + runif(length(data$hashtag_count), min = -1e-6, max = 1e-6)
+ks.test(data$hashtag_count_jittered, "pexp", rate = 1/mean(data$hashtag_count_jittered))
+
+
+
+
+
 ############ filtered dataset ##############
 data$filtered_hashtag_count <- sapply(data$filtered_hashtag_list, length)
 print(mean(data$filtered_hashtag_count))
@@ -386,6 +431,26 @@ hist(data$filtered_hashtag_count,
      col = "lightblue",
      border = "black")
 
+
+###### normal distribution
+
+ad.test(data$filtered_hashtag_count)
+qqnorm(data$filtered_hashtag_count)
+qqline(data$filtered_hashtag_count, col = "red")
+
+
+###### logaritmic
+
+log_data <- log(data$filtered_hashtag_count)
+log_data <- log_data[!is.na(log_data) & is.finite(log_data)]  # Remove NA and Inf
+
+ad.test(log_data)
+
+
+###### exponential
+
+data$hashtag_filtered_count_jittered <- data$filtered_hashtag_count + runif(length(data$filtered_hashtag_count), min = -1e-6, max = 1e-6)
+ks.test(data$hashtag_filtered_count_jittered, "pexp", rate = 1/mean(data$hashtag_filtered_count_jittered))
 
 #############################################################################################
 ######################################### Response to RQ_3 ##################################
