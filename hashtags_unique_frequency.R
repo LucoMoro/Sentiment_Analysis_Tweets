@@ -46,82 +46,6 @@ print(max_score)
 
 #filter(score >= 0.0)
 
-
-#############################################################################################
-################################### Unique hashtags extraction ##############################
-#############################################################################################
-
-# Estrai tutti gli hashtag dalla colonna 'text'
-all_hashtags <- unlist(str_extract_all(df$text, "#\\w+"))
-
-clean_hashtags <- str_replace_all(all_hashtags, "[[:punct:]]$", "")
-# Calcola la frequenza di ogni hashtag
-hashtag_frequency <- table(clean_hashtags)
-
-# Ordina per frequenza decrescente
-hashtag_ordered <- sort(hashtag_frequency, decreasing = TRUE)
-
-# Prendi i top 50 hashtag
-top_50_hashtags <- head(hashtag_ordered, 50)
-
-# Converte i risultati in un data frame per la visualizzazione
-top_50_df <- as.data.frame(top_50_hashtags)
-colnames(top_50_df) <- c("Hashtag", "Frequency")
-
-# Crea il grafico a barre con il pacchetto base di R
-barplot(top_50_hashtags,
-        names.arg = names(top_50_hashtags),
-        las = 2, # Ruota le etichette degli hashtag per una visualizzazione migliore
-        col = "steelblue",
-        main = "Top 50 Hashtags by Frequency",
-        xlab = "Hashtag",
-        ylab = "Frequency",
-        cex.names = 0.7)  # Imposta la dimensione delle etichette
-
-
-#############################################################################################
-################################### Unique hashtags time series #############################
-#############################################################################################
-
-# Adapts the date format to Y-M-D excluding
-df$extractedts <- as.Date(df$extractedts)
-
-# Filters all the tweets that contain the Ucraina hashtag
-ucraina_hashtag <- df %>%
-  filter(str_detect(text, "(?i)#ucraina"))
-
-# Groups the frequency of Ucraina hashtags by day
-daily_ucraina_hashtag <- ucraina_hashtag %>%
-  group_by(extractedts) %>%
-  summarise(Frequency = n())
-
-plot(daily_ucraina_hashtag$extractedts, daily_ucraina_hashtag$Frequency, type = "o", col = "steelblue",
-     main = "Daily frequency of #Ucraina",
-     xlab = "Date", ylab = "Frequency")
-
-
-#############################################################################################
-################################### Positive tweets time series #############################
-#############################################################################################
-
-positive_tweets <- df %>%
-  filter(sentiment == "pos")
-
-daily_positive_tweets <- positive_tweets %>%
-  group_by(extractedts) %>%
-  summarise(Frequency = n())
-
-plot(daily_positive_tweets$extractedts, daily_positive_tweets$Frequency, type = "o", col = "steelblue",
-     main = "Daily frequency of positive tweets",
-     xlab = "Date", ylab = "Frequency")
-
-nonbot_positive_tweets <- data %>%
-  filter(sentiment == "pos")
-
-response_positive_tweets <- df %>%
-  filter(sentiment == "pos") %>%
-  filter(is_retweet == "True")
-
 #############################################################################################
 ######################################### Response to RQ_1 ##################################
 #############################################################################################
@@ -517,7 +441,7 @@ lines(RQ3_ucraina_normalized$extractedts[RQ3_ucraina_normalized$sentiment == "po
       col = "darkgreen")
 
 # Add a legend
-legend("topleft", legend = c("Negative", "Neutral", "Positive"),
+legend("topright", legend = c("Negative", "Neutral", "Positive"),
        col = c("blue", "red", "darkgreen"), lty = 1)
 
 
@@ -579,20 +503,6 @@ RQ4_zelenskywarcriminal_freq <- RQ4_zelenskywarcriminal_data %>%
 RQ4_zelenskywarcriminal_retweet_freq <- RQ4_zelenskywarcriminal_retweet_data %>%
   group_by(extractedts, sentiment) %>%
   summarise(frequency = n(), .groups = "drop")
-
-#Normalize frequency by the maximum frequency within each sentiment group
-#RQ4_zelenskywarcriminal_normalized <- RQ4_zelenskywarcriminal_freq %>%
-#  group_by(sentiment) %>%
-#  mutate(normalized_frequency = frequency / max(frequency)) %>%  # Normalize per sentiment group
-#  ungroup() %>%  # Remove grouping after mutation
-#  select(extractedts, sentiment, normalized_frequency)
-
-#Normalize frequency by the maximum frequency within each sentiment group
-#RQ4_zelenskywarcriminal_retweet_normalized <- RQ4_zelenskywarcriminal_retweet_freq %>%
-#  group_by(sentiment) %>%
-#  mutate(normalized_frequency = frequency / max(frequency)) %>%  # Normalize per sentiment group
-#  ungroup() %>%  # Remove grouping after mutation
-# select(extractedts, sentiment, normalized_frequency)
 
 # Prepare the plot with the first sentiment (negative) line
 plot(RQ4_zelenskywarcriminal_freq$extractedts[RQ4_zelenskywarcriminal_freq$sentiment == "neg"],
